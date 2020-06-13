@@ -1,0 +1,1824 @@
+
+
+<!DOCTYPE html>
+<html lang="pt" id="responsive-news">
+<head  prefix="og: http://ogp.me/ns#">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Coronavírus: o site que mostra se você mora em área de risco de covid-19 - BBC News Brasil</title>
+    <meta name="description" content="Projeto colaborativo criado por estudante de Medicina está mapeando infecções no Brasil e criando base de dados que depois poderá ser usada em pesquisas sobre pandemia.">
+    <link rel="preload" as="style" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/compact.css" media="(max-width: 599px)">
+    <link rel="preload" as="style" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/tablet.css" media="(min-width: 600px) and (max-width: 1007px)">
+    <link rel="preload" as="style" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/wide.css" media="(min-width: 1008px)">
+
+            <script> window.orb_fig_blocking = true; </script>
+    
+            <link rel="preload" as="script" href="//fig.bbc.co.uk/frameworks/fig/2/fig.js?callback=orb.orb_fig">
+    
+    <link href="//static.bbci.co.uk" rel="preconnect" crossorigin>
+    <link href="//static.bbc.co.uk" rel="preconnect" crossorigin>
+    <link href="//nav.files.bbci.co.uk" rel="preconnect" crossorigin>
+    <link href="//ichef.bbci.co.uk" rel="preconnect" crossorigin>
+
+    <link rel="dns-prefetch" href="//ssl.bbc.co.uk/">
+    <link rel="dns-prefetch" href="//sa.bbc.co.uk/">
+    <link rel="dns-prefetch" href="//ichef.bbci.co.uk/">
+
+    <link rel="dns-prefetch" href="//static.bbci.co.uk">
+    <link rel="dns-prefetch" href="//static.bbc.co.uk">
+    <link rel="dns-prefetch" href="//nav.files.bbci.co.uk">
+
+    <link rel="dns-prefetch" href="//edigitalsurvey.com">
+
+    <meta name="x-country" content="br">
+    <meta name="x-audience" content="International">
+    <meta name="CPS_AUDIENCE" content="International">
+    <meta name="CPS_CHANGEQUEUEID" content="158260321">
+    <link rel="canonical" href="https://www.bbc.com/portuguese/brasil-52855085">
+    <link rel="amphtml" href="https://www.bbc.com/portuguese/amp/brasil-52855085">
+
+                <meta property="og:title" content="Coronavírus: o site que mostra se você mora em área de risco de covid-19" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="Projeto colaborativo criado por estudante de Medicina está mapeando infecções no Brasil e criando base de dados que depois poderá ser usada em pesquisas sobre pandemia." />
+    <meta property="og:site_name" content="BBC News Brasil" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="article:author" content="https://www.facebook.com/bbcnews" />
+    <meta property="article:section" content="Brasil" />
+    <meta property="og:url" content="https://www.bbc.com/portuguese/brasil-52855085" />
+    <meta property="og:image" content="https://ichef.bbci.co.uk/news/1024/branded_portuguese/8A43/production/_112559353_c1a757aa-1aeb-4d77-8135-597f521851ae.jpg" />
+    <meta property="og:image:alt" content="BBC News Brasil. Mapa de São Paulo com indicações de casos de covid-19" />
+    <meta property="fb:pages" content="285361880228,192168680794107,9432520138,347501767628,264572343581678,303522857815,166580710064489,592266607456680,260669183761,160817274042538,236659822607,237647452933504,10150118096995434,113097918700687,143048895744759,81395234664,207150596007088,167959249906191,64040652712,190992343324,103678496456574,367167334474,160894643929209,186742265162,1526071940947174,230299653821,124158667615790,126548377386804,298318986864908,1068750829805728,228458913833525,163571453661989,660673490805047,948946275170651" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@bbcbrasil">
+    <meta name="twitter:title" content="Coronavírus: o site que mostra se você mora em área de risco de covid-19">
+    <meta name="twitter:description" content="Projeto colaborativo criado por estudante de Medicina está mapeando infecções no Brasil e criando base de dados que depois poderá ser usada em pesquisas sobre pandemia.">
+    <meta name="twitter:creator" content="@bbcbrasil">
+    <meta name="twitter:image:src" content="https://ichef.bbci.co.uk/news/1024/branded_portuguese/8A43/production/_112559353_c1a757aa-1aeb-4d77-8135-597f521851ae.jpg">
+    <meta name="twitter:image:alt" content="Mapa de São Paulo com indicações de casos de covid-19" />
+    <meta name="twitter:domain" content="www.bbc.com">
+
+    <script type="application/ld+json">
+    {"@context":"http:\/\/schema.org","@type":"ReportageNewsArticle","url":"https:\/\/www.bbc.com\/portuguese\/brasil-52855085","publisher":{"@type":"NewsMediaOrganization","name":"BBC News Brasil","publishingPrinciples":"http:\/\/www.bbc.co.uk\/news\/help-41670342","logo":{"@type":"ImageObject","url":"https:\/\/news.files.bbci.co.uk\/ws\/img\/logos\/og\/brasil.png"}},"datePublished":"2020-06-02T08:36:47-03:00","dateModified":"2020-06-02T08:36:47-03:00","headline":"Coronav\u00edrus: o site que mostra se voc\u00ea mora em \u00e1rea de risco de covid-19","image":{"@type":"ImageObject","width":720,"height":405,"url":"https:\/\/ichef.bbci.co.uk\/news\/720\/cpsprodpb\/8A43\/production\/_112559353_c1a757aa-1aeb-4d77-8135-597f521851ae.jpg"},"thumbnailUrl":"https:\/\/ichef.bbci.co.uk\/news\/208\/cpsprodpb\/8A43\/production\/_112559353_c1a757aa-1aeb-4d77-8135-597f521851ae.jpg","author":{"@type":"Person","name":"Christian Jarrett"},"mainEntityOfPage":"https:\/\/www.bbc.com\/portuguese\/brasil-52855085"}
+    </script>
+
+
+                        
+    <meta name="apple-mobile-web-app-title" content="BBC News">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57"    href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72"    href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114"  href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144"  href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="https://static.bbc.co.uk/news/1.315.03594/web-app-launch-icon.png">
+
+<meta name="application-name" content="BBC News">
+<meta name="msapplication-TileImage" content="BBC News">
+<meta name="msapplication-TileColor" content="#bb1919">
+<meta name="mobile-web-app-capable" content="yes">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="robots" content="NOODP,NOYDIR" />
+        <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <script>
+        (function() {
+            if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var msViewportStyle = document.createElement("style");
+                msViewportStyle.appendChild(
+                    document.createTextNode("@-ms-viewport{width:auto!important}")
+                );
+                document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+            }
+        })();
+    </script>
+    
+    <script>window.fig = window.fig || {}; window.fig.async = true;</script>
+
+    <meta property="fb:app_id" content="1609039196070050" />
+
+    
+<!-- Environment: live -->
+<!-- Orbit: 3.0.0-946.da0a9581 -->
+<!-- Analytics Web Module: 0.0.2-459.c5461d9 -->
+<!-- NavID Web Module: 0.2.0-7.0a947fa -->
+<!-- User Activity Helper Web Module: 1.0.0-65.927eaa9 -->
+<!-- Cookie Banner Web Module: 0.0.2-459.c5461d9 -->
+<!-- Searchbox Web Module: 3.0.0-108.6b2277e -->
+<!-- Promo Web Module: 3.0.0-129.404c192 -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta property="fb:admins" content="100004154058350"><link rel="stylesheet" href="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/css/orb-ltr.min.css"><!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel="stylesheet" href="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/css/orb-ie-ltr.min.css">
+    <![endif]--><script type="text/javascript">/*<![CDATA[*/
+        window.orb = {
+            lang: 'pt-BR',
+            bbcBaseUrl: 'https://www.bbc.co.uk',
+            bbcUrlPrefix: 'https://www.',
+            staticHost: 'https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502',
+            figUrl: 'https://fig.bbc.co.uk/frameworks/fig/2/fig.js',
+            partialCookieOvenUrl: 'https://cookie-oven.api.bbc'
+        };
+
+        document.documentElement.className += (document.documentElement.className? ' ' : '') + 'orb-js';
+        window.orb.worldwideNavlinks = '';
+
+
+     /*]]>*/</script><script>// Promise polyfill from https://github.com/bramstein/promis
+        (function(){'use strict';var f,g=[];function l(a){g.push(a);1==g.length&&f()}function m(){for(;g.length;)g[0](),g.shift()}f=function(){setTimeout(m)};function n(a){this.a=p;this.b=void 0;this.f=[];var b=this;try{a(function(a){q(b,a)},function(a){r(b,a)})}catch(c){r(b,c)}}var p=2;function t(a){return new n(function(b,c){c(a)})}function u(a){return new n(function(b){b(a)})}function q(a,b){if(a.a==p){if(b==a)throw new TypeError;var c=!1;try{var d=b&&b.then;if(null!=b&&"object"==typeof b&&"function"==typeof d){d.call(b,function(b){c||q(a,b);c=!0},function(b){c||r(a,b);c=!0});return}}catch(e){c||r(a,e);return}a.a=0;a.b=b;v(a)}} function r(a,b){if(a.a==p){if(b==a)throw new TypeError;a.a=1;a.b=b;v(a)}}function v(a){l(function(){if(a.a!=p)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0==a.a?"function"==typeof c?e(c.call(void 0,a.b)):e(a.b):1==a.a&&("function"==typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}n.prototype.g=function(a){return this.c(void 0,a)};n.prototype.c=function(a,b){var c=this;return new n(function(d,e){c.f.push([a,b,d,e]);v(c)})}; function w(a){return new n(function(b,c){function d(c){return function(d){h[c]=d;e+=1;e==a.length&&b(h)}}var e=0,h=[];0==a.length&&b(h);for(var k=0;k<a.length;k+=1)u(a[k]).c(d(k),c)})}function x(a){return new n(function(b,c){for(var d=0;d<a.length;d+=1)u(a[d]).c(b,c)})};window.Promise||(window.Promise=n,window.Promise.resolve=u,window.Promise.reject=t,window.Promise.race=x,window.Promise.all=w,window.Promise.prototype.then=n.prototype.c,window.Promise.prototype["catch"]=n.prototype.g);}());
+    
+    
+        // Polyfill Event constructor for IE ref: https://jira.dev.bbc.co.uk/browse/ORBITEN-919
+        // see: https://stackoverflow.com/questions/26596123
+        (function () {
+          if (typeof window.CustomEvent === "function") {
+            return false;
+          }
+          function CustomEvent(event, params) {
+            params = params || { bubbles: false, cancelable: false, detail: undefined };
+            var evt = document.createEvent('CustomEvent');
+            evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+            return evt;
+          }
+          CustomEvent.prototype = window.Event.prototype;
+          window.Event = CustomEvent;
+        })();
+    
+    
+        //Element.prototype.matches polyfill
+        //from https://developer.mozilla.org/en-US/docs/Web/API/Element/matches#Polyfill
+        if (!Element.prototype.matches) {
+          Element.prototype.matches = Element.prototype.msMatchesSelector ||
+                                      Element.prototype.webkitMatchesSelector;
+        }
+        //NodeList.forEach Polyfill
+        //from https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach#Polyfill
+        if (window.NodeList && !NodeList.prototype.forEach) {
+          NodeList.prototype.forEach = Array.prototype.forEach;
+        }
+    
+        // Object.assign polyfill from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign#Polyfill
+        if (typeof Object.assign != 'function') {
+          // Must be writable: true, enumerable: false, configurable: true
+          Object.defineProperty(Object, "assign", {
+            value: function assign(target, varArgs) { // .length of function is 2
+              'use strict';
+              if (target == null) { // TypeError if undefined or null
+                throw new TypeError('Cannot convert undefined or null to object');
+              }
+    
+              var to = Object(target);
+    
+              for (var index = 1; index < arguments.length; index++) {
+                var nextSource = arguments[index];
+    
+                if (nextSource != null) { // Skip over if undefined or null
+                  for (var nextKey in nextSource) {
+                    // Avoid bugs when hasOwnProperty is shadowed
+                    if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+                      to[nextKey] = nextSource[nextKey];
+                    }
+                  }
+                }
+              }
+              return to;
+            },
+            writable: true,
+            configurable: true
+          });
+        }
+    
+        // window.fetch polyfill https://github.com/github/fetch/blob/v0.11.0/fetch.js - chosen for IE9 compatibility
+        if(typeof window.fetch !== 'function') {
+          (function(self){"use strict";if(self.fetch){return}function normalizeName(name){if(typeof name!=="string"){name=String(name)}if(/[^a-z0-9\-#$%&'*+.\^_`|~]/i.test(name)){throw new TypeError("Invalid character in header field name")}return name.toLowerCase()}function normalizeValue(value){if(typeof value!=="string"){value=String(value)}return value}function Headers(headers){this.map={};if(headers instanceof Headers){headers.forEach(function(value,name){this.append(name,value)},this)}else if(headers){Object.getOwnPropertyNames(headers).forEach(function(name){this.append(name,headers[name])},this)}}Headers.prototype.append=function(name,value){name=normalizeName(name);value=normalizeValue(value);var list=this.map[name];if(!list){list=[];this.map[name]=list}list.push(value)};Headers.prototype["delete"]=function(name){delete this.map[normalizeName(name)]};Headers.prototype.get=function(name){var values=this.map[normalizeName(name)];return values?values[0]:null};Headers.prototype.getAll=function(name){return this.map[normalizeName(name)]||[]};Headers.prototype.has=function(name){return this.map.hasOwnProperty(normalizeName(name))};Headers.prototype.set=function(name,value){this.map[normalizeName(name)]=[normalizeValue(value)]};Headers.prototype.forEach=function(callback,thisArg){Object.getOwnPropertyNames(this.map).forEach(function(name){this.map[name].forEach(function(value){callback.call(thisArg,value,name,this)},this)},this)};function consumed(body){if(body.bodyUsed){return Promise.reject(new TypeError("Already read"))}body.bodyUsed=true}function fileReaderReady(reader){return new Promise(function(resolve,reject){reader.onload=function(){resolve(reader.result)};reader.onerror=function(){reject(reader.error)}})}function readBlobAsArrayBuffer(blob){var reader=new FileReader;reader.readAsArrayBuffer(blob);return fileReaderReady(reader)}function readBlobAsText(blob){var reader=new FileReader;reader.readAsText(blob);return fileReaderReady(reader)}var support={blob:"FileReader"in self&&"Blob"in self&&function(){try{new Blob;return true}catch(e){return false}}(),formData:"FormData"in self,arrayBuffer:"ArrayBuffer"in self};function Body(){this.bodyUsed=false;this._initBody=function(body){this._bodyInit=body;if(typeof body==="string"){this._bodyText=body}else if(support.blob&&Blob.prototype.isPrototypeOf(body)){this._bodyBlob=body}else if(support.formData&&FormData.prototype.isPrototypeOf(body)){this._bodyFormData=body}else if(!body){this._bodyText=""}else if(support.arrayBuffer&&ArrayBuffer.prototype.isPrototypeOf(body)){}else{throw new Error("unsupported BodyInit type")}if(!this.headers.get("content-type")){if(typeof body==="string"){this.headers.set("content-type","text/plain;charset=UTF-8")}else if(this._bodyBlob&&this._bodyBlob.type){this.headers.set("content-type",this._bodyBlob.type)}}};if(support.blob){this.blob=function(){var rejected=consumed(this);if(rejected){return rejected}if(this._bodyBlob){return Promise.resolve(this._bodyBlob)}else if(this._bodyFormData){throw new Error("could not read FormData body as blob")}else{return Promise.resolve(new Blob([this._bodyText]))}};this.arrayBuffer=function(){return this.blob().then(readBlobAsArrayBuffer)};this.text=function(){var rejected=consumed(this);if(rejected){return rejected}if(this._bodyBlob){return readBlobAsText(this._bodyBlob)}else if(this._bodyFormData){throw new Error("could not read FormData body as text")}else{return Promise.resolve(this._bodyText)}}}else{this.text=function(){var rejected=consumed(this);return rejected?rejected:Promise.resolve(this._bodyText)}}if(support.formData){this.formData=function(){return this.text().then(decode)}}this.json=function(){return this.text().then(JSON.parse)};return this}var methods=["DELETE","GET","HEAD","OPTIONS","POST","PUT"];function normalizeMethod(method){var upcased=method.toUpperCase();return methods.indexOf(upcased)>-1?upcased:method}function Request(input,options){options=options||{};var body=options.body;if(Request.prototype.isPrototypeOf(input)){if(input.bodyUsed){throw new TypeError("Already read")}this.url=input.url;this.credentials=input.credentials;if(!options.headers){this.headers=new Headers(input.headers)}this.method=input.method;this.mode=input.mode;if(!body){body=input._bodyInit;input.bodyUsed=true}}else{this.url=input}this.credentials=options.credentials||this.credentials||"omit";if(options.headers||!this.headers){this.headers=new Headers(options.headers)}this.method=normalizeMethod(options.method||this.method||"GET");this.mode=options.mode||this.mode||null;this.referrer=null;if((this.method==="GET"||this.method==="HEAD")&&body){throw new TypeError("Body not allowed for GET or HEAD requests")}this._initBody(body)}Request.prototype.clone=function(){return new Request(this)};function decode(body){var form=new FormData;body.trim().split("&").forEach(function(bytes){if(bytes){var split=bytes.split("=");var name=split.shift().replace(/\+/g," ");var value=split.join("=").replace(/\+/g," ");form.append(decodeURIComponent(name),decodeURIComponent(value))}});return form}function headers(xhr){var head=new Headers;var pairs=xhr.getAllResponseHeaders().trim().split("\n");pairs.forEach(function(header){var split=header.trim().split(":");var key=split.shift().trim();var value=split.join(":").trim();head.append(key,value)});return head}Body.call(Request.prototype);function Response(bodyInit,options){if(!options){options={}}this.type="default";this.status=options.status;this.ok=this.status>=200&&this.status<300;this.statusText=options.statusText;this.headers=options.headers instanceof Headers?options.headers:new Headers(options.headers);this.url=options.url||"";this._initBody(bodyInit)}Body.call(Response.prototype);Response.prototype.clone=function(){return new Response(this._bodyInit,{status:this.status,statusText:this.statusText,headers:new Headers(this.headers),url:this.url})};Response.error=function(){var response=new Response(null,{status:0,statusText:""});response.type="error";return response};var redirectStatuses=[301,302,303,307,308];Response.redirect=function(url,status){if(redirectStatuses.indexOf(status)===-1){throw new RangeError("Invalid status code")}return new Response(null,{status:status,headers:{location:url}})};self.Headers=Headers;self.Request=Request;self.Response=Response;self.fetch=function(input,init){return new Promise(function(resolve,reject){var request;if(Request.prototype.isPrototypeOf(input)&&!init){request=input}else{request=new Request(input,init)}var xhr=new XMLHttpRequest;function responseURL(){if("responseURL"in xhr){return xhr.responseURL}if(/^X-Request-URL:/m.test(xhr.getAllResponseHeaders())){return xhr.getResponseHeader("X-Request-URL")}return}xhr.onload=function(){var status=xhr.status===1223?204:xhr.status;if(status<100||status>599){reject(new TypeError("Network request failed"));return}var options={status:status,statusText:xhr.statusText,headers:headers(xhr),url:responseURL()};var body="response"in xhr?xhr.response:xhr.responseText;resolve(new Response(body,options))};xhr.onerror=function(){reject(new TypeError("Network request failed"))};xhr.open(request.method,request.url,true);if(request.credentials==="include"){xhr.withCredentials=true}if("responseType"in xhr&&support.blob){xhr.responseType="blob"}request.headers.forEach(function(value,name){xhr.setRequestHeader(name,value)});xhr.send(typeof request._bodyInit==="undefined"?null:request._bodyInit)})};self.fetch.polyfill=true})(typeof self!=="undefined"?self:this);
+        }
+    
+        if (typeof window.CustomEvent !== 'function') {
+    
+          function CustomEvent(event, params) {
+            params = params || { bubbles: false, cancelable: false, detail: null };
+            var evt = document.createEvent('CustomEvent');
+            evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+            return evt;
+          }
+    
+          CustomEvent.prototype = window.Event.prototype;
+    
+          window.CustomEvent = CustomEvent;
+    
+        }
+    
+        (function() {
+    
+            var language = 'en';
+                language = 'pt-BR';
+    
+            var modal = false;
+    
+    
+            var istatsLabels = {name: 'portuguese.brasil.story.52855085.page' || undefined};
+            istatsLabels['pal_route'] = 'asset';
+            istatsLabels['language'] = 'pt-BR';
+            istatsLabels['pal_webapp'] = 'tabloid';
+            istatsLabels['prod_name'] = 'portuguese';
+            istatsLabels['app_name'] = 'portuguese';
+            istatsLabels['cps_asset_id'] = '52855085';
+            istatsLabels['page_type'] = 'Story';
+            istatsLabels['section'] = '';
+            istatsLabels['first_pub'] = '2020-05-29T18%3A05%3A56-03%3A00';
+            istatsLabels['last_editorial_update'] = '2020-06-02T08%3A36%3A47-03%3A00';
+            istatsLabels['curie'] = '86f501d6-56e4-f444-8850-b1413440f036';
+            istatsLabels['title'] = 'Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19';
+            istatsLabels['has_video'] = '';
+            istatsLabels['topic_names'] = 'Technology%21Coronavirus+pandemic%21Innovation%21Internet%21Health';
+            istatsLabels['topic_ids'] = '31684f19-84d6-41f6-b033-7ae08098572a%215fe79b8d-56e5-4aff-8b05-21f9ad731912%2165fb7fb8-541b-4a9f-97d3-ffce7a6f62f1%2172d243a7-687b-4e7d-a022-1e36a138b0be%21c4794229-7f87-43ce-ac0a-6cfcd6d3cef2';
+            istatsLabels['for_nation'] = 'br';
+            istatsLabels['app_version'] = '1.315.0';
+            istatsLabels['app_type'] = 'responsive';
+            istatsLabels['bbc_site'] = 'news-ws-portuguese';
+    
+            function getMetaValue(propertyName) {
+              var metaTag = document.querySelector(
+                "meta[property='" + propertyName + "'], " +
+                "meta[name='" + propertyName + "']");
+              if (metaTag) {
+                return metaTag.getAttribute("content");
+              } else {
+                throw new Error('No meta tag called: ' + propertyName)
+              }
+            }
+    
+            function generateCountername() {
+                if (window.location.protocol === 'file:') {
+                  return 'local.file';
+                }
+    
+                var pathName = window.location.pathname
+                    .replace(/\/$/, "")
+                    .replace(/^\//, "")
+                    .replace(/\//g, '.');
+                return pathName + '.page';
+            }
+    
+            var additionalPageProperties = {};
+                additionalPageProperties['content_language'] = 'pt-BR';
+                additionalPageProperties['custom_var_1'] = '2020-06-02T11:36:47+00:00';
+                additionalPageProperties['custom_var_2'] = '2020-06-02T11:36:47+00:00';
+                additionalPageProperties['custom_var_6'] = 'WS - Update me';
+                additionalPageProperties['custom_var_7'] = 'News';
+                additionalPageProperties['app_name'] = 'news-portuguese';
+    
+            var page = {
+                name: 'portuguese.brasil.story.52855085.page' || istatsLabels.name || generateCountername(),
+                destination: 'WS_NEWS_LANGUAGES' || null,
+                producer: 'BRASIL' || null,
+                section: 'brasil' || null,
+                site: '' || istatsLabels.bbc_site || istatsLabels.app_name || istatsLabels.prod_name || null,
+                contentId: 'urn:bbc:cps:86f501d6-56e4-f444-8850-b1413440f036' || null,
+                contentType: 'article' || null,
+                edition: '' || null,
+                additionalProperties: additionalPageProperties
+            };
+    
+            function updatePageData(newData) {
+                page = Object.assign(page, newData);
+            }
+    
+            document.addEventListener('bbc-page-reset', function(event) {
+                if (event.detail && event.detail.page) {
+                    updatePageData(event.detail.page);
+                }
+                document.dispatchEvent(new Event('bbc-page-updated'));
+            });
+    
+            window.bbcpage = {
+                loadModule: function(deps) {
+                    return new Promise(function (resolve, reject) {
+                        window.require(deps, function () {
+                            resolve.apply(this, arguments);
+                        },
+                        function (error) {
+                            reject(error);
+                        });
+                    })
+                },
+                loadCSS: function (url, timeout) {
+                    return window.bbcpage.loadModule(['orb/lib/_$'])
+                        .then(function($) {
+                            return new Promise(function(resolve, reject) {
+                                var stylesheet = loadCSS(url);
+                                $.onloadCSS(stylesheet, function() {
+                                    resolve();
+                                });
+                                if (timeout) {
+                                    setTimeout(function () { reject(); }, timeout);
+                                }
+                            });
+                    });
+                },
+                isModal: function () {
+                    return modal;
+                },
+                getLanguage: function () {
+                    return new Promise(function(resolve, reject) {
+                        resolve(language);
+                    });
+                },
+                trackRegion: function (region, labels) {
+                    return window.bbcpage.loadModule(['istats-1'])
+                        .then(function(istats) {
+    
+                            var trackLabels = {
+                                region: region
+                            };
+    
+                            for (var label in labels) {
+                                trackLabels[label] = labels[label];
+                            }
+    
+                            var linkType = labels.linkType || 'internal';
+    
+                            istats.track(linkType, trackLabels);
+                        });
+                },
+                getName: function() {
+                    return Promise.resolve(page.name);
+                },
+                getDestination: function() {
+                    return Promise.resolve(page.destination);
+                },
+                getProducer: function() {
+                    return Promise.resolve(page.producer);
+                },
+                getSite: function() {
+                    return Promise.resolve(page.site);
+                },
+                getSection: function() {
+                    return Promise.resolve(page.section);
+                },
+                getContentType: function() {
+                    return Promise.resolve(page.contentType);
+                },
+                getContentId: function() {
+                    return Promise.resolve(page.contentId);
+                },
+                getEdition: function() {
+                  return new Promise(function (resolve, reject) {
+                    if (page.edition) {
+                      resolve(page.edition);
+                      return;
+                    }
+                    try {
+                      resolve(getMetaValue('x-audience').toLowerCase());
+                    } catch (err){
+                      // This property is related to Chartbeat; see http://support.chartbeat.com/docs/
+                      if (window._sf_async_config) {
+                        resolve(window._sf_async_config.region || null);
+                      }
+                    }
+                    resolve(null);
+                  });
+                },
+                getReferrer: function() {
+                  return Promise.resolve(window.orb && window.orb.referrer !== null && window.orb.referrer !== undefined ? window.orb.referrer : document.referrer);
+                },
+                getAdditionalProperties: function() {
+                  return Promise.resolve(page.additionalProperties);
+                }
+            };
+    
+            var USERINFO_PREFIX = "www." || "www.";
+    
+            function initUserCache(orbitUser) {
+              var availableAttr = [
+                'X-Country',
+                'X-Ip_is_advertise_combined',
+                'X-Ip_is_uk_combined'
+              ];
+              var userCache = availableAttr.reduce(function(user, curr, i) {
+                if (!orbitUser[curr]) {
+                  return user;
+                }
+                var res = Object.assign({}, user);
+                res[curr] = orbitUser[curr];
+                return res;
+              }, {});
+              if (Object.keys(userCache).length !== availableAttr.length) {
+                userCache._partial = true;
+              }
+              return userCache;
+            }
+    
+            var user = initUserCache({
+            });
+    
+            function checkStatus(response) {
+              if (response.status >= 200 && response.status < 300) {
+                return response;
+              } else {
+                var error = new Error(response.statusText);
+                error.response = response;
+                throw error;
+              }
+            }
+    
+            function parseJSON(response) {
+              return response.json();
+            }
+    
+            var supportsCors = function() {
+              return typeof XMLHttpRequest !== 'undefined' &&
+                'withCredentials' in new XMLHttpRequest();
+            };
+    
+            var getUserInfoFallback = function() {
+              return window.bbcpage.loadModule(['orb/fig'])
+                .then(function(orbFig) {
+                  return new Promise(function(resolve, reject) {
+                    orbFig.load(function(fig) {
+                      var getCountryFallback = function() {
+                        if (fig.geo.isUK()) {
+                          return 'GB';
+                        } else if (fig.geo.isEU()) {
+                          return 'EU';
+                        }
+                      };
+                      resolve({
+                        'X-Country': user.country || getCountryFallback(),
+                        'X-Ip_is_uk_combined': fig().uk ? 'yes' : 'no',
+                        'X-Ip_is_advertise_combined': fig().ad ? 'yes' : 'no'
+                      });
+                    }, function () {
+                      reject('Error determining country. Timeout?');
+                    });
+                  });
+                });
+            };
+    
+            var _userInfoRequest;
+            var getUserInfo = function() {
+    
+              var host = window.location.host.toString().match(/bbc\.com$/) ? 'bbc.com' : 'bbc.co.uk';
+              var userInfoUrl = "https://" + USERINFO_PREFIX + host + '/userinfo';
+    
+              if (!user._partial) {
+                return Promise.resolve(user);
+              }
+    
+              if (!_userInfoRequest) {
+                if (typeof window.fetch === 'undefined' || !supportsCors()) {
+                  _userInfoRequest = getUserInfoFallback();
+                } else {
+                  _userInfoRequest = window.fetch(userInfoUrl, { credentials: 'same-origin' })
+                    .then(checkStatus)
+                    .then(parseJSON)
+                    .then(function(userInfo) {
+                      user = userInfo;
+                      return user;
+                    });
+                }
+              }
+    
+              return _userInfoRequest;
+            };
+    
+            var USER_PROFILE_URL = "https://www.bbc.co.uk/userprofile";;
+            var _helloRequest;
+            var getSegmentations = function() {
+    
+              if (user.ageBand) {
+                return Promise.resolve(user);
+              }
+    
+              if (!_helloRequest) {
+                if (typeof window.fetch === 'undefined' || !supportsCors()) {
+                  return Promise.resolve(user);
+                } else {
+    
+                  _helloRequest = window.bbcpage.loadModule(['idcta-v2/idcta-1']).then(function(idcta) {
+                    return idcta.initiateTokenRefresh().then(function() {
+                      return window.fetch(USER_PROFILE_URL, { credentials: 'include' })
+                        .then(checkStatus)
+                        .then(parseJSON)
+                        .then(function(profileInfo) {
+                          Object.assign(user, profileInfo);
+                          return user;
+                        });
+                      });
+                  });
+    
+                }
+              }
+    
+              return _helloRequest;
+            };
+    
+            window.bbcuser = {
+                getHashedId: function() {
+                    return window.bbcpage.loadModule(['idcta-v2/idcta-1'])
+                        .then(function(idcta) {
+                            return idcta.getCookieInstance().getHidFromCookie();
+                    });
+                },
+    
+                getAgeBand: function() {
+                    if (user['X-Age-Band']) {
+                        return Promise.resolve(user['X-Age-Band']);
+                    }
+    
+                    return bbcuser.isSignedIn().then(function(isSignedIn) {
+                        if (isSignedIn) {
+                            return window.bbcpage.loadModule(['idcta-v2/idcta-1'])
+                                .then(function(idcta) {
+                                    user['X-Age-Band'] = idcta.getUserDetailsFromCookie().ab;
+                                    if (user['X-Age-Band'] === 'u13') {
+                                        user['X-Age-Band'] = '0-12';
+                                        return user['X-Age-Band'];
+                                    } else if (user['X-Age-Band'] === 'u16') {
+                                        user['X-Age-Band'] = '13-15';
+                                        return user['X-Age-Band'];
+                                    } else if (user['X-Age-Band'] === 'u18') {
+                                        user['X-Age-Band'] = '16-17';
+                                        return user['X-Age-Band'];
+                                    } else {
+                                        user['X-Age-Band'] = undefined;
+                                        return getSegmentations().then(function(userInfo) {
+                                            user['X-Age-Band'] = userInfo['X-Age-Band'];
+                                            return user['X-Age-Band'] || undefined;
+                                        }).catch(function(error) {
+                                            return user['X-Age-Band'] || undefined;
+                                        });
+                                    }
+                                });
+    
+                        } else {
+                            return undefined;
+                        }
+                    });
+                },
+    
+                getCountry: function() {
+                    if (user['X-Country']) {
+                        return Promise.resolve(user['X-Country']);
+                    }
+                    return getUserInfo().then(function(userInfo) {
+                        return userInfo['X-Country'] || 'GB';
+                    });
+                },
+    
+                isUKCombined: function() {
+                    return getUserInfo().then(function(userInfo) {
+                        if (!userInfo['X-Ip_is_uk_combined']) {
+                            throw new Error('missing isUKCombined from userinfo response');
+                        }
+                        return userInfo['X-Ip_is_uk_combined'].toLowerCase() === 'yes';
+                    })
+                },
+    
+                canSeeAdverts: function() {
+                    return getUserInfo().then(function(userInfo) {
+                        if (!userInfo['X-Ip_is_advertise_combined']) {
+                            throw new Error('missing canSeeAdverts from userinfo response');
+                        }
+                        return userInfo['X-Ip_is_advertise_combined'].toLowerCase() === "yes";
+                    });
+                },
+    
+                isSignedIn: function() {
+                    return window.bbcpage.loadModule(['idcta-v2/idcta-1'])
+                        .then(function(idcta) {
+                            return (idcta && idcta.getCookieInstance().hasCookie());
+                        });
+                },
+                allowsPerformanceCookies: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('performance');
+                            });
+                },
+                allowsFunctionalCookies: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('personalisation');
+                            });
+                },
+                getCookieValue: function(cookieName) {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return bbccookies.get(cookieName);
+                            });
+                },
+                resetCookiesPreferences: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                bbccookies.setDefaultCookiesSingleDomain();
+                            });
+                },
+                hasCookiesEnabled: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return !!bbccookies.cookiesEnabled();
+                            });
+                },
+                hasSeenCookieBanner: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function (bbccookies) {
+                                return !!bbccookies.isCookiePolicySet();
+                            });
+                },
+                logEvent: function (verb, noun, extraLabels) {
+                    return window.bbcuser.hasCookiesEnabled()
+                        .then(function(allowsCookies) {
+                            if (allowsCookies) {
+                                return window.bbcpage.loadModule(['istats-1'])
+                                    .then(function(istats) {
+                                        istats.log(verb, noun, extraLabels);
+                                    });
+                            } else {
+                                throw new Error('User cannot be tracked due to cookies preferences.');
+                            }
+                        });
+                },
+            };
+    
+        }());</script><script src="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/js/require.min.js"></script>   <script src="https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-459.c5461d9/cookie-banner/cookie-library.min.js"></script><script type="text/javascript">if (window.define !==  undefined) {
+        define('orb/cookies', function() {
+          return window.bbccookies;
+        });
+      }</script>   <script src="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/js/api.min.js"></script><script type="text/javascript">window.bbcFlagpoles_istats="ON",require.config({paths:{"istats-1":"https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-459.c5461d9/istats/istats-1"}}),require(["istats-1","orb/cookies"],function(t,a){if(a.isAllowed("s1")){var e=(o=document.location.href.match(/^(?:https|http):\/\/\w*\.(?:(int|test|stage|live|)\.)?bbc\.(?:co\.uk|com)/))?void 0===o[1]||""===o[1]||"live"===o[1]?"//sa.bbc.co.uk/bbc/bbc/s":"//sa.bbc.co.uk/bbc/"+o[1]+"/s":"//sa.bbc.co.uk/bbc/test/s";t.addCollector({name:"default",url:e,separator:"&"});var s="portuguese.brasil.story.52855085.page";t.setCountername(s),window.istats_countername&&t.setCountername(window.istats_countername),t.addLabels("ml_name=webmodule&ml_version=0.0.2-459.c5461d9&blq_e=orbit&blq_r=orbit&blq_s=orbit&blq_v=worldservice&language=pt-BR&pal_route=asset&language=pt-BR&pal_webapp=tabloid&prod_name=portuguese&app_name=portuguese&cps_asset_id=52855085&page_type=Story&section=&first_pub=2020-05-29T18%3A05%3A56-03%3A00&last_editorial_update=2020-06-02T08%3A36%3A47-03%3A00&curie=86f501d6-56e4-f444-8850-b1413440f036&title=Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19&has_video=&topic_names=Technology%21Coronavirus+pandemic%21Innovation%21Internet%21Health&topic_ids=31684f19-84d6-41f6-b033-7ae08098572a%215fe79b8d-56e5-4aff-8b05-21f9ad731912%2165fb7fb8-541b-4a9f-97d3-ffce7a6f62f1%2172d243a7-687b-4e7d-a022-1e36a138b0be%21c4794229-7f87-43ce-ac0a-6cfcd6d3cef2&for_nation=br&app_version=1.315.0&app_type=responsive&bbc_site=news-ws-portuguese")}var o});</script><script type="text/javascript">(function() {
+    if (!window.require) {
+        throw new Error('idcta: could not find require module');
+    }
+    if (typeof(map) == 'undefined') {
+        var map = {};
+    }
+    if (!!document.createElementNS && !!document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect) {
+        document.documentElement.className += ' id-svg';
+    }
+    var ptrt = new RegExp("[\\?&]ptrt=([^&]*)").exec(document.location.href);
+    var ENDPOINT_URL = 'https://idcta.api.bbc.co.uk';
+    var ENDPOINT_CONFIG = ('/idcta/config?callback=&ptrt=' + encodeURIComponent((ptrt ? ptrt[1] : document.location.href))).replace(/\&amp;/g, '&');
+    var ENDPOINT_TRANSLATIONS = '/idcta/translations?callback=';
+
+    function hasPromise() {
+        var P = window.Promise;
+        var promiseToString = null;
+        if (P) {
+            try {
+                promiseToString = Object.prototype.toString.call(P.resolve());
+            } catch (e) {
+                /*silently ignored*/ }
+        }
+        return (promiseToString === '[object Promise]' && !P.cast);
+    }
+    if (hasPromise()) {
+        define('idcta/es6-promise', function() {
+            return window.Promise;
+        });
+        define('idcta-v2/es6-promise', function() {
+            return window.Promise;
+        });
+    }
+    map['idcta-v2'] = 'https://static.files.bbci.co.uk/account/id-cta/1.42.0/modules/idcta-v2';
+    map['idcta-v2/config'] = ENDPOINT_URL + ENDPOINT_CONFIG;
+    map['idcta-v2/translations'] = ENDPOINT_URL + ENDPOINT_TRANSLATIONS;
+    map['idcta'] = 'https://static.files.bbci.co.uk/account/id-cta/1.8.2/modules/idcta';
+    map['idcta-v2/idcta-1'] = 'https://static.files.bbci.co.uk/account/id-cta/1.42.0/modules/idcta-v2/dist/idcta-1.min';
+    map['idcta-v2/experiment-snippet'] = 'https://cdn.optimizely.com/public/4621041136/s/idcta_live';
+    const idctaShim = {
+        deps: ['idcta-v2/idcta-1'],
+    };
+    require({
+        shim: {
+            'idcta-v2/statusbar': idctaShim,
+            'idcta-v2/id-config': idctaShim
+        },
+        map: {
+            '*': {
+                'idcta/idcta-1': 'idcta-v2/idcta-1',
+                'idcta': 'idcta-v2',
+            }
+        },
+        paths: map
+    });
+    window.idctaBaseUrl = ENDPOINT_URL;
+    define('idcta/config', ['idcta-v2/config'], function(data) {
+        return data;
+    });
+    define('idcta/translations', ['idcta-v2/translations'], function(data) {
+        return data;
+    });
+})();
+
+
+(function() {
+
+    function decodeToJsonObject(encodedString) {
+        try {
+            var decoded = window.atob(encodedString);
+            var lastBracket = decoded.lastIndexOf('}');
+            var cleanCookie = decoded.substring(0, lastBracket + 1);
+            return JSON.parse(cleanCookie);
+        } catch (error) {
+            return null;
+        }
+    }
+
+    function getCookie(cname, decode) {
+        try {
+            var cookiePattern = new RegExp(cname + '=([^\\s;]*)');
+            var cookieMatch = document.cookie.match(cookiePattern);
+            if (!cookieMatch) {
+                return null;
+            }
+            if (decode !== true) {
+                return cookieMatch[1];
+            }
+            var decodedString = decodeURIComponent(cookieMatch[1]);
+            return decodeToJsonObject(decodedString);
+        } catch (err) {
+            console.log(err);
+        }
+    };
+
+    define('idcta-v2/idcta-1', function() {
+        return {
+            getCookieInstance: function() {
+                return {
+                    getHidFromCookie: function() {
+                        return getCookie('ckns_sylphid');
+                    },
+                    hasCookie: function() {
+                        var cookiePattern = new RegExp('ckns_sylphid=([\\w]+)');
+                        var cookieMatch = document.cookie.match(cookiePattern);
+                        return !!cookieMatch;
+                    }
+                }
+            }
+        };
+    });
+
+})();</script>  <!-- BBCDOTCOM head --><script type="text/javascript">/*<![CDATA[*/ var _sf_startpt = (new Date()).getTime(); /*]]>*/</script><style type="text/css">.bbccom_display_none{display:none;}</style><script type="text/javascript">/*<![CDATA[*/ var bbcdotcomConfig, googletag = googletag || {}; googletag.cmd = googletag.cmd || [], bbcdotcomScripts = [], tp = window.tp || []; var bbcdotcom = false; (function(){ if(typeof require !== 'undefined') { require({ paths:{ "bbcdotcom":"https://static.bbc.co.uk/bbcdotcom/4.4.0/script" } }); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ var bbcdotcom = { adverts: { keyValues: { set: function() {} } }, advert: { write: function () {}, show: function () {}, isActive: function () { return false; }, layout: function() { return { reset: function() {} } } }, config: { init: function() {}, isActive: function() {}, setSections: function() {}, isAdsEnabled: function() {}, setAdsEnabled: function() {}, isAnalyticsEnabled: function() {}, setAnalyticsEnabled: function() {}, setAssetPrefix: function() {}, setFlagpoles: function() {}, setVersion: function () {}, setJsPrefix: function() {}, setSwfPrefix: function() {}, setCssPrefix: function() {}, setConfig: function() {}, getAssetPrefix: function() {}, getJsPrefix: function () {}, getSwfPrefix: function () {}, getCssPrefix: function () {}, isOptimizelyEnabled: function() {}, isThirdPartyDisabled: function() {}, isThirdPartyDisabledEU: function() {}, setEU: function() {} }, survey: { init: function(){ return false; } }, data: {}, init: function() {}, objects: function(str) { return false; }, locale: { set: function() {}, get: function() {} }, setAdKeyValue: function() {}, utils: { addEvent: function() {}, addHtmlTagClass: function() {}, log: function () {} }, addLoadEvent: function() {} }; /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (typeof orb !== 'undefined' && typeof orb.fig === 'function') { if (orb.fig('ad') && orb.fig('uk') == 0) { bbcdotcom.data = { ads: (orb.fig('ad') ? 1 : 0), stats: (orb.fig('uk') == 0 ? 1 : 0), statsProvider: orb.fig('ap') }; } } else { document.write('<script type="text/javascript" src="https://www.bbc.com/wwscripts/data">\x3C/script>'); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (typeof orb === 'undefined' || typeof orb.fig !== 'function') { bbcdotcom.data = { ads: bbcdotcom.data.a, stats: bbcdotcom.data.b, statsProvider: bbcdotcom.data.c }; } if (bbcdotcom.data.ads == 1) { document.write('<script type="text/javascript" src="https://www.bbc.com/wwscripts/flag">\x3C/script>'); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (window.bbcdotcom && (typeof bbcdotcom.flag == 'undefined' || (typeof bbcdotcom.data.ads !== 'undefined' && bbcdotcom.flag.a != 1))) { bbcdotcom.data.ads = 0; } if (/[?|&]ads/.test(window.location.href) || /(^|; )ads=on; /.test(document.cookie) || /; ads=on(; |$)/.test(document.cookie)) { bbcdotcom.data.ads = 1; bbcdotcom.data.stats = 1; } if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcom.assetPrefix = "https://static.bbc.co.uk/bbcdotcom/4.4.0/"; if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug=') !== -1) { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/4.4.0/script/dist/bbcdotcom.dev.js">\x3C/script>'); } else { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/4.4.0/script/dist/bbcdotcom.js">\x3C/script>'); } } })(); /*]]>*/</script><script type="text/javascript">if (window.bbcdotcom && bbcdotcom.data.stats == 1) { document.write('<link rel="dns-prefetch" href="//secure-us.imrworldwide.com/">'); document.write('<link rel="dns-prefetch" href="//me-cdn.effectivemeasure.net/">'); document.write('<link rel="dns-prefetch" href="//ssc.api.bbc.com/">'); } if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<link rel="dns-prefetch" href="//www.googletagservices.com/">'); document.write('<link rel="dns-prefetch" href="//bbc.gscontxt.net/">'); document.write('<link rel="dns-prefetch" href="//tags.crwdcntrl.net/">'); document.write('<link rel="dns-prefetch" href="//ad.crwdcntrl.net/">'); }</script><script type="text/javascript">if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<meta name="google-site-verification" content="auTeTTwSt_KBY_4iDoR00Lwb7-qzx1IgzJy6ztaWgEI" />'); }</script><script type="text/javascript">/*<![CDATA[*/ (function(){ var GDPR_COUNTRIES = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'IS', 'LI', 'NO', 'CH']; if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcomConfig = {"adFormat":"standard","adKeyword":"","adMode":"smart","adsEnabled":true,"appAnalyticsSections":"","asyncEnabled":true,"disableInitialLoad":false,"advertInfoPageUrl":"https:\/\/www.bbc.com\/privacy\/cookies\/international\/","advertisementText":"Advertisement","analyticsEnabled":true,"thirdPartyDisabled":false,"sherlockEnabled":false,"permutiveEnabled":false,"appName":"","assetPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/4.4.0\/","customAdParams":[],"customStatsParams":[],"headline":"","id":"","inAssociationWithText":"in association with","keywords":"","language":"","orbTransitional":false,"optimizelyEnabled":true,"palEnv":"live","productName":"","sections":[],"comScoreEnabled":true,"comscoreSite":"bbc","comscoreID":"19293874","comscorePageName":"","slots":"","sponsoredByText":"is sponsored by","adsByGoogleText":"Ads by Google","summary":"","type":"","features":{"testfeature":{"name":"testfeature","envs":["sandbox","int","test"],"on":true,"options":{},"override":null},"lxadverts":{"name":"lxadverts","envs":[],"on":true,"options":{},"override":null}},"staticBase":"\/bbcdotcom","staticHost":"https:\/\/static.bbc.co.uk","staticVersion":"4.4.0","staticPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/4.4.0","dataHttp":"tps.bbc.com","dataHttps":"www.bbc.com","flagHttp":"www.bbc.co.uk","flagHttps":"www.bbc.co.uk","analyticsHttp":"sa.bbc.com","analyticsHttps":"ssa.bbc.com"}; bbcdotcom.config.init(bbcdotcomConfig, bbcdotcom.data, window.location, window.document); bbcdotcom.config.setFlagpoles(bbcdotcom.flag || {}); bbcdotcom.config.setAssetPrefix("https://static.bbc.co.uk/bbcdotcom/4.4.0/"); bbcdotcom.config.setVersion("4.4.0"); if (window.bbcuser && window.bbcuser.getCountry && typeof(window.bbcuser.getCountry) === 'function') { window.bbcuser.getCountry().then(function(countryCode) { var isEU = countryCode ? GDPR_COUNTRIES.indexOf(countryCode.toUpperCase()) !== -1 : false; bbcdotcom.config.setEU(isEU); }); } else if (window.orb && window.orb.fig && typeof(window.orb.fig) === 'function') { bbcdotcom.config.setEU(window.orb.fig('eu')); } document.write('<!--[if IE 7]><script type="text/javascript">bbcdotcom.config.setIE7(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 8]><script type="text/javascript">bbcdotcom.config.setIE8(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 9]><script type="text/javascript">bbcdotcom.config.setIE9(true);\x3C/script><![endif]-->'); if (/[?|&]ex-dp/.test(window.location.href) || document.cookie.indexOf('ex-dp=') !== -1) { bbcdotcom.utils.addHtmlTagClass('bbcdotcom-ex-dp'); } } })(); /*]]>*/</script><script type="text/javascript">var initOptimizely = (function(isEnabled){ if(!isEnabled) return; var logger = window.bbcdotcom.Logger('bbcdotcom:head:optimizely'); /* Allow Optimizely in these paths */ var allowPaths = ['/', '/wwhp']; /* Only run on optimizely on homepage */ if (bbcdotcom.utils && allowPaths.indexOf(window.location.pathname) !== -1){ /* set correct OptimizelyURL for prod or sandbox */ var optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_sandbox.js"; if(window.location.hostname === 'www.bbc.com') { optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_prod.js"; } /* Set cookie to 1 year */ window['optimizely'] = window['optimizely'] || []; window['optimizely'].push({ "type": "cookieExpiration", "cookieExpirationDays": 365 }); document.write('<script type="text/javascript" src="'+optimizelyURL+'">\x3C/script>'); } })( bbcdotcom.config.isOptimizelyEnabled() );</script><script type="text/javascript">/*<![CDATA[*/ if ( window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.ads && bbcdotcom.data.ads == 1 && bbcdotcom.config && bbcdotcom.config.isGrapeshotEnabled && bbcdotcom.config.isGrapeshotEnabled() && bbcdotcom.config.isWorldService && !bbcdotcom.config.isWorldService() ) { var gs_channels="DEFAULT"; (function () { var gsurl = window.location.href.split("?")[0]; bbcdotcomScripts.push({src:'https://bbc.gscontxt.net/?url='+encodeURIComponent(gsurl)}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config && bbcdotcom.config.isLotameActive && bbcdotcom.config.isLotameActive()&& bbcdotcom.config.isLotameEnabled && bbcdotcom.config.isLotameEnabled()){ (function () { var clientId, lotameUrl, lotameAudienceUrl; clientId = (bbcdotcom.config.isWorldService && bbcdotcom.config.isWorldService()) ? '10826' : '10816'; lotameUrl = 'https://tags.crwdcntrl.net/c/'+clientId+'/cc.js?ns='+clientId; lotameAudienceUrl = 'https://ad.crwdcntrl.net/5/c=10815/pe=y/var=ccauds'; bbcdotcomScripts.push({src:lotameUrl,id:"LOTCC"+clientId}); bbcdotcomScripts.push({src:lotameAudienceUrl}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config && bbcdotcom.config.isPermutiveEnabled && bbcdotcom.config.isPermutiveEnabled() && bbcdotcom.config.isWorldService && !bbcdotcom.config.isWorldService()){ (function () { !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"e488cdb0-e7cb-4d91-9648-60d437d8e491","1bb84885-9325-4fef-adda-a208032b2715",{"consentRequired":true}); bbcdotcomScripts.push({src:'https://cdn.permutive.com/e488cdb0-e7cb-4d91-9648-60d437d8e491-web.js'}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ /** * ASYNC waits to make any gpt requests until the bottom of the page */ if ( window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.ads && bbcdotcom.data.ads == 1 && bbcdotcom.config && bbcdotcom.config.isAsync && bbcdotcom.config.isAsync() && bbcdotcom.config.isAdsEnabled && bbcdotcom.config.isAdsEnabled() ) { (function () { bbcdotcomScripts.push({src:'https://securepubads.g.doubleclick.net/tag/js/gpt.js'}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ /* Load Lotame, Grapeshot and GPT without blocking rendering but executing in order */ if ( window.bbcdotcom && bbcdotcom.config && bbcdotcomScripts.length > 0 ) { (function () { bbcdotcom.checkThirdPartyFirst(function(){ if (!bbcdotcom.config.isThirdPartyDisabledEU()){ bbcdotcomScripts.forEach(function(item) { var script = document.createElement('script'); script.async = false; if(item.id) script.id = item.id; script.src = item.src; document.head.appendChild(script); }); } }); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.head = true; }()); /*]]>*/</script><script type="text/javascript">// Globally available search context
+  window.SEARCHBOX={"variant":"worldservice","locale":"pt-BR","feature":"akamai-idcta","navSearchboxStaticPrefix":"https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/","searchboxAppStaticPrefix":"https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/drawer","searchFormHtml":"<div tabindex=\"-1\" data-reactroot=\"\"><div><section class=\"se-searchbox-panel\"><div class=\"se-g-wrap\"><div class=\"se-g-layout\"><div class=\"se-g-layout__item se-searchbox-title\" aria-hidden=\"true\">search</div><div class=\"se-g-layout__item se-searchbox\"><form accept-charset=\"utf-8\" id=\"searchboxDrawerForm\" method=\"get\" action=\"https://search.bbc.co.uk/search\"><label class=\"se-searchbox__input\" for=\"se-searchbox-input-field\"><span class=\"se-sr-only\">Search Term</span><input type=\"text\" name=\"q\" value=\"\" id=\"se-searchbox-input-field\" class=\"se-searchbox__input__field\" maxLength=\"512\" autoComplete=\"off\" autoCorrect=\"off\" autoCapitalize=\"off\" spellcheck=\"false\" tabindex=\"0\"/></label><input type=\"hidden\" name=\"scope\" value=\"\"/><button type=\"submit\" class=\"se-searchbox__submit\" tabindex=\"0\" data-bbc-container=\"se-searchbox-panel\" data-bbc-title=\"search-icon\" data-bbc-metadata=\"{&quot;PAR&quot;:&quot;form::1&quot;,&quot;CHD&quot;:&quot;button::1&quot;}\">Search</button><button type=\"button\" class=\"se-searchbox__clear se-searchbox__clear--visible\" tabindex=\"0\" data-bbc-container=\"se-searchbox-panel\" data-bbc-title=\"clear-icon\" data-bbc-metadata=\"{&quot;PAR&quot;:&quot;form::1&quot;,&quot;CHD&quot;:&quot;button::2&quot;}\" data-bbc-personalisation=\"{&quot;QRY&quot;:&quot;&quot;}\">Close</button></form></div></div></div></section><div aria-live=\"polite\" aria-atomic=\"true\" class=\"se-suggestions-container\"><section class=\"se-g-wrap\"></section></div></div></div>","searchScopePlaceholder":"<input type=\"hidden\" name=\"scope\" id=\"orb-search-scope\" value=\"portuguese\">","searchScopeParam":"?scope=portuguese","searchScopeTemplate":"portuguese","searchPlaceholderWrapperStart":"","searchPlaceholderWrapperEnd":""};
+  window.SEARCHBOX.suppress = false;
+  window.SEARCHBOX.searchScope = SEARCHBOX.searchScopeTemplate.split('-')[0];</script><link rel="stylesheet" href="https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/css/main.css"><!--[if IE 8]>
+  <script type="text/javascript" src="https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/script/html5shiv.min.js"></script>
+  <script type="text/javascript">window['searchboxIEVersion'] = 8;</script>
+  <link rel="stylesheet" href="https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/css/ie8.css">
+<![endif]--><!--[if IE 9]>
+  <script type="text/javascript">window['searchboxIEVersion'] = 9;</script>
+<![endif]--> <script type="text/javascript">"use strict";!function(){window.__reverbStaticLocation="https://mybbc-analytics.files.bbci.co.uk/reverb-client-js/",window.__smarttagVersion="5.18.2",window.__reverb={},window.__reverb.__reverbLoadedPromise=new Promise(function(e,n){window.__reverb.__resolveReverbLoaded=e,window.__reverb.__rejectReverbLoaded=n}),window.__reverb.__reverbTimeout=setTimeout(function(){window.__reverb.__rejectReverbLoaded()},5e3);var n=function(r,d){window.__reverb.__reverbLoadedPromise.then(function(e){if(r&&r.detail){var n=r.detail.label,t=r.detail.type,i=r.detail.elem,o=r.detail.originalEvent;r.detail.isClick&&(d=r.detail.isClick),e.userActionEvent(t,n,r.detail,i,o,d)}},function(){console.log("Reverb failed to load. Event not sent")})};document.addEventListener("bbc-user-event",function(e){n(e,!1)}),document.addEventListener("bbc-user-click",function(e){n(e,!0)}),document.addEventListener("bbc-page-updated",function(){window.__reverb.__reverbLoadedPromise.then(function(e){e.initialise().then(function(){return e.viewEvent()})},function(){console.log("Reverb failed to load. Event not sent")})})}();</script><script type="text/javascript" src="https://mybbc-analytics.files.bbci.co.uk/reverb-client-js/reverb-1.4.0.js" async=""></script><script type="text/javascript">window.__detectview={clickManagementEnabled:false};</script>
+        <link type="text/css" rel="stylesheet" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/core.css">
+    <!--[if lt IE 9]>
+        <link type="text/css" rel="stylesheet" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/old-ie.css">
+        <script src="https://static.bbc.co.uk/news/1.315.03594/js/vendor/html5shiv/html5shiv.js"></script>
+    <![endif]-->
+ <script id="news-loader"> if (document.getElementById("responsive-news")) { window.bbcNewsResponsive = true; } var isIE = (function() { var undef, v = 3, div = document.createElement('div'), all = div.getElementsByTagName('i'); while ( div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->', all[0] ); return v > 4 ? v : undef; }()); var modernDevice = 'querySelector' in document && 'localStorage' in window && 'addEventListener' in window, forceCore = document.cookie.indexOf('ckps_force_core') !== -1; window.cutsTheMustard = modernDevice && !forceCore; if (window.cutsTheMustard) { document.documentElement.className += ' ctm'; var insertPoint = document.getElementById('news-loader'), config = {"asset":{"asset_id":"52855085","asset_locator":"urn:bbc:cps:asset:52855085","asset_uri":"\/portuguese\/brasil-52855085","original_asset_uri":null,"first_created":{"date":"2020-05-29 18:05:56","timezone_type":3,"timezone":"America\/Sao_Paulo"},"first_published":{"date":"2020-06-02 08:36:47","timezone_type":3,"timezone":"America\/Sao_Paulo"},"last_updated":{"date":"2020-06-02 08:36:47","timezone_type":3,"timezone":"America\/Sao_Paulo"},"options":{"allowDateStamp":true,"allowPrintingSharingLinks":true,"allowHeadline":true,"allowRightHandSide":true,"allowRelatedStoriesBox":true,"includeComments":false,"isIgorSeoTagsEnabled":false,"isKeyContent":false,"isBreakingNews":false,"hasNewsTracker":false,"isFactCheck":false,"allowAdvertising":true,"hasContentWarning":false,"suitableForSyndication":true},"section":{"name":"Brasil","id":"102453","urlIdentifier":"\/portuguese\/brasil"},"language":"pt-BR","edition":"International","audience":null,"iStats_counter_name":"portuguese.brasil.story.52855085.page","type":"STY","curie":"asset:86f501d6-56e4-f444-8850-b1413440f036","length":11565,"byline":{"name":"Rafael Barifouse","persons":{"0":{"name":"Christian Jarrett","function":"Especial para BBC Future","originCode":"MCS"}},"title":"Da BBC News Brasil em S\u00e3o Paulo "},"headline":"Coronav\u00edrus: o site que mostra se voc\u00ea mora em \u00e1rea de risco de covid-19","mediaType":null,"topicTags":"Technology!Coronavirus pandemic!Innovation!Internet!Health"},"smpBrand":null,"staticHost":"https:\/\/static.bbc.co.uk","environment":"live","locatorVersion":"dev","pathPrefix":"\/portuguese","staticPrefix":"https:\/\/static.bbc.co.uk\/news\/1.315.03594","jsPath":"https:\/\/static.bbc.co.uk\/news\/1.315.03594\/js","cssPath":"https:\/\/static.bbc.co.uk\/news\/1.315.03594\/stylesheets\/services\/portuguese","cssPostfix":"","dynamic":null,"features":{"localnews":true,"video":true,"liveeventcomponent":true,"mediaassetpage":true,"gallery":true,"sportstories":true,"radiopromo":true,"fromothernewssites":true,"locallive":true,"weather":true},"features2":{"adexpert":true,"adverts":true,"adverts_async":true,"amp_link":true,"archive_fallback":true,"ati_analytics":true,"audio":true,"breaking_news":true,"chartbeat":true,"comments":true,"comments_enhanced":true,"comscore_analytics":true,"config_based_layout":true,"contact_form":true,"dns_prefetch_static_assets":true,"dynatrace_beacon":true,"embedephant-social-embeds":true,"enable_audio_on_stories":true,"extracted_share_tools":true,"features_and_analysis":true,"follow_us":true,"gazzetta_onward_journeys":true,"https_redirect":true,"igor_device_redirect":false,"interactive-social-embeds":true,"ldp_indexes":true,"ldp_tag_augmentation":true,"link_href_language":true,"live_v2_stream":true,"media_indexes":true,"media_player":true,"meta_verification":true,"most_popular":true,"most_popular_tabs":true,"nav":true,"olympics_tables":true,"open_graph":true,"or":true,"orbit":true,"optimizely":true,"preconnect_oftused_domains":true,"preload_fig":true,"pulse_survey":true,"recent_assets_indexes":true,"routing":true,"share_tools":true,"social-embeds":true,"story_single_column_layout":true,"story_sticky_player":true,"suppress_lep_timezone":true,"svg_brand":true,"timezone":true,"top_stories_promo":true,"ws_newsletter":true,"wsoj":true},"configuration":{"showtimestamp":"1","showweather":"","showsport":"1","showolympics":"1","showfeaturemain":"1","candyplatform":"EnhancedMobile","showwatchlisten":"","showspecialreports":"1","videotopiccandyid":"topicos\/video","showvideofeedsections":"","showstorytopstories":"","showstoryfeaturesandanalysis":"1","showstorymostpopular":"","showgallery":"1","cms":"topcat"},"pollingHost":"https:\/\/polling.bbc.co.uk","service":"portuguese","locale":"pt","locatorHost":null,"locatorFlagPole":true,"local":{"allowLocationLookup":true},"isWorldService":true,"isChannelPage":false,"languageVariant":"","commentsHost":"https:\/\/www.bbc.co.uk","search":null,"comscoreAnalytics":{"virtual_site":"news-ws-portuguese"}}; config.configuration['get'] = function (key) { return this[key.toLowerCase()]; };  var bootstrapUI=function(){var e=function(){if(navigator.userAgent.match(/(Android (2.0|2.1))|(Nokia)|(OSRE\/)|(Opera (Mini|Mobi))|(w(eb)?OSBrowser)|(UCWEB)|(Windows Phone)|(XBLWP)|(ZuneWP)/))return!1;if(navigator.userAgent.match(/MSIE 10.0/))return!0;var e,t=document,n=t.head||t.getElementsByTagName("head")[0],r=t.createElement("style"),s=t.implementation||{hasFeature:function(){return!1}};r.type="text/css",n.insertBefore(r,n.firstChild),e=r.sheet||r.styleSheet;var i=s.hasFeature("CSS2","")?function(t){if(!e||!t)return!1;var n=!1;try{e.insertRule(t,0),n=!/unknown/i.test(e.cssRules[0].cssText),e.deleteRule(e.cssRules.length-1)}catch(r){}return n}:function(t){return e&&t?(e.cssText=t,0!==e.cssText.length&&!/unknown/i.test(e.cssText)&&0===e.cssText.replace(/\r+|\n+/g,"").indexOf(t.split(" ")[0])):!1};return i('@font-face{ font-family:"font";src:"font.ttf"; }')}();e&&(document.getElementsByTagName("html")[0].className+=" ff"),function(){var e=document.documentElement.style;("flexBasis"in e||"WebkitFlexBasis"in e||"msFlexBasis"in e)&&(document.documentElement.className+=" flex")}();var t,n,r,s,i,a={},o=function(){var e=document.documentElement.clientWidth,n=window.innerWidth,r=n>1.5*e;t=r?e:n},u=function(e){var t=document.createElement("link");t.setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.setAttribute("href",n+e+r+".css"),t.setAttribute("media",i[e]),s.parentNode.insertBefore(t,s),delete i[e]},c=function(e,n,r){n&&!r&&t>=n&&u(e),r&&!n&&r>=t&&u(e),n&&r&&t>=n&&r>=t&&u(e)},l=function(e){if(a[e])return a[e];var t=e.match(/\(min\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),n=e.match(/\(max\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),r=t&&parseFloat(t[1])||null,s=n&&parseFloat(n[1])||null;return a[e]=[r,s],a[e]},f=function(){var e=0;for(var t in i)e++;return e},m=function(){f()||window.removeEventListener("resize",d,!1);for(var e in i){var t=i[e],n=l(t);c(e,n[0],n[1])}},d=function(){o(),m()},h=function(e,t){i=e,n=t.path+("/"!==t.path.substr(-1)?"/":""),r=t.postfix,s=t.insertBefore,o(),m(),window.addEventListener("resize",d,!1)};return{stylesheetLoaderInit:h}}(); var stylesheets = {"compact":"(max-width: 599px)","tablet":"(min-width: 600px) and (max-width: 1007px)","wide":"(min-width: 1008px)"}; bootstrapUI.stylesheetLoaderInit(stylesheets, { path: 'https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese', postfix: '', insertBefore: insertPoint }); var loadRequire = function(){ var js_paths = {"jquery-1.9":"vendor\/jquery-1\/jquery","jquery-1":"https:\/\/static.bbc.co.uk\/frameworks\/jquery\/0.4.1\/sharedmodules\/jquery-1.7.2","demi-1":"https:\/\/static.bbc.co.uk\/frameworks\/demi\/0.10.1\/sharedmodules\/demi-1","swfobject-2":"https:\/\/static.bbc.co.uk\/frameworks\/swfobject\/0.1.10\/sharedmodules\/swfobject-2","jquery":"vendor\/jquery-2\/jquery.min","domReady":"vendor\/require\/domReady","translation":"module\/translations\/pt","bump-3":"\/\/emp.bbci.co.uk\/emp\/bump-3\/bump-3"};  js_paths.navigation = 'module/nav/navManager';  require.config({ baseUrl: 'https://static.bbc.co.uk/news/1.315.03594/js', map: { 'vendor/locator': { 'module/bootstrap': 'vendor/locator/bootstrap', 'locator/stats': 'vendor/locator/stats', 'locator/locatorView': 'vendor/locator/locatorView' } }, paths: js_paths, waitSeconds: 30 }); define('config', function () { return config; });  require(['module/wsojCookie'], function (wsojCookie) { wsojCookie.setSeenBefore(); });              require(["compiled\/all"], function() {
+      require(['domReady'], function (domReady) { domReady(function () { require(["module\/dotcom\/handlerAdapter","module\/stats\/statsSubscriberAdapter","module\/alternativeJsStrategy\/controller","module\/iconLoaderAdapter","module\/polyfill\/location.origin","module\/navigation\/handlerAdaptor","module\/noTouchDetectionForCss","module\/components\/wsoj","module\/components\/optimizelyAdapter","module\/components\/stickyPlayer\/mainAdapter","module\/components\/responsiveImage","module\/components\/timestampAdaptor","module\/components\/twiteAdapter","module\/tableScrollAdapter","module\/userScrollAdapter","module\/components\/mediaPlayer\/mainAdapter","module\/components\/socialEmbedAdapter","module\/comscoreAdapter"], function() {  require(["module\/strategiserAdaptor"]);  }); }); });              });
+     };  loadRequire();  } else { var l = document.createElement('link'); l.href = 'https://static.bbc.co.uk/news/1.315.03594/icons/generated/icons.fallback.css'; l.rel = 'stylesheet'; document.getElementsByTagName('head')[0].appendChild(l); } </script>  <script type="text/javascript"> /*<![CDATA[*/ bbcdotcom.init({adsToDisplay:['leaderboard', 'sponsor_section', 'mpu', 'infeed_news_story', 'outbrain_ar_5', 'outbrain_ar_7', 'outbrain_ar_8', 'outbrain_ar_9', 'native', 'mpu_bottom', 'adsense', 'inread'], asyncEnabled:true }); /*]]>*/ </script>      <noscript><link href="https://static.bbc.co.uk/news/1.315.03594/icons/generated/icons.fallback.css" rel="stylesheet"></noscript>
+
+                
+    
+    
+
+                                                                                            <meta name="wsoj-config" data-wsoj-config="{&quot;caminoHost&quot;:&quot;https:\/\/camino-broker-cdn.api.bbci.co.uk&quot;,&quot;translations&quot;:{&quot;skipLinkLabel&quot;:null,&quot;skipLinkText&quot;:null,&quot;skipLinkFooter&quot;:null,&quot;recsTitle&quot;:&quot;Talvez tamb\u00e9m te interesse&quot;},&quot;insertPosition&quot;:5,&quot;variations&quot;:[&quot;original&quot;,&quot;variation-1&quot;,&quot;variation-2&quot;,&quot;variation-3&quot;,&quot;variation-4&quot;,&quot;variation-5&quot;,&quot;variation-6&quot;,&quot;variation-7&quot;,&quot;variation-8&quot;,&quot;variation-9&quot;,&quot;variation-10&quot;,&quot;control&quot;,&quot;grey-thumbnails&quot;,&quot;grey-thumbnails-large&quot;,&quot;card-links&quot;,&quot;card-thumbnails&quot;,&quot;card-thumbnails-large&quot;],&quot;flagpoles&quot;:{&quot;wsoj&quot;:true,&quot;wsoj_service&quot;:true,&quot;mvt&quot;:true}}" />
+                                                                                            <meta name="optimizely-config" data-optimizely-config="{&quot;optimizelyHost&quot;:&quot;https:\/\/cdn.optimizely.com\/public\/4621041136\/s\/news_prod.js&quot;,&quot;isTestContext&quot;:false,&quot;flagpoles&quot;:{&quot;mvt&quot;:true}}" />                                                                    
+    </head>
+<!--[if IE]><body id="asset-type-sty" class="ie device--feature"><![endif]-->
+<!--[if !IE]>--><body id="asset-type-sty" class="device--feature"><!--<![endif]-->
+    <div class="direction" >
+
+    
+    <noscript><p style="position: absolute; top: -999em"><img src="https://a1.api.bbc.co.uk/hit.xiti?&col=1&from=p&ptag=js&s=598253&p=brasil::portuguese.brasil.story.52855085.page&x1=[urn:bbc:cps:86f501d6-56e4-f444-8850-b1413440f036]&x2=[responsive]&x3=[bbc_website]&x4=[en]&x7=[article]&x8=[reverb-1.4.0-nojs]&x11=[WS_NEWS_LANGUAGES]&x12=[BRASIL]" height="1" width="1" alt=""></p></noscript>  <!-- BBCDOTCOM bodyFirst --><div id="bbccom_interstitial_ad" class="bbccom_display_none"></div><div id="bbccom_interstitial" class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isAdsEnabled()) { googletag.cmd.push(function() { googletag.display('bbccom_interstitial'); }); } }()); /*]]>*/</script></div><div id="bbccom_wallpaper_ad" class="bbccom_display_none"></div><div id="bbccom_wallpaper" class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ (function() { var wallpaper; if (window.bbcdotcom && bbcdotcom.config.isAdsEnabled()) { if (bbcdotcom.config.isAsync()) { googletag.cmd.push(function() { googletag.display('bbccom_wallpaper'); }); } else if (typeof googletag !== "undefined" && typeof googletag.display === "function") { googletag.display("wallpaper"); } wallpaper = bbcdotcom.adverts.adRegister.getAd('wallpaper'); } }()); /*]]>*/</script></div><script type="text/javascript">/*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isAdsEnabled()) { document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isAnalyticsEnabled()) { document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } }()); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.bodyFirst = true; }()); /*]]>*/</script> <div id="cookiePrompt"></div>  <!--[if (gt IE 8) | (IEMobile)]><!--><header id="orb-banner" role="banner" aria-label="BBC"><!--<![endif]--><!--[if (lt IE 9) & (!IEMobile)]>
+            <![if (IE 8)]>
+                <header id="orb-banner" role="banner" class="orb-old-ie orb-ie8" aria-label="BBC">
+            <![endif]>
+
+            <![if (IE 7)]>
+                <header id="orb-banner" role="banner" class="orb-old-ie orb-ie7" aria-label="BBC">
+            <![endif]>
+
+            <![if (IE 6)]>
+                <header id="orb-banner" role="banner" class="orb-old-ie orb-ie6" aria-label="BBC">
+            <![endif]>
+        <![endif]--><div id="orb-header" class="orb-nav-pri orb-nav-pri-white orb-nav-empty" data-max-d="0" data-max-w="0" dir="ltr"><div class="orb-nav-pri-container b-r b-g-p"><div class="orb-nav-section orb-nav-blocks"><a href="https://www.bbc.co.uk">Homepage</a></div><section><div class="orb-skip-links"><h2>Accessibility links</h2><ul><li><a href="#page">Ir para o conteúdo</a></li><li><a id="orb-accessibility-help" href="https://www.bbc.co.uk/accessibility/">Accessibility Help</a></li></ul></div></section><nav role="navigation" aria-label="BBC" class="orb-nav"><div class="orb-nav-section orb-nav-links orb-nav-focus" id="orb-nav-links"><ul><li class="orb-nav-news"><a href="https://www.bbc.com/news">News</a></li><li class="orb-nav-sport"><a href="https://www.bbc.com/sport">Sport</a></li><li class="orb-nav-weather"><a href="https://www.bbc.com/weather">Weather</a></li><li class="orb-nav-radio"><a href="https://www.bbc.co.uk/worldserviceradio">Radio</a></li><li class="orb-nav-arts"><a href="https://www.bbc.co.uk/arts">Arts</a></li><li id="orb-nav-more" style="width: 88px" aria-controls="orb-panel-more"><a href="#orb-footer" data-alt="Mais" class="istats-notrack">Menu<span class="orb-icon orb-icon-arrow"></span></a></li></ul></div></nav><div class="orb-nav-section orb-nav-search"><a class="orb-search__button" href="https://search.bbc.co.uk/search?scope&#x3D;portuguese" title="Busca na BBC">Busca</a><form class="b-f" id="orb-search-form" role="search" method="get" action="https://search.bbc.co.uk/search" accept-charset="utf-8"><div><input type="hidden" name="scope" id="orb-search-scope" value="portuguese"><label for="orb-search-q">Busca na BBC</label><input id="orb-search-q" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" name="q" placeholder="Busca"><button id="orb-search-button" class="orb-search__button">Busca na BBC</button><input type="hidden" name="suggid" id="orb-search-suggid"></div></form></div></div><div id="orb-panels" class="orb-ws-panels"></div></div></header>  <!-- Styling hook for shared modules only -->
+<div id="orb-modules">
+    
+    <div id="site-container">
+
+                <div class="site-brand site-brand--height" role="banner" aria-label="BBC News Brasil">
+            <div class="site-brand-inner site-brand-inner--height">
+                <div class="navigation navigation--primary">
+                    <a href="/portuguese" id="brand">
+            <svg class="brand__svg" width="192" height="30" focusable="false" aria-hidden="true">
+            <image xlink:href="https://static.bbc.co.uk/news/1.315.03594/img/brand/generated/portuguese-light.svg" src="https://static.bbc.co.uk/news/1.315.03594/img/brand/generated/portuguese-light.png" width="100%" height="100%"/>
+        </svg>
+        <span class="off-screen">News Brasil</span>
+        </a>                    <h2 class="navigation__heading off-screen">BBC News Brasil Navegação</h2>
+                    <div class="nav-buttons">
+                                                <a href="#core-navigation" class="navigation__section navigation__section--core" data-event="header">
+                            <div class="navigation__section--icon">
+                                <span class="off-screen">Seções</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                        
+
+<div class="navigation navigation--wide">
+    <ul class="navigation-wide-list" role="navigation" aria-label="BBC News Brasil" data-panel-id="js-navigation-panel-primary">
+                    <li>
+                <a href="/portuguese" class="navigation-wide-list__link">
+                    <span>Notícias</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/brasil" class="navigation-wide-list__link">
+                    <span>Brasil</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/internacional" class="navigation-wide-list__link">
+                    <span>Internacional</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/topics/ca170ae3-99c1-48db-9b67-2866f85e7342" class="navigation-wide-list__link">
+                    <span>Economia</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/topics/c4794229-7f87-43ce-ac0a-6cfcd6d3cef2" class="navigation-wide-list__link">
+                    <span>Saúde</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/topics/0f469e6a-d4a6-46f2-b727-2bd039cb6b53" class="navigation-wide-list__link">
+                    <span>Ciência</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/topics/31684f19-84d6-41f6-b033-7ae08098572a" class="navigation-wide-list__link">
+                    <span>Tecnologia</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/aprenda_ingles" class="navigation-wide-list__link">
+                    <span>Aprenda Inglês</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/salasocial" class="navigation-wide-list__link">
+                    <span>#SalaSocial</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/media/video" class="navigation-wide-list__link navigation-wide-list__link--last">
+                    <span>Vídeos</span>
+                </a>
+                            </li>
+            </ul>
+</div>
+
+                    </div>
+            
+    
+<div id="bbccom_leaderboard_1_2_3_4" class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('leaderboard', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+
+    
+                        <div class="container-width-only">
+                                    
+<div id="bbccom_sponsor_section_1_2_3_4" class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('sponsor_section', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+            </div>
+            
+         <div id="page" class="configurable story " data-story-id="brasil-52855085">      <div role="main"> <div class="container-width-only">    
+<div id="bbccom_sponsor_section_1_2_3_4" class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('sponsor_section', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+   </div>      <div class="container">       <div class="container--primary-and-secondary-columns column-clearfix">                         <div class="column--primary">
+                                                                            
+<script type="text/html" id="orb-pulse-tmpl"><![CDATA[
+    <section>
+        <div id="pulse-container" class="pulse-banner orb-banner-wrapper">
+            <div class="orb-banner b-g-p b-r b-f">
+                <div class="orb-banner-inner">
+                    <h2 class="orb-banner-title">Fale-nos sobre você</h2>
+                    <div class="orb-banner-content">
+                        <p>Estamos sempre buscando melhorar o nosso site, e sua opinião é importante.</p>
+                        <p class="pulse-question">Você tem alguns minutos para nos dizer o que acha deste site?</p>
+                    </div>
+                    <ul class="orb-banner-options">
+                        <li><a href="{{pulseaccepthref}}" id="pulse-accept">Sim</a></li>
+                        <li><button type="button" id="pulse-reject">Não</button></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+]]></script>
+
+<script>
+require(['module/pulseSurvey'], function(pulse) {
+    pulse.init('portuguese', {"override":false,"probability":50});
+});
+</script>
+                                                                                            
+<div class="story-body">
+    <h1 class="story-body__h1">Coronavírus: o site que mostra se você mora em área de risco de covid-19</h1>
+
+        <div class="byline">
+        <span class="byline__name">Rafael Barifouse</span>
+        <span class="byline__title">Da BBC News Brasil em São Paulo </span>
+    </div>
+
+        <div class="with-extracted-share-icons">
+        <div class="story-body__mini-info-list-and-share">
+            <div class="story-body__mini-info-list-and-share-row">
+                <div class="mini-info-list-wrap">
+                                            <ul class="mini-info-list">
+    <li class="mini-info-list__item"><div class="date date--v2" data-seconds="1591097807" data-datetime="2 junho 2020">2 junho 2020</div></li>
+</ul>
+                                    </div>
+                                    <div class="share-tools--no-event-tag">
+                        
+
+    <div id="comp-pattern-library" class="distinct-component-group container-twite">
+        
+            <ul class="sharetools">
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--facebook twite__channel-click-extracted--facebook twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--facebook"onclick="window.open('http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=555,height=615').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--facebook" data-platform="facebook">
+                    <svg class="extracted-svg ex-facebook" viewBox="-17 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.73,17 L5.73,9.246 L8.333,9.246 L8.723,6.223 L5.73,6.223 L5.73,4.294 C5.73,3.419 5.973,2.823 7.228,2.823 L8.828,2.822 L8.828,0.119 C8.551,0.082 7.601,0 6.496,0 C4.189,0 2.609,1.408 2.609,3.995 L2.609,6.223 L0,6.223 L0,9.246 L2.609,9.246 L2.609,17 L5.73,17 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Facebook</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--messengerdesktop twite__channel-click-extracted--messengerdesktop twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--messengerdesktop"onclick="window.open('http://www.facebook.com/dialog/send?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=645,height=580').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--messengerdesktop" data-platform="messengerdesktop">
+                    <svg class="extracted-svg ex-messengerdesktop" viewBox="-14 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M9.84804801,11.1721834 L7.54389655,8.77893955 L3.1059828,11.2323207 L7.97153994,6.06941781 L10.2756914,8.46377529 L14.7136051,6.00928046 L9.84804801,11.1721834 Z M8.90923715,0 C3.98911093,0 0,3.73074306 0,8.33125039 C0,10.9494525 1.29183939,13.2847862 3.3097816,14.8116068 L3.3097816,18 L6.35117243,16.3139269 C7.16079936,16.5399988 8.02054074,16.6625008 8.90923715,16.6625008 C13.830477,16.6625008 17.8184743,12.9328714 17.8184743,8.33125039 C17.8184743,3.73074306 13.830477,0 8.90923715,0 L8.90923715,0 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Messenger</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--twitter twite__channel-click-extracted--twitter twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--twitter"onclick="window.open('https://twitter.com/intent/tweet?text=BBC%20News%20Brasil%20-%20Coronav%C3%ADrus%3A%20o%20site%20que%20mostra%20se%20voc%C3%AA%20mora%20em%20%C3%A1rea%20de%20risco%20de%20covid-19&amp;url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=250').opener = null" href='#' class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+Brasil+-+Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19&amp;amp;url= data-target-url=https://www.bbc.com/portuguese/brasil-52855085 tabindex="-1">
+                    <span class="extracted__icon extracted__icon--twitter" data-platform="twitter">
+                    <svg class="extracted-svg ex-twitter" viewBox="-13 -15 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.80573373,15 C12.7721527,15 16.581877,9.22887915 16.581877,4.22385671 C16.581877,4.06002242 16.581877,3.89618812 16.5714931,3.73466135 C17.3122088,3.19816171 17.9525471,2.53359441 18.4602026,1.77326482 C17.7690988,2.08016568 17.0364595,2.28092039 16.28536,2.36976011 C17.0756874,1.89671742 17.6675677,1.15138674 17.9502395,0.274527115 C17.2072164,0.715264453 16.3938137,1.02678037 15.5457981,1.19407596 C14.1105174,-0.331198284 11.7118448,-0.405039095 10.1865706,1.0290879 C9.20241101,1.95440555 8.78590269,3.33315194 9.09049603,4.64844138 C6.04571636,4.4961447 3.20861397,3.05740266 1.28529161,0.691035437 C0.280364327,2.42167943 0.793788713,4.63574999 2.45751448,5.74682343 C1.85525036,5.72951699 1.26567764,5.56683646 0.738408105,5.27262698 L0.738408105,5.32108501 C0.739561868,7.12441605 2.00985456,8.67622684 3.77741896,9.03389326 C3.2201516,9.18618993 2.63519393,9.20811142 2.06754269,9.09850397 C2.56366064,10.6410847 3.98509624,11.6979313 5.60613279,11.7290828 C4.26430681,12.7824682 2.60750362,13.3547344 0.902242404,13.3535807 C0.601110348,13.3524269 0.299978293,13.3339667 7.10542736e-15,13.2982001 C1.73295152,14.4104273 3.74742113,15 5.80573373,14.9965387"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Twitter</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--email twite__channel-click-extracted--email twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--email"href='mailto:?subject=Compartilhado%20pela%20BBC%20Brasil&amp;body=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--email" data-platform="email">
+                    <svg class="extracted-svg ex-email" viewBox="-7 1 27 9" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M11,4.9V9H2V2.1l4.6,5L13.1,0H0.2H0v11h13V2.8L11,4.9z M10.2,2L6.7,5.8L3.2,2H10.2z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Email</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--facebook twite__channel-click-extracted--facebook twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--facebook"onclick="window.open('http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=555,height=615').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--facebook" data-platform="facebook">
+                    <svg class="extracted-svg ex-facebook" viewBox="-17 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.73,17 L5.73,9.246 L8.333,9.246 L8.723,6.223 L5.73,6.223 L5.73,4.294 C5.73,3.419 5.973,2.823 7.228,2.823 L8.828,2.822 L8.828,0.119 C8.551,0.082 7.601,0 6.496,0 C4.189,0 2.609,1.408 2.609,3.995 L2.609,6.223 L0,6.223 L0,9.246 L2.609,9.246 L2.609,17 L5.73,17 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Facebook</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--whatsapp twite__channel-click-extracted--whatsapp twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--whatsapp"onclick="window.open('whatsapp://send?text=BBC%20News%20Brasil%20%7C%20Coronav%C3%ADrus%3A%20o%20site%20que%20mostra%20se%20voc%C3%AA%20mora%20em%20%C3%A1rea%20de%20risco%20de%20covid-19%20-%20https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3Focid%3Dwsportuguese.chat-apps.in-app-msg.whatsapp.trial.link1_.auin', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=600,height=600').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--whatsapp" data-platform="whatsapp">
+                    <svg class="extracted-svg ex-whatsapp" viewBox="-11 -11 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M0.6 19.4L1.9 14.7C1 13.3 0.6 11.7 0.6 10 0.6 4.8 4.8 0.5 10 0.5 15.2 0.5 19.4 4.8 19.4 10 19.4 15.2 15.2 19.4 10 19.4 8.4 19.4 6.8 19 5.4 18.2L0.6 19.4ZM5.6 16.5L5.9 16.7C7.2 17.4 8.6 17.8 10 17.8 14.3 17.8 17.8 14.3 17.8 10 17.8 5.7 14.3 2.1 10 2.1 5.7 2.1 2.2 5.7 2.2 10 2.2 11.5 2.6 12.9 3.4 14.2L3.6 14.5 2.8 17.2 5.6 16.5Z M7.4 5.6L6.7 5.5C6.6 5.5 6.4 5.6 6.2 5.7 5.9 6 5.5 6.5 5.3 7.1 5.1 8.1 5.4 9.3 6.3 10.5 7.2 11.6 8.8 13.5 11.6 14.4 12.6 14.6 13.3 14.4 13.8 14.1 14.3 13.8 14.6 13.3 14.7 12.8L14.8 12.4C14.8 12.2 14.8 12.1 14.6 12L12.6 11.1C12.4 11 12.3 11 12.2 11.2L11.4 12.2C11.3 12.3 11.2 12.3 11.1 12.3 10.5 12.1 8.7 11.3 7.7 9.3 7.6 9.3 7.6 9.2 7.7 9.1L8.5 8.2C8.5 8.1 8.6 8 8.5 7.9L7.6 5.8C7.6 5.7 7.5 5.6 7.4 5.6Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com WhatsApp</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--messengermobile twite__channel-click-extracted--messengermobile twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--messengermobile"href='fb-messenger://share?app_id=58567469885&amp;redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FCMP%3Dshare_btn_me' target=_blank rel=noopener tabindex="-1">
+                    <span class="extracted__icon extracted__icon--messengermobile" data-platform="messengermobile">
+                    <svg class="extracted-svg ex-messengermobile" viewBox="-14 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M9.84804801,11.1721834 L7.54389655,8.77893955 L3.1059828,11.2323207 L7.97153994,6.06941781 L10.2756914,8.46377529 L14.7136051,6.00928046 L9.84804801,11.1721834 Z M8.90923715,0 C3.98911093,0 0,3.73074306 0,8.33125039 C0,10.9494525 1.29183939,13.2847862 3.3097816,14.8116068 L3.3097816,18 L6.35117243,16.3139269 C7.16079936,16.5399988 8.02054074,16.6625008 8.90923715,16.6625008 C13.830477,16.6625008 17.8184743,12.9328714 17.8184743,8.33125039 C17.8184743,3.73074306 13.830477,0 8.90923715,0 L8.90923715,0 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Messenger</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--twitter twite__channel-click-extracted--twitter twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--twitter"onclick="window.open('https://twitter.com/intent/tweet?text=BBC%20News%20Brasil%20-%20Coronav%C3%ADrus%3A%20o%20site%20que%20mostra%20se%20voc%C3%AA%20mora%20em%20%C3%A1rea%20de%20risco%20de%20covid-19&amp;url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=250').opener = null" href='#' class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+Brasil+-+Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19&amp;amp;url= data-target-url=https://www.bbc.com/portuguese/brasil-52855085 tabindex="-1">
+                    <span class="extracted__icon extracted__icon--twitter" data-platform="twitter">
+                    <svg class="extracted-svg ex-twitter" viewBox="-13 -15 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.80573373,15 C12.7721527,15 16.581877,9.22887915 16.581877,4.22385671 C16.581877,4.06002242 16.581877,3.89618812 16.5714931,3.73466135 C17.3122088,3.19816171 17.9525471,2.53359441 18.4602026,1.77326482 C17.7690988,2.08016568 17.0364595,2.28092039 16.28536,2.36976011 C17.0756874,1.89671742 17.6675677,1.15138674 17.9502395,0.274527115 C17.2072164,0.715264453 16.3938137,1.02678037 15.5457981,1.19407596 C14.1105174,-0.331198284 11.7118448,-0.405039095 10.1865706,1.0290879 C9.20241101,1.95440555 8.78590269,3.33315194 9.09049603,4.64844138 C6.04571636,4.4961447 3.20861397,3.05740266 1.28529161,0.691035437 C0.280364327,2.42167943 0.793788713,4.63574999 2.45751448,5.74682343 C1.85525036,5.72951699 1.26567764,5.56683646 0.738408105,5.27262698 L0.738408105,5.32108501 C0.739561868,7.12441605 2.00985456,8.67622684 3.77741896,9.03389326 C3.2201516,9.18618993 2.63519393,9.20811142 2.06754269,9.09850397 C2.56366064,10.6410847 3.98509624,11.6979313 5.60613279,11.7290828 C4.26430681,12.7824682 2.60750362,13.3547344 0.902242404,13.3535807 C0.601110348,13.3524269 0.299978293,13.3339667 7.10542736e-15,13.2982001 C1.73295152,14.4104273 3.74742113,15 5.80573373,14.9965387"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Twitter</span>
+            </a>
+        </li>
+    <li class="twite twite__list-elements">
+        <a href="#share-tools" class="twite__share-button" aria-label="Open share panel" data-origin="page" aria-expanded="false" aria-haspopup="true">
+            <svg class="twite__share-icon" width="17px" aria-hidden="true" focusable="false" viewBox="0 0 29.266 32"><path d="M5.473 22.153c1.586 0 3.01-.684 4.012-1.762l9 4.845c-.102.412-.16.85-.16 1.297 0 3.02 2.452 5.468 5.472 5.468 3.017 0 5.47-2.446 5.47-5.468 0-3.023-2.453-5.47-5.47-5.47-1.587 0-3.02.68-4.015 1.757l-9.457-5.175-.074-2.792 9.74-5.456c.99.953 2.327 1.543 3.807 1.543 3.017 0 5.47-2.45 5.47-5.474 0-3.022-2.453-5.467-5.47-5.467-3.02 0-5.473 2.444-5.473 5.466 0 .554.08 1.09.243 1.597L9.27 12.75c-.988-.95-2.326-1.537-3.797-1.537C2.447 11.213 0 13.657 0 16.68c0 3.03 2.447 5.473 5.473 5.473"/></svg><span class="twite__share-text">Compartilhar</span>
+        </a>
+        <div class="twite__panel arrow-top" data-share-uri="">
+            <p class="twite__title" aria-hidden="true">Compartilhe este post com</p>
+            <span class="off-screen">Estes são links externos e abrirão numa nova janela</span>
+            <ul class="twite__channels">
+                    <li class="twite__channel twite__channel--email twite__channel-click--email">
+                        <a class="twite__channel-link"href='mailto:?subject=Compartilhado%20pela%20BBC%20Brasil&amp;body=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085' >
+                            <span class="twite__icon twite__icon--email" data-platform="email"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Email</p>
+                            <span class="off-screen">Compartilhe este post com Email</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--facebook twite__channel-click--facebook">
+                        <a class="twite__channel-link"onclick="window.open('http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=555,height=615').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--facebook" data-platform="facebook"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Facebook</p>
+                            <span class="off-screen">Compartilhe este post com Facebook</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--messengerdesktop twite__channel-click--messengerdesktop">
+                        <a class="twite__channel-link"onclick="window.open('http://www.facebook.com/dialog/send?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=645,height=580').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--messengerdesktop" data-platform="messengerdesktop"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Messenger</p>
+                            <span class="off-screen">Compartilhe este post com Messenger</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--messengermobile twite__channel-click--messengermobile">
+                        <a class="twite__channel-link"href='fb-messenger://share?app_id=58567469885&amp;redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FCMP%3Dshare_btn_me' target=_blank rel=noopener>
+                            <span class="twite__icon twite__icon--messengermobile" data-platform="messengermobile"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Messenger</p>
+                            <span class="off-screen">Compartilhe este post com Messenger</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--twitter twite__channel-click--twitter">
+                        <a class="twite__channel-link"onclick="window.open('https://twitter.com/intent/tweet?text=BBC%20News%20Brasil%20-%20Coronav%C3%ADrus%3A%20o%20site%20que%20mostra%20se%20voc%C3%AA%20mora%20em%20%C3%A1rea%20de%20risco%20de%20covid-19&amp;url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=250').opener = null" href='#' class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+Brasil+-+Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19&amp;amp;url= data-target-url=https://www.bbc.com/portuguese/brasil-52855085>
+                            <span class="twite__icon twite__icon--twitter" data-platform="twitter"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Twitter</p>
+                            <span class="off-screen">Compartilhe este post com Twitter</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--whatsapp twite__channel-click--whatsapp">
+                        <a class="twite__channel-link"onclick="window.open('whatsapp://send?text=BBC%20News%20Brasil%20%7C%20Coronav%C3%ADrus%3A%20o%20site%20que%20mostra%20se%20voc%C3%AA%20mora%20em%20%C3%A1rea%20de%20risco%20de%20covid-19%20-%20https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3Focid%3Dwsportuguese.chat-apps.in-app-msg.whatsapp.trial.link1_.auin', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=600,height=600').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--whatsapp" data-platform="whatsapp"></span>
+                            <p class="twite__channel-text" aria-hidden="true">WhatsApp</p>
+                            <span class="off-screen">Compartilhe este post com WhatsApp</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--linkedin twite__channel-click--linkedin">
+                        <a class="twite__channel-link"onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085&amp;title=Coronav%C3%ADrus%3A%20o%20site%20que%20mostra%20se%20voc%C3%AA%20mora%20em%20%C3%A1rea%20de%20risco%20de%20covid-19&amp;summary=Projeto%20colaborativo%20criado%20por%20estudante%20de%20Medicina%20est%C3%A1%20mapeando%20infec%C3%A7%C3%B5es%20no%20Brasil%20e%20criando%20base%20de%20dados%20que%20depois%20poder%C3%A1%20ser%20usada%20em%20pesquisas%20sobre%20pandemia.&amp;source=BBC', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=500').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--linkedin" data-platform="linkedin"></span>
+                            <p class="twite__channel-text" aria-hidden="true">LinkedIn</p>
+                            <span class="off-screen">Compartilhe este post com LinkedIn</span>
+                        </a>
+                    </li>
+            </ul>
+            <p class="twite__copy-text">Copiar este link</p>
+            <div class="twite__copy-input">
+                <a class="twite__share-link" href="https://www.bbc.com/portuguese/brasil-52855085" tabindex="-1" contenteditable="true">https://www.bbc.com/portuguese/brasil-52855085</a>
+            </div>
+            <a class="twite__read-more" href="/portuguese/institutional/2013/08/000000_about_share_this">Sobre compartilhar</a>
+            <p class="twite__new-window" aria-hidden="true">Estes são links externos e abrirão numa nova janela</p>
+            <button class="twite__close-button">
+                <span class="off-screen">Fechar painel de compartilhamento</span>
+                <div class="twite__close-button-graphic" aria-hidden="true"></div>
+            </button>
+        </div>
+    </li>
+</ul>
+
+        
+    </div>
+
+                    </div>
+                            </div>
+                    </div>
+    </div>
+
+    <div class="story-body__inner" property="articleBody">
+                                                                                                    <figure class="media-landscape has-caption full-width lead">
+            <span class="image-and-copyright-container">
+                
+                <img class="js-image-replace" alt="Mapa de São Paulo com indicações de casos de covid-19" src="https://ichef.bbci.co.uk/news/320/cpsprodpb/8A43/production/_112559353_c1a757aa-1aeb-4d77-8135-597f521851ae.jpg" width="976" height="549">
+                
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Reprodução</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Quase 170 mil pessoas já contribuíram com o site
+                </span>
+            </figcaption>
+            
+        </figure><p class="story-body__introduction"> Foi ao assistir uma coletiva de imprensa do Ministério da Saúde no final de março que o curitibano Faissal Nemer Hajar, de 21 anos, teve a ideia de criar um site para mapear casos de covid-19.</p><div id="bbccom_mpu_3" class="bbccom_slot mpu-ad" aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        </script>
+    </div>
+</div><p>O ex-ministro Luiz Henrique Mandetta falava na ocasião sobre o uso de tecnologias para identificar infecções pelo novo coronavírus.</p><p>O estudante de medicina se lembrou sobre como havia discutido, em um curso, sobre o uso de dados de geolocalização para entender como uma doença infecciosa se espalha.</p><div id="bbccom_mpu_1_2" class="bbccom_slot mpu-ad" aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        </script>
+    </div>
+</div><ul class="story-body__unordered-list">
+<li class="story-body__list-item"><a href="/portuguese/brasil-52844584" class="story-body__link">Moradores fogem de cidades na Amazônia para ter comida e segurança sanitária em comunidades ribeirinhas</a></li>
+<li class="story-body__list-item"><a href="/portuguese/brasil-52684840" class="story-body__link">Do delivery às vendas para vizinhos: como o setor de alimentação se adapta para resistir à pandemia</a></li>
+</ul><p>"Eu percebi que não tinha nenhuma plataforma desse tipo ainda para a covid-19 e que eu poderia fazer uma", diz Faissal, que aprendeu sozinho a programar.</p><p>Passados dois meses, a ideia se transformou <a href="https://juntoscontraocovid.org/" class="story-body__link-external">no Juntos Contra o Covid, um site colaborativo que mapeia casos do coronavírus no Brasil </a>e permite que uma pessoa saiba qual é o risco de infecção na região onde ela mora.</p><p>O projeto já recebeu dezenas de milhares de colaborações e precisou interromper brevemente a coleta de dados enquanto se reestrutura para dar conta de tantos acessos. </p><p>"Queremos voltar a funcionar normalmente nos próximos dias", diz Faissal.</p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Retrato de Faissal Nemer" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/17CEC/production/_112561579_384ecc08-0632-4c24-bc5b-22d2152de9cf.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Arquivo Pessoal</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    O estudante Faissal Nemer criou o projeto em março
+                </span>
+            </figcaption>
+            
+        </figure><h2 class="story-body__crosshead">Como funciona</h2><p>Os dados são fornecidos pelos próprios usuários, que informam seu sexo, idade e o endereço onde vivem. Também dizem se foram vacinados contra gripe e testados para covid-19 e se tiveram sintomas compatíveis com os da doença causada pelo coronavírus.</p><p>Respondem ainda se têm algum problema de saúde, se entraram em contato com casos suspeitos ou confirmados e se viajaram para algum local onde há a chamada transmissão comunitária, ou seja, onde o vírus circula livremente.</p><p>A única informação pessoal fornecida é um endereço de email, que é mantido em sigilo.</p><p>Todos esses dados são levados em consideração por um algoritmo que identifica em qual das três categorias de risco a pessoa se encaixa e a identifica no mapa do site de acordo com isso.</p><p>Os casos de risco baixo são identificados por pontos azuis. São pessoas que não têm sintomas de infecção respiratória nem histórico de contato com o vírus.</p><p>Os pontos amarelos são de risco médio: a pessoa tem sintomas, mas não viajou para onde há transmissão comunitária ou não tem certeza se esteve em contato com casos suspeitos ou confirmados.</p><p>Os casos de alto risco, em vermelho, são de quem testou positivo para covid-19 ou tem sintomas e entrou em contato com casos suspeitos ou confirmados ou viajou para onde há a transmissão comunitária.</p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Mapa de Curitiba com indicações de casos de covid-19" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/12683/production/_112559357_554c996b-3b75-434d-be61-1b37a7496fc7.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Reprodução</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Os casos são identificados por diferentes graus de risco, em azul, amarelo e vermelho
+                </span>
+            </figcaption>
+            
+        </figure><p>Quem entra no site pode checar no mapa quantos pontos azuis, amarelos e vermelhos existem em uma região e entender, assim, até que ponto aquela é ou não uma área de risco de covid-19.</p><p>"Queremos conscientizar as pessoas sobre a presença do coronavírus onde elas moram. Mas a gente ressalta que, mesmo onde só há pontos azuis, não significa que o vírus não esteja presente, porque até 30% das infecções podem ser assintomáticas", diz Faissal.</p><h2 class="story-body__crosshead">Dados poderão ser usados em pesquisas</h2><p>Ao mesmo tempo, todos essas informações estão sendo reunidas em uma base de dados que depois será disponibilizada publicamente e poderá ser usada para realizar estudos sobre a pandemia.</p><p>Até o momento, quase 170 mil pessoas já contribuíram com suas informações. "Queremos ajudar a entender o que aconteceu agora e, caso seja possível, em outras pandemias no futuro", afirma o estudante.</p><p>A física Caroline Franco, colaboradora do Observatório Covid-19 BR, que reúne pesquisadores para fazer análises sobre a pandemia, diz que esse tipo de iniciativa é importante, porque existem poucas bases de dados públicas sobre o novo coronavírus no país e a comunidade científica tem enfrentado problemas para conseguir informações com governos.</p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Mapa do Rio de Janeiro com indicações de casos de covid-19" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/D863/production/_112559355_428ca7d6-955b-4f46-be87-c78751ecfce6.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Reprodução</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Acesso à internet é um obstáculo à participação no site
+                </span>
+            </figcaption>
+            
+        </figure><p>"Pedimos esses dados, mas algumas vezes eles demoram para chegar, em outras não recebemos resposta. E, quando a base de dados vem, pode já estar desatualizada, então, é muito interessante esse esforço de mapear os casos", diz a pesquisadora.</p><p>No entanto, Franco ressalta que, para contribuir, a pessoa precisa ter um computador ou smartphone e acesso à internet. A dificuldade de acesso a essas tecnologias faz com que a participação fique mais concentrada nos bairros mais ricos e entre as classes mais altas — e com que a amostra de pessoas ali não seja tão abrangente, o que pode gerar um viés socioeconômico nos resultados de futuros estudos.</p><p>"É uma proposta que tem bastante potencial, mas eles precisam encontrar uma forma de expandir a base de participantes", avalia Franco.</p><p>O epidemiologista Lúcio Botelho, professor do Departamento de Saúde Pública da Universidade Federal de Santa Catarina (UFSC), concorda e faz outra ressalva: pessoas saudáveis podem se sentir mais motivadas a participar do que aquelas que estão doentes.</p><p>"Como a participação é voluntária, você fica dependente de uma pessoa querer ou não colocar os dados, e as pessoas têm uma tendência maior de informar voluntariamente algo que é bom do que algo que é ruim", diz Botelho.</p><p>O epidemiologista diz que isso pode levar o mapa a indicar menos casos do que existem na realidade em uma região e fazer uma pessoa interpretar equivocadamente o risco que existe ali. "Uma forma de corrigir isso seria agregar ao mapa dados de outras fontes", diz Botelho.</p><script>
+    window.vjConfigObject = window.vjConfigObject || {};
+    window.vjConfigObject['vjamericas-408-brazil-coronavirus-lookup-app'] = {"js":true,"output":{"wrapper":"embed"},"name":"vjamericas-408-brazil-coronavirus-lookup","version":"1.1.256","urlToOutputDir":"https://news.files.bbci.co.uk/include/vjamericas/408-brazil-coronavirus-lookup","assetsPath":"https://news.files.bbci.co.uk/include/vjamericas/408-brazil-coronavirus-lookup/assets/app-project-assets","includeName":"app","language":"portuguese","textDirection":"ltr","serviceName":"portuguese","serviceNameNative":"News Brasil","lastUpdated":1589994064581,"vocab":{"noJS":"É preciso ter um navegador atualizado com JavaScript e uma conexão de internet estável para ver este interativo.","title":"Quantos casos e mortes por covid-19 há em sua cidade?","search_cta":"Escreva o nome de um município para descobrir","search_submit_check":"Por favor, escreva o nome válido de um município brasileiro","search_fail":"Por favor, escreva o nome correto do município","search_no_data":"Não há casos confirmados em [PlaceName], em uma população de [Population] pessoas.","search_results":"Há <span class='highlight'>[NumberOfCases] casos confirmados</span> e <span class='highlight'>[NumberOfDeaths] mortes</span> registradas em [PlaceName], em uma população de [Population] pessoas.","search_results_death":"Em [PlaceName], <b>[NumberOfDeaths] pessoas morreram</b> por covid-19, segundo registros oficiais.","search_results_singular_case":"Há <span class='highlight'>1 caso confirmado</span> e <span class='highlight'>[NumberOfDeaths] mortes</span> registradas em [PlaceName], em uma população de [Population] pessoas.","search_results_singular_death":"Há <span class='highlight'>[NumberOfCases] casos confirmados</span> e <span class='highlight'>1 morte</span> registrada em [PlaceName], em uma população de [Population] pessoas.","search_results_singular_case_singular_death":"Há <span class='highlight'>1 caso confirmado</span> e <span class='highlight'>1 morte</span> registrada em [PlaceName], em uma população de [Population] pessoas.","search_results_note":"Nota: Casos confirmados incluem apenas os que tiveram resultados de teste positivo. Mortes incluem apenas as que foram registradas como mortes por covid-19.","search_placeholder":"Ex. 'Rio de Janeiro'","search_data_not_reported":"Não há dados oficiais para esta cidade.","source":"Fonte: Secretarias de Saúde das Unidades Federativas, dados tratados por Álvaro Justen e equipe de voluntários <a href='https://brasil.io/home/'>Brasil.IO</a>","last_updated":"Dados atualizados em [UpdatedOn]"},"outputs":[{"wrapper":"embed"},{"wrapper":"core"},{"wrapper":"envelope"},{"wrapper":"amp"},{"wrapper":"news-app"},{"wrapper":"syndication","photoCaption":"","photoURL":"","hyperlinkCallToAction":"Click here to see the BBC interactive"},{"wrapper":"facebook","height":960,"withMargins":"yes"},{"wrapper":"applenews","photoCaption":"","photoURL":"","hyperlinkCallToAction":"Click or tap here to see interactive content"}],"autoFixLintingErrors":false,"polyfill":false,"dynamicImports":false,"failFast":false,"includePath":{"responsive":true,"newsapps":true,"app-image":"https://placehold.it/640x360","app-clickable":true,"amp-clickable":true,"amp-image-height":360,"amp-image-width":640,"amp-image":"https://placehold.it/640x360","app-image-alt-text":"Click or tap here to see interactive content"},"languages":["portuguese"],"destinationSection":{"english":"uk"},"uncompressedAppBudget":"(1024 * 1000) * 0.5","meta":{"title":null,"images":[{"thumbnail":null}],"hasBeenDeployed":true,"publication_date":"Thu Mar 12 2020 11:04:07 GMT+0000 (Greenwich Mean Time)","last_modified":"Thu Apr 30 2020 12:56:35 GMT+0100 (British Summer Time)","data_last_modified":"Thu Apr 30 2020 12:55:57 GMT+0100 (British Summer Time)","keywords":["health","coronavirus","covid-19","nhs"],"locations":{"regions":["england","northern ireland","scotland","wales"]}},"defaultPort":1031,"usedPort":1031,"shadowDom":true,"projectNamespace":"vjamericas-408-brazil-coronavirus-lookup","outputDir":"include/vjamericas/408-brazil-coronavirus-lookup","includes":{"app":{"uuid":"AYGShDn9"}},"data-updated-on":1589994064581,"pathToWrapperAssets":"https://news.files.bbci.co.uk/include/vjamericas/408-brazil-coronavirus-lookup/assets/embed","pathToInclude":"https://news.files.bbci.co.uk/include/vjamericas/408-brazil-coronavirus-lookup/portuguese/app/embed","pathToWrapperAssetsToInclude":"https://news.files.bbci.co.uk/include/vjamericas/408-brazil-coronavirus-lookup/portuguese/app/embed"};
+</script>
+<link rel="stylesheet" href="https://news.files.bbci.co.uk/include/vjamericas/408-brazil-coronavirus-lookup/assets/embed/css/inline.css">
+<div id="responsive-embed-vjamericas-408-brazil-coronavirus-lookup-app" class="bbc-news-vj-embed-wrapper">
+    <div id="responsive-embed-vjamericas-408-brazil-coronavirus-lookup-app-core-content">
+        <div class="mylookup gel-wrap" id="mylookup">
+            <div class="gel-layout">
+                <div class="gel-layout__item gel-1/1">
+                    <p id="no-js-msg">
+                        É preciso ter um navegador atualizado com JavaScript e uma conexão de internet estável para ver este interativo.
+                    </p>
+                </div>
+            </div>
+        
+            <div class="my__lookup" style="display: none;">
+                <div>
+                    <div class="my-lookup lookup-component">
+                        <div class="top-banner">
+                            <svg class="logo-title" width="144" height="15" xmlns="http://www.w3.org/2000/svg"><g fill="#FFF" fill-rule="evenodd"><path d="M8.702 2.628l.541 2.708h1.942l-.13-3.79A6.797 6.797 0 009.131.741 9.236 9.236 0 006.89.482c-1.033 0-1.973.167-2.819.503a6.084 6.084 0 00-2.176 1.447 6.598 6.598 0 00-1.4 2.24C.165 5.538 0 6.505 0 7.576c0 1.058.152 2.008.458 2.847.305.841.743 1.557 1.316 2.148a5.675 5.675 0 002.082 1.354c.816.311 1.734.467 2.754.467.884 0 1.702-.097 2.455-.29a8.71 8.71 0 002.176-.887v-2.017c-1.096.735-2.365 1.102-3.81 1.102-1.381 0-2.439-.429-3.173-1.288-.735-.859-1.102-2.098-1.102-3.716 0-1.058.152-1.963.457-2.717.305-.753.744-1.328 1.317-1.727.572-.398 1.263-.598 2.073-.598.684 0 1.251.125 1.699.374M21.754 13.887a6.068 6.068 0 002.166-1.437c.598-.622 1.055-1.378 1.372-2.27.317-.889.477-1.881.477-2.978 0-1.418-.25-2.628-.747-3.63-.498-1.002-1.221-1.769-2.166-2.297C21.909.745 20.77.48 19.439.48c-1.06 0-2.011.167-2.858.505a6.06 6.06 0 00-2.166 1.436 6.288 6.288 0 00-1.372 2.26c-.317.884-.477 1.88-.477 2.987 0 1.42.25 2.63.748 3.633.498 1.002 1.219 1.768 2.166 2.296.946.53 2.085.793 3.417.793 1.058 0 2.01-.168 2.857-.504m-.01-10.335c.579.865.868 2.113.868 3.744 0 1.718-.304 3.035-.915 3.95-.61.915-1.481 1.371-2.614 1.371-1.082 0-1.913-.432-2.492-1.297-.58-.866-.868-2.113-.868-3.744 0-1.717.304-3.034.915-3.948.609-.916 1.48-1.373 2.614-1.373 1.083 0 1.913.433 2.492 1.297M32.564 12.58l-1.362-.112V8.995h1.306c.087 0 .178-.003.271-.009.094-.007.183-.01.271-.01.336.548.672 1.118 1.008 1.71a136.697 136.697 0 011.886 3.425h3.697v-1.53l-1.177-.094a91.082 91.082 0 00-2.725-4.351c1.668-.61 2.502-1.755 2.502-3.435 0-1.332-.457-2.322-1.372-2.97-.915-.647-2.319-.97-4.21-.97h-5.77v1.531l1.363.112v10.064l-1.364.112v1.531h5.676v-1.53zm-.709-10.102c.2-.012.398-.018.598-.018.945 0 1.631.193 2.053.578.423.387.635.972.635 1.756 0 1.656-.915 2.483-2.745 2.483h-1.194V2.553c.236-.037.454-.062.653-.075zM49.389 13.887a6.068 6.068 0 002.165-1.437c.599-.622 1.055-1.378 1.372-2.27.317-.889.477-1.881.477-2.978 0-1.418-.25-2.628-.746-3.63-.498-1.002-1.221-1.769-2.166-2.297-.947-.53-2.085-.794-3.417-.794-1.06 0-2.011.167-2.858.505a6.06 6.06 0 00-2.166 1.436 6.288 6.288 0 00-1.372 2.26c-.317.884-.477 1.88-.477 2.987 0 1.42.25 2.63.748 3.633.498 1.002 1.218 1.768 2.166 2.296.945.53 2.084.793 3.416.793 1.059 0 2.01-.168 2.858-.504m-.01-10.335c.579.865.867 2.113.867 3.744 0 1.718-.303 3.035-.915 3.95-.609.915-1.48 1.371-2.614 1.371-1.081 0-1.913-.432-2.492-1.297-.578-.866-.867-2.113-.867-3.744 0-1.717.303-3.034.915-3.948.608-.916 1.48-1.373 2.613-1.373 1.083 0 1.913.433 2.492 1.297M59.62 12.58l-1.362-.187V3.991a259.586 259.586 0 012.109 3.202 354.858 354.858 0 014.37 6.918h2.689V2.478l1.325-.186V.762h-4.742v1.53l1.363.186v7.563a259.855 259.855 0 00-2.98-4.733A545.745 545.745 0 0059.435.761H54.84v1.531l1.363.112v9.99l-1.363.186v1.531h4.78v-1.53zM74.073 3.142a135.59 135.59 0 00-.934 2.222c-.298.728-.594 1.463-.887 2.203-.292.74-.594 1.51-.906 2.306a205.8 205.8 0 00-.97 2.54l-1.214.167v1.532h4.836V12.58l-1.363-.167c.125-.361.254-.726.392-1.093.137-.367.274-.737.41-1.111h5.155c.286.797.553 1.557.802 2.278l-1.363.093v1.532h5.789V12.58l-1.214-.093c-.337-.871-.654-1.696-.953-2.474-.298-.778-.594-1.534-.887-2.268a337.86 337.86 0 00-1.82-4.482c-.324-.784-.672-1.618-1.046-2.502h-2.819c-.349.834-.685 1.628-1.008 2.38m.979 2.83l.981-2.465c.336.822.666 1.653.99 2.492.323.84.635 1.665.934 2.475h-3.865c.31-.834.631-1.668.96-2.502M93.23 8.286a314.613 314.613 0 002.24-5.826l1.214-.168V.761h-4.836v1.531l1.363.168a179.793 179.793 0 01-3.267 8.795 296.321 296.321 0 01-1.68-4.491c-.549-1.5-1.065-2.959-1.55-4.378l1.363-.094V.761h-5.789v1.531l1.213.094a265.934 265.934 0 002.195 5.816 238.81 238.81 0 002.4 5.91h2.744c.833-1.967 1.63-3.909 2.39-5.826zm10.456-5.994V.761h-5.714v1.531l1.363.112v10.065l-1.363.111v1.532h5.714V12.58l-1.363-.111V2.404l1.363-.112zm7.618 10.288l-1.362-.111V8.995h1.307c.086 0 .177-.002.27-.009a4.25 4.25 0 01.271-.009c.336.548.672 1.117 1.008 1.708a143.865 143.865 0 011.886 3.427h3.697V12.58l-1.176-.093a91.037 91.037 0 00-2.726-4.35c1.668-.61 2.502-1.756 2.502-3.436 0-1.332-.458-2.322-1.372-2.969-.915-.647-2.319-.971-4.21-.971h-5.77v1.531l1.363.112v10.065l-1.364.111v1.532h5.676V12.58zm-.709-10.101a9.95 9.95 0 01.598-.019c.945 0 1.63.193 2.054.579.422.386.634.971.634 1.755 0 1.656-.915 2.484-2.745 2.484h-1.194V2.554c.236-.038.454-.062.653-.075zM129.79 13.029c.946-.91 1.42-2.21 1.42-3.902V2.479l1.325-.186V.76h-4.742v1.532l1.363.186v6.573c0 1.083-.26 1.91-.775 2.483-.517.573-1.261.859-2.232.859-.946 0-1.677-.28-2.193-.84-.518-.56-.775-1.351-.775-2.372V2.404l1.363-.111V.76h-5.714v1.532l1.363.11v7.003c0 1.046.218 1.939.654 2.68.435.74 1.064 1.31 1.885 1.709.822.398 1.812.597 2.969.597 1.78 0 3.144-.454 4.09-1.363M141.46 13.887c.797-.335 1.41-.824 1.84-1.466.43-.64.644-1.402.644-2.287 0-.56-.078-1.055-.233-1.484a2.822 2.822 0 00-.747-1.12c-.343-.317-.791-.599-1.345-.84-.554-.244-1.23-.459-2.025-.645a13.553 13.553 0 01-1.27-.364c-.337-.119-.601-.252-.794-.402a1.181 1.181 0 01-.401-.522 2.01 2.01 0 01-.112-.71c0-.56.206-1.004.616-1.334.41-.33.977-.496 1.699-.496.374 0 .706.026.999.075.292.05.569.138.83.262l.412 2.09h1.923l-.112-3.304a9.348 9.348 0 00-1.998-.654 10.444 10.444 0 00-2.091-.206c-1.046 0-1.958.172-2.735.514-.78.343-1.38.821-1.802 1.437-.424.617-.635 1.349-.635 2.196 0 .548.077 1.027.234 1.437.155.41.397.774.727 1.093.33.316.766.593 1.308.83.54.236 1.204.448 1.988.634.672.162 1.198.335 1.578.514.379.181.647.396.803.645.155.248.233.56.233.934 0 .596-.221 1.067-.663 1.409-.442.343-1.05.514-1.82.514-.437 0-.828-.035-1.177-.104a4.072 4.072 0 01-.99-.325l-.43-2.204h-1.96l.112 3.492a9.746 9.746 0 002.1.671c.74.15 1.542.225 2.4.225 1.133 0 2.098-.168 2.895-.505"/></g></svg>
+                    
+                            <svg class="logo-image" width="33" height="33" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="a" d="M.032.049h3.335v3.35H.032z"/><path id="c" d="M.298.646h3.34V4H.297z"/></defs><g fill="none" fill-rule="evenodd"><path d="M22.511 4.016a2.294 2.294 0 01-1.399-.618l-.854 2.391c.441.163.871.348 1.284.561l.97-2.334zM3.457 20.342c.279.334.47.75.528 1.206l2.135-.882a10.8 10.8 0 01-.363-1.023l-2.3.699zM21.761 28.931l-.92-2.186c-.327.14-.66.261-1 .37l.716 2.287a2.284 2.284 0 011.204-.47" fill="#FFF"/><g transform="translate(21 -.049)"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><path d="M1.7 3.4c.03 0 .06 0 .09-.007h.004a1.664 1.664 0 001.573-1.668C3.367.802 2.62.049 1.7.049.778.049.032.802.032 1.725c0 .378.124.729.336 1.009A1.66 1.66 0 001.7 3.4" fill="#FFF" mask="url(#b)"/></g><g transform="translate(20 28.951)"><mask id="d" fill="#fff"><use xlink:href="#c"/></mask><path d="M2.043.65c-.026-.004-.05-.004-.077-.004-.464 0-.884.192-1.187.503A1.677 1.677 0 001.966 4 1.676 1.676 0 002.043.65" fill="#FFF" mask="url(#d)"/></g><path d="M2.73 20.564a1.654 1.654 0 00-1.062-.38 1.675 1.675 0 000 3.35c.92 0 1.667-.754 1.667-1.676 0-.014 0-.027-.002-.04a1.678 1.678 0 00-.603-1.254M3.827 12.67c.219 0 .42-.067.585-.182a1.046 1.046 0 00.376-1.243 1.042 1.042 0 00-.961-.656 1.041 1.041 0 000 2.081M13.063 29.37a1.036 1.036 0 00-1.181-.777h-.003a1.04 1.04 0 00.178 2.064 1.038 1.038 0 001.006-1.284v-.003zM19.895 24.5a8.643 8.643 0 01-3.419.699 8.773 8.773 0 01-2.24-.29 8.828 8.828 0 01-6.156-5.972h-.003a8.757 8.757 0 01-.377-2.554c0-.943.148-1.848.424-2.7.086-.283.195-.563.316-.833a8.712 8.712 0 012.36-3.183 8.727 8.727 0 019.421-1.26l-.215.457a7.509 7.509 0 00-.736-.304 8.121 8.121 0 00-2.794-.487 8.294 8.294 0 00-2.478.382 8.182 8.182 0 00-2.872 1.598 7.705 7.705 0 00-.733.702 8.374 8.374 0 00-1.792 3.084 8.268 8.268 0 00-.396 2.544c0 .838.124 1.645.356 2.408.073.257.164.507.269.753a8.295 8.295 0 004.72 4.608c.266.105.535.192.814.264a8.084 8.084 0 002.112.276 8.17 8.17 0 003.224-.658 8.327 8.327 0 005.047-7.651v-.095a7.427 7.427 0 00-.037-.685 8.175 8.175 0 00-.232-1.332l.487-.128a8.732 8.732 0 01.286 2.139v.1c0 .795-.104 1.56-.302 2.29a8.824 8.824 0 01-5.054 5.827zm-2.004-12.32a.915.915 0 01.908-.911.914.914 0 010 1.824.894.894 0 01-.488-.142.936.936 0 01-.403-.581s.004-.003 0-.007a1.08 1.08 0 01-.017-.182zm4.442 1.977a1.657 1.657 0 01.494 2.152c-.027.057-.064.11-.101.165a1.65 1.65 0 01-2.307.399 1.615 1.615 0 01-.477-.531 1.667 1.667 0 01.081-1.79 1.653 1.653 0 012.31-.395zm4.633 5.063l-.326-.088c.238-.875.363-1.797.363-2.75v-.121l.336-.003.336-.004 1.349-.016a1.665 1.665 0 01-.091-1.034l-1.308.125-.333.03-.335.03a10.665 10.665 0 00-.731-3 3.177 3.177 0 01-1.822.575c-1.765 0-3.204-1.445-3.204-3.222 0-.888.359-1.692.938-2.273a10.303 10.303 0 00-.857-.493 10.418 10.418 0 00-4.805-1.169c-.733 0-1.446.074-2.136.219l-.067-.331-.067-.331-.181-.885a1.664 1.664 0 01-1.201.233l.293.936.1.32.101.325a10.508 10.508 0 00-3.652 2.03l-.221-.26-.212-.253-1.856-2.196a2.738 2.738 0 01-1.19 1.247l2.054 1.905.246.226.249.23a10.49 10.49 0 00-1.904 2.922l-.309-.136-.306-.134-.686-.301c.004.02.004.037.004.057 0 .415-.149.794-.391 1.09l.67.22.315.102.324.105a10.582 10.582 0 00-.505 3.236 10.587 10.587 0 00.79 4.026 10.622 10.622 0 006.015 5.867l-.121.318-.117.314-.374.997c.461.02.871.226 1.164.544l.313-1.186.084-.328h.003l.085-.328c.856.23 1.757.352 2.686.352 1.103 0 2.165-.172 3.163-.49.32-.098.633-.216.942-.344a10.639 10.639 0 005.773-6.084l.316.115v.003l.317.115 1.99.737c.064-.42.242-.798.497-1.112l-2.182-.591-.326-.088zM31.284 19.713c-.403 0-.777.146-1.066.385a1.682 1.682 0 00-.602 1.29c0 .926.746 1.676 1.668 1.676.918 0 1.667-.75 1.667-1.676 0-.925-.75-1.675-1.667-1.675M29.793 16.227c.283.358.78.497 1.218.304a1.036 1.036 0 00.534-1.371 1.035 1.035 0 00-1.883-.028v.004c-.124.26-.138.57-.014.858a.902.902 0 00.145.233M12.572 3.898a1 1 0 00.552.166c.292 0 .557-.123.746-.322a1.039 1.039 0 00-.746-1.76c-.57 0-1.032.467-1.032 1.041 0 .368.19.696.48.875M5.649 6.364a2.065 2.065 0 001.319-1.923 2.06 2.06 0 00-2.052-2.06 2.06 2.06 0 00-2.051 2.06 2.06 2.06 0 002.05 2.061c.26 0 .506-.047.734-.138z" fill="#FFF"/><path d="M22.838 7.965a2.372 2.372 0 00-.797 1.777 2.372 2.372 0 002.363 2.378 2.338 2.338 0 001.722-.75c.088-.088.16-.183.228-.284.263-.381.417-.848.417-1.344a2.373 2.373 0 00-2.367-2.378 2.32 2.32 0 00-1.566.6z" fill="#FFF"/></g></svg>
+                        </div>
+                        <div class="lookup-header">
+                            <div class="lookup-header__headings">
+                                <h2>Quantos casos e mortes por covid-19 há em sua cidade?</h2>
+                                <p>Escreva o nome de um município para descobrir</p>
+                            </div>
+                            <div id="lookup-container" class="lookup-container"></div>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="my__lookup__results">
+                        <div id="lookup-results" class="lookup-results-box">
+                            <h2 class="lookup-results-box-name"></h2>
+                            <p class="lookup-results-box-note">Nota: Casos confirmados incluem apenas os que tiveram resultados de teste positivo. Mortes incluem apenas as que foram registradas como mortes por covid-19.</p>
+                            <p class="lookup-results-box-source"></p>
+                            <p class="lookup-results-box-updated-on"></p>
+                        </div>
+                        <div class="my__lookup__results--has-no-results"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style id="responsive-embed-vjamericas-408-brazil-coronavirus-lookup-app-inline-css">
+    @-moz-keyframes gel-spin {
+  0% {
+    -moz-transform: rotate(0deg);
+  }
+  100% {
+    -moz-transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes gel-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@-ms-keyframes gel-spin {
+  0% {
+    -ms-transform: rotate(0deg);
+  }
+  100% {
+    -ms-transform: rotate(360deg);
+  }
+}
+
+@keyframes gel-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.bbc-news-visual-journalism-loading-spinner {
+  display: block;
+  margin: 8px auto;
+  width: 32px;
+  height: 32px;
+  max-width: 32px;
+  fill: #323232;
+  -webkit-animation-name: gel-spin;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: gel-spin;
+  -moz-animation-duration: 1s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+  animation-name: gel-spin;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@font-face {
+  font-family: 'ReithSans';
+  src: url("https://static.bbci.co.uk/frameworks/barlesque/3.21.31/orb/4/font/BBCReithSans_W_Rg.woff2") format("woff2"), url("https://static.bbci.co.uk/frameworks/barlesque/3.21.31/orb/4/font/BBCReithSans_W_Rg.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'ReithSans';
+  src: url("https://static.bbci.co.uk/frameworks/barlesque/3.21.31/orb/4/font/BBCReithSans_W_Bd.woff2") format("woff2"), url("https://static.bbci.co.uk/frameworks/barlesque/3.21.31/orb/4/font/BBCReithSans_W_Bd.woff") format("woff");
+  font-weight: bold;
+}
+
+</style>
+
+<script>
+    (function(){
+
+function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window &&
+        'MutationObserver' in window // not supported in IE9 & IE10
+    );
+}
+
+                    if (cutsTheMustard()) {
+                                    function initEmbed() {
+                require(['https://news.files.bbci.co.uk/include/vjamericas/408-brazil-coronavirus-lookup/assets/embed/js/embed-init.js?v=1.1.256'], function (initFullFatApplication) {
+                    initFullFatApplication(vjConfigObject['vjamericas-408-brazil-coronavirus-lookup-app']);
+                });
+            }
+
+            if (typeof require === 'undefined') {
+                var headTag = document.getElementsByTagName('head')[0],
+                    requireTag = document.createElement('script');
+                requireTag.type = 'text/javascript';
+                requireTag.src = 'https://news.files.bbci.co.uk/include/vjassets/js/vendor/require-2.1.20b.min.js';
+                requireTag.onload = initEmbed;
+                headTag.appendChild(requireTag);
+            } else {
+                initEmbed();
+            }
+
+                    }
+                    else if (window.require) {
+                        require(['istats-1'], function (istats) {
+                            istats.log('browser does not cut the mustard', 'newsspec-nonuser');
+                        });
+                    }    })();
+</script>
+<h2 class="story-body__crosshead">Projeto busca mais apoiadores </h2><p>O médico Valderílio Feijó, professor da UFPR e líder da equipe clínica do Juntos Contra o Covid, diz que os participantes do projeto estão cientes destas limitações e estudam alternativas para aprimorar o site, entre elas, o de complementá-lo com dados oficiais.</p><p>"Mesmo assim, isso não impede a plataforma de cumprir seu objetivo, porque, se você vê que tem um caso no seu bairro, você sabe que o vírus está circulando por ali, e as medidas de proteção devem ser tomadas independentemente do número de casos", afirma Feijó.</p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Mapa de Salvador com indicações de casos de covid-19" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/174A3/production/_112559359_7c871f71-2535-451d-89f7-484c00dc660c.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Reprodução</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Projeto busca apoiadores para continuar a coletar dados
+                </span>
+            </figcaption>
+            
+        </figure><p>O médico ressalta que, quanto mais pessoas contribuírem com o site, mais precisas serão as informações exibidas pelo mapa. </p><p>Mas o projeto tem um outro obstáculo que precisa ser superado antes: seu financiamento. O site faz parte de um projeto de iniciação científica na Universidade Federal do Paraná (UFPR), que envolve 22 profissionais voluntários.</p><p>Houve um aumento expressivo do número de colaborações nos últimos dias, e isso esgotou o espaço para armazenamento nos servidores que armazenam as informações dos participantes e que havia sido doado pela Amazon, um dos patrocinadores da iniciativa.</p><p>Por isso, foi preciso interromper a coleta de informações temporariamente, enquanto a equipe busca mais recursos. </p><p>Faissal diz que há urgência em fazer tudo voltar a funcionar normalmente. "Perder tempo significa perder dados, e isso pode prejudicar as análises que a gente quer fazer depois."</p><figure class="media-landscape no-caption body-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Línea" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/CCD1/production/_105033425_464x2_line.jpg" data-width="464" data-height="2"></div>
+                
+                
+            </span>
+            
+        </figure><figure class="media-landscape no-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Mais sobre o coronavírus" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/10770/production/_111204476_copernicusbiomassa19deagosto.png" data-width="640" data-height="76"></div>
+                
+                
+            </span>
+            
+        </figure><ul class="story-body__unordered-list">
+<li class="story-body__list-item">COMO SE PROTEGER:  <a href="/portuguese/geral-51318710" class="story-body__link">O que realmente funciona</a>
+</li>
+<li class="story-body__list-item">COMO LAVAR AS MÃOS: <a href="https://www.bbc.com/portuguese/geral-51551090" class="story-body__link">Vídeo com o passo a passo</a>
+</li>
+<li class="story-body__list-item">SINTOMAS E RISCOS: <a href="/portuguese/internacional-51641785" class="story-body__link">Características da doença</a>
+</li>
+<li class="story-body__list-item">25 PERGUNTAS E RESPOSTAS: <a href="/portuguese/brasil-51673933" class="story-body__link">Tudo que importa sobre o vírus</a>
+</li>
+<li class="story-body__list-item">MAPA DA DOENÇA: <a href="/portuguese/internacional-51718755" class="story-body__link">O alcance global do novo coronavírus</a>
+</li>
+</ul><figure class="media-landscape no-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Banner" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/D7D8/production/_111165255_cps_web_banner_bottom_640x3-nc.png" data-width="1920" data-height="33"></div>
+                
+                
+            </span>
+            
+        </figure><ul class="story-body__unordered-list"><li class="story-body__list-item"><a href="ttps://www.youtube.com/user/bbcbrasil?sub_confirmation=1" class="story-body__link-external">Clique para assinar o canal da BBC News Brasil no YouTube</a></li></ul><figure class="media-landscape no-caption body-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Línea" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/1683C/production/_104602229_line976.jpg" data-width="464" data-height="2"></div>
+                
+                
+            </span>
+            
+        </figure><p><strong>Já assistiu aos nossos novos vídeos no </strong><a href="https://www.youtube.com/channel/UCthbIFAxbXTTQEC7EcQvP1Q" class="story-body__link-external">YouTube</a><strong>? Inscreva-se no nosso canal! </strong></p><div class="social-embed"><div class="social-embed-post social-embed-fallbackyoutube embed-image-wrap" style="max-width: 500px">
+    <a class="embed-original-post-link" href=https://www.youtube.com/watch?v=tRlMZQn0Teo>
+      <figure class="media-landscape full-width embed-screenshot-js">
+          <span class="image-and-copyright-container">
+              <div class="js-delayed-image-load" data-alt="YouTube post de BBC News Brasil: Coronavírus  médica relata angústia de ver filho de 4 anos internado com covid-19" data-src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=tRlMZQn0Teo~/portuguese/brasil-52855085" data-width="500" data-height="269"></div>
+              <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+              <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+          </span>
+          
+      </figure>
+      <noscript>
+          <figure class="media-landscape full-width embed-screenshot-nonejs">
+              <span class="image-and-copyright-container">
+                  <img alt="YouTube post de BBC News Brasil: Coronavírus  médica relata angústia de ver filho de 4 anos internado com covid-19" src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=tRlMZQn0Teo~/portuguese/brasil-52855085" width="500" height="269">
+                  <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+                  <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+              </span>
+              
+          </figure>
+      </noscript>
+    </a>
+</div>
+</div><div class="social-embed"><div class="social-embed-post social-embed-fallbackyoutube embed-image-wrap" style="max-width: 500px">
+    <a class="embed-original-post-link" href=https://www.youtube.com/watch?v=NW_66zsGtwE>
+      <figure class="media-landscape full-width embed-screenshot-js">
+          <span class="image-and-copyright-container">
+              <div class="js-delayed-image-load" data-alt="YouTube post de BBC News Brasil: Qual o efeito da gordura no risco maior de pacientes obesos com covid-19" data-src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=NW_66zsGtwE~/portuguese/brasil-52855085" data-width="500" data-height="269"></div>
+              <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+              <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+          </span>
+          
+      </figure>
+      <noscript>
+          <figure class="media-landscape full-width embed-screenshot-nonejs">
+              <span class="image-and-copyright-container">
+                  <img alt="YouTube post de BBC News Brasil: Qual o efeito da gordura no risco maior de pacientes obesos com covid-19" src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=NW_66zsGtwE~/portuguese/brasil-52855085" width="500" height="269">
+                  <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+                  <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+              </span>
+              
+          </figure>
+      </noscript>
+    </a>
+</div>
+</div><div class="social-embed"><div class="social-embed-post social-embed-fallbackyoutube embed-image-wrap" style="max-width: 500px">
+    <a class="embed-original-post-link" href=https://www.youtube.com/watch?v=lItkCrbZhaE>
+      <figure class="media-landscape full-width embed-screenshot-js">
+          <span class="image-and-copyright-container">
+              <div class="js-delayed-image-load" data-alt="YouTube post de BBC News Brasil: Coronavírus  impressionantes imagens de um mundo em quarentena visto de cima" data-src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=lItkCrbZhaE~/portuguese/brasil-52855085" data-width="500" data-height="269"></div>
+              <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+              <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+          </span>
+          
+      </figure>
+      <noscript>
+          <figure class="media-landscape full-width embed-screenshot-nonejs">
+              <span class="image-and-copyright-container">
+                  <img alt="YouTube post de BBC News Brasil: Coronavírus  impressionantes imagens de um mundo em quarentena visto de cima" src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=lItkCrbZhaE~/portuguese/brasil-52855085" width="500" height="269">
+                  <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+                  <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+              </span>
+              
+          </figure>
+      </noscript>
+    </a>
+</div>
+</div>
+                                                                                                        </div>
+</div>
+                                                                                            <div class="tags-container">
+    <h2 class="tags-title story-body__crosshead">Tópicos relacionados</h2>
+        <ul class="tags-list">
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/31684f19-84d6-41f6-b033-7ae08098572a">Tecnologia</a>
+            </li>
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/5fe79b8d-56e5-4aff-8b05-21f9ad731912">Coronavírus</a>
+            </li>
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/65fb7fb8-541b-4a9f-97d3-ffce7a6f62f1">Inovação</a>
+            </li>
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/72d243a7-687b-4e7d-a022-1e36a138b0be">Internet</a>
+            </li>
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/c4794229-7f87-43ce-ac0a-6cfcd6d3cef2">Saúde</a>
+            </li>
+        </ul>
+</div>
+
+                                                                                                <div class="share share--lightweight  show ghost-column">
+            <div id="share-tools"></div>
+            <h2 class="share__title share__title--lightweight">
+        Compartilhar        <a href="/portuguese/institutional/2013/08/000000_about_share_this">Sobre compartilhar</a>
+    </h2>
+        <ul class="share__tools share__tools--lightweight">
+                            <li class="share__tool share__tool--email">
+        <a href="mailto:?subject=Compartilhado%20pela%20BBC%20Brasil&body=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085" >
+            <span>Email</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--facebook">
+        <a href="http://www.facebook.com/dialog/feed?app_id=58567469885&redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085&link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FSThisFB&display=popup" >
+            <span>Facebook</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--messengerdesktop">
+        <a href="http://www.facebook.com/dialog/send?app_id=58567469885&redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085&link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FSThisFB&display=popup" >
+            <span>Messenger</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--messengermobile">
+        <a href="fb-messenger://share?app_id=58567469885&redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085&link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3FCMP%3Dshare_btn_me" target=_blank rel=noopener>
+            <span>Messenger</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--twitter">
+        <a href="https://twitter.com/intent/tweet?text=BBC%20News%20Brasil%20-%20Coronav%C3%ADrus%3A%20o%20site%20que%20mostra%20se%20voc%C3%AA%20mora%20em%20%C3%A1rea%20de%20risco%20de%20covid-19&url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085" class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+Brasil+-+Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19&amp;url= data-target-url=https://www.bbc.com/portuguese/brasil-52855085>
+            <span>Twitter</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--whatsapp">
+        <a href="whatsapp://send?text=BBC%20News%20Brasil%20%7C%20Coronav%C3%ADrus%3A%20o%20site%20que%20mostra%20se%20voc%C3%AA%20mora%20em%20%C3%A1rea%20de%20risco%20de%20covid-19%20-%20https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085%3Focid%3Dwsportuguese.chat-apps.in-app-msg.whatsapp.trial.link1_.auin" >
+            <span>WhatsApp</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--linkedin">
+        <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085&title=Coronav%C3%ADrus%3A%20o%20site%20que%20mostra%20se%20voc%C3%AA%20mora%20em%20%C3%A1rea%20de%20risco%20de%20covid-19&summary=Projeto%20colaborativo%20criado%20por%20estudante%20de%20Medicina%20est%C3%A1%20mapeando%20infec%C3%A7%C3%B5es%20no%20Brasil%20e%20criando%20base%20de%20dados%20que%20depois%20poder%C3%A1%20ser%20usada%20em%20pesquisas%20sobre%20pandemia.&source=BBC" >
+            <span>LinkedIn</span>
+        </a>
+    </li>
+            </ul>
+</div>
+
+                                                                                                <div class="share__back-to-top ghost-column"">
+	<a href="#orb-banner">
+		<span>Voltar ao topo</span>
+	</a>
+</div>
+                                                                                                <div class="story-more">
+          <div class="group story-alsos more-on-this-story"> <div class="group__header"> <h2 class="group__title">Notícias relacionadas</h2> </div> <div class="group__body"> <ul class="units-list ">    <li class="unit unit--regular" data-entityid="more-on-this-story#1" >  <a href="/portuguese/internacional-52857170" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">     <span class="cta"> O dito e o não dito no anúncio de Trump de 'rompimento' entre EUA e OMS </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1590801535" data-datetime="29 maio 2020">29 maio 2020</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular" data-entityid="more-on-this-story#2" >  <a href="/portuguese/geral-52857113" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">        
+    <span class="icon-new icon-new--video-square-red"><span class="off-screen"> Vídeo</span></span>
+    
+    
+   <span class="cta"> Cloroquina: o que dizem os estudos publicados sobre a eficácia do medicamento </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1590786601" data-datetime="29 maio 2020">29 maio 2020</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular" data-entityid="more-on-this-story#3" >  <a href="/portuguese/internacional-52857110" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">        
+    <span class="icon-new icon-new--video-square-red"><span class="off-screen"> Vídeo</span></span>
+    
+    
+   <span class="cta"> Coronavírus: as dicas do 'melhor professor do mundo' para ensinar as crianças no isolamento </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1590782199" data-datetime="29 maio 2020">29 maio 2020</div> </div>  </div> </div> </a>  </li>   </ul> </div> </div>      </div>
+                                                                                            
+                                                                        </div>
+                                     <div class="column--secondary">
+                                                                                    <div id=comp-top-stories-promo
+            class="hidden"
+            data-comp-meta="{&quot;id&quot;:&quot;comp-top-stories-promo&quot;,&quot;type&quot;:&quot;top-stories-promo&quot;,&quot;handler&quot;:&quot;default&quot;,&quot;deviceGroups&quot;:[&quot;group3&quot;,&quot;group4&quot;],&quot;opts&quot;:{&quot;assetId&quot;:&quot;52855085&quot;,&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;device_groups&quot;:[&quot;group3&quot;,&quot;group4&quot;],&quot;dedup_id&quot;:&quot;\/portuguese\/brasil-52855085&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:1,&quot;lastInRegion&quot;:false,&quot;lastOnPage&quot;:false,&quot;column&quot;:&quot;secondary_column&quot;}},&quot;template&quot;:&quot;\/component\/top-stories-promo&quot;}">
+        </div>                                
+<div id="bbccom_mpu_4" class="bbccom_slot mpu-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+                                                                    <div id=comp-features-and-analysis
+            class="hidden"
+            data-comp-meta="{&quot;id&quot;:&quot;comp-features-and-analysis&quot;,&quot;type&quot;:&quot;features-and-analysis&quot;,&quot;handler&quot;:&quot;default&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;assetId&quot;:&quot;52855085&quot;,&quot;asset_id&quot;:&quot;front_page&quot;,&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;show_summary&quot;:false,&quot;dedup_id&quot;:&quot;\/portuguese\/brasil-52855085&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:2,&quot;lastInRegion&quot;:false,&quot;lastOnPage&quot;:false,&quot;column&quot;:&quot;secondary_column&quot;}}}">
+        </div>                                                                                                    <div id=comp-most-popular
+            class="hidden"
+            data-comp-meta="{&quot;id&quot;:&quot;comp-most-popular&quot;,&quot;type&quot;:&quot;most-popular&quot;,&quot;handler&quot;:&quot;mostPopular&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;assetId&quot;:&quot;52855085&quot;,&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:3,&quot;lastInRegion&quot;:true,&quot;lastOnPage&quot;:true,&quot;column&quot;:&quot;secondary_column&quot;}}}">
+        </div>                                
+<div id="bbccom_adsense_1_2_3_4" class="bbccom_slot adsense-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('adsense', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+                                        </div>
+             </div>          </div> </div>      </div> 
+   
+
+<div id="core-navigation" class="navigation--footer">
+    <h2 class="navigation--footer__heading">BBC News Brasil Navegação</h2>
+
+    
+    <nav id="navigation--bottom" class="navigation navigation--bottom " role="navigation" aria-label="BBC News Brasil">
+                    <span class="navigation-core-title">Seções</span>
+                <ul class="navigation--bottom__toplevel">
+                        <li class="">
+                    <a href="/portuguese" class="">
+                        <span>Notícias</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/brasil" class="">
+                        <span>Brasil</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/internacional" class="">
+                        <span>Internacional</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/topics/ca170ae3-99c1-48db-9b67-2866f85e7342" class="">
+                        <span>Economia</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/topics/c4794229-7f87-43ce-ac0a-6cfcd6d3cef2" class="">
+                        <span>Saúde</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/topics/0f469e6a-d4a6-46f2-b727-2bd039cb6b53" class="">
+                        <span>Ciência</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/topics/31684f19-84d6-41f6-b033-7ae08098572a" class="">
+                        <span>Tecnologia</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/aprenda_ingles" class="">
+                        <span>Aprenda Inglês</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/salasocial" class="">
+                        <span>#SalaSocial</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/media/video" class="">
+                        <span>Vídeos</span>
+                    </a>
+                                                        </li>
+                    </ul>
+    </nav>
+</div>      </div><!-- closes #site-container --> </div>
+<div id="orb-footer" class="orb-footer" dir="ltr"><aside role="complementary"><div id="orb-aside" class="orb-nav-sec b-r b-g-p"><div class="orb-footer-inner" role="navigation" aria-label="BBC"><h2 class="orb-footer-lead">Navegação na BBC</h2><div class="orb-footer-primary-links"><ul><li class="orb-nav-news"><a href="https://www.bbc.com/news">News</a></li><li class="orb-nav-sport"><a href="https://www.bbc.com/sport">Sport</a></li><li class="orb-nav-weather"><a href="https://www.bbc.com/weather">Weather</a></li><li class="orb-nav-radio"><a href="https://www.bbc.co.uk/worldserviceradio">Radio</a></li><li class="orb-nav-arts"><a href="https://www.bbc.co.uk/arts">Arts</a></li></ul></div></div></div></aside><footer role="contentinfo"><div id="orb-contentinfo" class="orb-nav-sec b-r b-g-p"><script>window.orb.worldwideFooterlinks = '<li class="orb-footer-ads"><a href="https://www.bbc.com/portuguese/institutional/2015/01/000000_advertising_faqs">Anuncie na BBC<'+'/a><'+'/li><li class="orb-footer-adchoices"><a href="https://www.bbc.com/portuguese/institutional/2015/01/000000_advertising_faqs">Opções para propagandas<'+'/a><'+'/li>';</script><div class="orb-footer-inner"> <ul><li class="orb-footer-terms"><a href="https://www.bbc.com/portuguese/institutional-36202448">Termos de uso</a></li><li class="orb-footer-about"><a href="https://www.bbc.com/portuguese/institutional-36202452">Sobre a BBC</a></li><li class="orb-footer-privacy"><a href="https://www.bbc.com/portuguese/institutional-36202454">Privacidade</a></li><li class="orb-footer-cookies"><a href="https://www.bbc.co.uk/privacy/cookies/managing/cookie-settings.html">Cookies</a></li><li class="orb-footer-accessibility"><a href="https://www.bbc.co.uk/accessibility/">Accessibility Help</a></li><li class="orb-footer-parental"><a href="https://www.bbc.co.uk/guidance">Parental Guidance</a></li><li class="orb-footer-contact"><a href="https://www.bbc.com/portuguese/institutional-36202456">Contate a BBC</a></li><li class="orb-footer-newsletter"><a href="https://www.bbc.co.uk/bbcnewsletter">Get Personalised Newsletters</a></li></ul><small><em class="orb-hilight">Copyright &copy; 2020 BBC.</em> A BBC não se responsabiliza pelo conteúdo de outros sites. <span class="orb-footer-links"><a href="https://www.bbc.com/portuguese/institutional-36202448" class="orb-hilight">Leia mais sobre nossa política para links externos.</a></span></small></div></div></div></footer></div><script id="orb-js-script" data-assetpath="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/" src="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/js/orb.min.js"></script>  <script type="text/javascript">/*<![CDATA[*/
+                require(['orb/nav'], function(nav) {
+                    window.bbcuser.isUKCombined().then(function(isUK) {
+                        if (isUK) {
+                            nav.loadJs('https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/js/edr.min.js');
+                        }
+                    });
+                });
+            /*]]>*/</script> <!-- BBCDOTCOM bodyLast --><div class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && window.bbcdotcom.analytics && bbcdotcom.config && !bbcdotcom.config.isSportApp() && !bbcdotcom.config.isReel()) { bbcdotcom.checkThirdPartyFirst(bbcdotcom.analytics.page, bbcdotcom.analytics); } /*]]>*/</script><noscript><img src="//ssc.api.bbc.com/?c1=2&c2=19293874&ns_site=bbc&name=" height="1" width="1" alt=""></noscript><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.checkThirdPartyFirst(bbcdotcom.currencyProviders.write, bbcdotcom.currencyProviders); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.checkThirdPartyFirst(bbcdotcom.currencyProviders.postWrite, bbcdotcom.currencyProviders); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats === 1 && bbcdotcom.utils && window.location.pathname === '/') { var wwhpEdition = bbcdotcom.utils.getMetaPropertyContent('wwhp-edition'); var _sf_async_config={}; /** CONFIGURATION START **/ _sf_async_config.uid = 50924; _sf_async_config.domain = "bbc.co.uk"; _sf_async_config.title = "Homepage"+(wwhpEdition !== '' ? ' - '+wwhpEdition : ''); _sf_async_config.sections = "Homepage"+(wwhpEdition !== '' ? ', Homepage - '+wwhpEdition : ''); _sf_async_config.region = wwhpEdition; _sf_async_config.path = "/"+(wwhpEdition !== '' ? '?'+wwhpEdition : ''); /** CONFIGURATION END **/ (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != "function") ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.bodyLast = true; }()); /*]]>*/</script></div><!-- BBCDOTCOM all code in page --><script type="text/javascript">if (window.SEARCHBOX.suppress === false && window.SEARCHBOX.locale && /^en-?.*?/.test(window.SEARCHBOX.locale)) {
+    require.config({
+      paths: {
+        "search/searchbox": window.SEARCHBOX.searchboxAppStaticPrefix,
+      }
+    });
+
+    if (bbcuser && bbcuser.isUKCombined) {
+        bbcuser.isUKCombined().then(function (isUK) {
+            if (isUK) {
+                require(['search/searchbox/searchboxDrawer'], function (SearchboxDrawer) {
+                  SearchboxDrawer.run(window.SEARCHBOX);
+                });
+            }
+        });
+    }
+
+  }</script>  <script type="text/javascript">window.COOKIES_STATIC_HOST = 'https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-459.c5461d9/cookie-banner/cookie-prompt/';</script><script src="https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-459.c5461d9/cookie-banner/cookie-banners.bundle.js" async=""></script><script type="text/javascript">require(["istats-1","orb/cookies"],function(o,t){if(t.isAllowed("s1"))try{if(!require.s.contexts._.config.paths.idcta)return void i();require(["idcta/idcta-1"],function(t){t&&"function"==typeof t.getIStatsLabels&&o.addLabels(t.getIStatsLabels()),i()},function(t){throw t})}catch(t){console&&"function"==typeof console.log&&console.log("an exception occurred while adding idcta labels to istats, invoking istats without them",t),i()}function i(){o.invoke()}});</script><script type="text/javascript">"use strict";window.__reverb.__reverbLoadedPromise.then(function(e){return e.initialise().then(function(){return e.viewEvent()})},function(){console.log("Failed to load reverb. No event sent")});</script><script src="https://nav.files.bbci.co.uk//user-activity-helper/1d5fa47d9ba60d5c52b377ec3208b7be/js/detectview.bundle.js" async=""></script> </div><!-- closes .direction -->  <script> window.old_onload = window.onload; window.onload = function() { if(window.old_onload) { window.old_onload(); } window.loaded = true; }; </script> <!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">
+    /** CONFIGURATION START **/
+    var _sf_async_config = {};
+
+    _sf_async_config.uid = "50924";
+    _sf_async_config.domain = "brasil.bbc.co.uk";
+    _sf_async_config.sections = "Portuguese, Portuguese - brasil, Portuguese - STY, Portuguese - brasil - STY, Portuguese - news-category";
+    <!-- if page is an index, add the edition to the path -->
+    _sf_async_config.path = "bbc.co.uk/portuguese/brasil-52855085";
+    _sf_async_config.useCanonical = true;
+
+        (function() {
+        var cookiePrefix = 'ckns_sylphid';
+        _sf_async_config.idSync = _sf_async_config.idSync || {};
+
+        if (document.cookie.indexOf(cookiePrefix) !== -1) {
+            var cookieSplit = document.cookie.split(';');
+            var cookieLength = cookieSplit.length;
+            while (cookieLength--) {
+                var cookie = cookieSplit[cookieLength].replace(/^\s+|\s+$/g, '');
+                var cookieName = cookie.split('=')[0];
+                if (cookieName.indexOf(cookiePrefix) === 0) {
+                    _sf_async_config.idSync.bbc_hid = cookieSplit[cookieLength].split('=')[1];
+                    break;
+                }
+            }
+        }
+    }());
+
+    /** CONFIGURATION END **/
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement("script");
+            e.setAttribute("language", "javascript");
+            e.setAttribute("type", "text/javascript");
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != "function") ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    }());
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+   <!--Non-JS-->
+<noscript>
+    <img src="https://ssc.api.bbc.com/?c2=19999701&amp;ns_type=view&amp;ns_site=bbc&amp;c1=2&amp;b_vs_un=ws&amp;b_imp_src=ws&amp;b_imp_ver=1.0.0.0&amp;name=portuguese.brasil-52855085&amp;b_vs_ls=portuguese&amp;b_synd_partner=bbc%7Crd%7Cgroup0&amp;b_site_section=102453&amp;b_page_type=STY%7Cna&amp;c8=Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19+-+BBC+News+Brasil&amp;b_app_type=web&amp;b_app_name=news%7Cweb&amp;b_article_title=Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19&amp;b_article_id=52855085&amp;b_article_author=Rafael+Barifouse&amp;b_article_date=1591097807&amp;b_article_update=1591097807&amp;b_article_length=11565&amp;b_ad_enabled=1&amp;c7=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085&amp;ns_c=utf-8&amp;bbc_site=news-ws-portuguese&amp;b_code_ver=bbc_nonjs&amp;b_topic_names=Technology%21Coronavirus+pandemic%21Innovation%21Internet%21Health&amp;b_topic_ids=31684f19-84d6-41f6-b033-7ae08098572a%215fe79b8d-56e5-4aff-8b05-21f9ad731912%2165fb7fb8-541b-4a9f-97d3-ffce7a6f62f1%2172d243a7-687b-4e7d-a022-1e36a138b0be%21c4794229-7f87-43ce-ac0a-6cfcd6d3cef2&amp;b_breaking_flag=0&amp;b_syndication_flag=1&amp;b_category_id=http%3A%2F%2Fwww.bbc.co.uk%2Fontologies%2Fapplicationlogic-news%2FNews&amp;b_category_name=News&amp;b_campaigns_ids=5a988e4739461b000e9dabfc&amp;b_campaigns_names=WS+-+Update+me" alt="" class="comscore-tracking-nonjs" style="display: none;" />
+</noscript>
+
+<!--JS-->
+<script>
+    if (!window.cutsTheMustard) {
+        var url = "https://ssc.api.bbc.com/?c2=19999701&ns_type=view&ns_site=bbc&c1=2&b_vs_un=ws&b_imp_src=ws&b_imp_ver=1.0.0.0&name=portuguese.brasil-52855085&b_vs_ls=portuguese&b_synd_partner=bbc%7Crd%7Cgroup0&b_site_section=102453&b_page_type=STY%7Cna&c8=Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19+-+BBC+News+Brasil&b_app_type=web&b_app_name=news%7Cweb&b_article_title=Coronav%C3%ADrus%3A+o+site+que+mostra+se+voc%C3%AA+mora+em+%C3%A1rea+de+risco+de+covid-19&b_article_id=52855085&b_article_author=Rafael+Barifouse&b_article_date=1591097807&b_article_update=1591097807&b_article_length=11565&b_ad_enabled=1&c7=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fbrasil-52855085&ns_c=utf-8&bbc_site=news-ws-portuguese&b_code_ver=bbc_nonjs&b_topic_names=Technology%21Coronavirus+pandemic%21Innovation%21Internet%21Health&b_topic_ids=31684f19-84d6-41f6-b033-7ae08098572a%215fe79b8d-56e5-4aff-8b05-21f9ad731912%2165fb7fb8-541b-4a9f-97d3-ffce7a6f62f1%2172d243a7-687b-4e7d-a022-1e36a138b0be%21c4794229-7f87-43ce-ac0a-6cfcd6d3cef2&b_breaking_flag=0&b_syndication_flag=1&b_category_id=http%3A%2F%2Fwww.bbc.co.uk%2Fontologies%2Fapplicationlogic-news%2FNews&b_category_name=News&b_campaigns_ids=5a988e4739461b000e9dabfc&b_campaigns_names=WS+-+Update+me"
+        img = document.createElement('img');
+        img.src = url.replace("bbc_nonjs", "bbc_nonctm");
+        img.className = 'comscore-tracking-nonjs';
+        img.setAttribute('style', 'display: none;');
+        document.body.appendChild(img);
+    }
+    payload = document.createElement('div');
+    payload.id = "comscore-payload";
+    payload.setAttribute('style', 'display: none;');
+    payload.setAttribute('data-payload', '{"c2":19999701,"ns_type":"view","ns_site":"bbc","c1":"2","b_vs_un":"ws","b_imp_src":"ws","b_imp_ver":"1.0.0.0","name":"portuguese.brasil-52855085","b_vs_ls":"portuguese","b_synd_partner":"bbc|rd|group0","b_site_section":"102453","b_page_type":"STY|na","c8":"Coronav\u00edrus: o site que mostra se voc\u00ea mora em \u00e1rea de risco de covid-19 - BBC News Brasil","b_app_type":"web","b_app_name":"news|web","b_article_title":"Coronav\u00edrus: o site que mostra se voc\u00ea mora em \u00e1rea de risco de covid-19","b_article_id":"52855085","b_article_author":"Rafael Barifouse","b_article_date":1591097807,"b_article_update":1591097807,"b_article_length":11565,"b_ad_enabled":true,"c7":"https:\/\/www.bbc.com\/portuguese\/brasil-52855085","ns_c":"utf-8","bbc_site":"news-ws-portuguese","b_code_ver":"bbc_nonjs","b_topic_names":"Technology!Coronavirus pandemic!Innovation!Internet!Health","b_topic_ids":"31684f19-84d6-41f6-b033-7ae08098572a!5fe79b8d-56e5-4aff-8b05-21f9ad731912!65fb7fb8-541b-4a9f-97d3-ffce7a6f62f1!72d243a7-687b-4e7d-a022-1e36a138b0be!c4794229-7f87-43ce-ac0a-6cfcd6d3cef2","b_breaking_flag":0,"b_syndication_flag":1,"b_category_id":"http:\/\/www.bbc.co.uk\/ontologies\/applicationlogic-news\/News","b_category_name":"News","b_campaigns_ids":"5a988e4739461b000e9dabfc","b_campaigns_names":"WS - Update me"}');
+    document.body.appendChild(payload);
+</script>
+   </body> </html> 
+
+
+
+
+
+
+
+
+
+
+

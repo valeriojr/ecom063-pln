@@ -1,0 +1,1717 @@
+
+
+<!DOCTYPE html>
+<html lang="pt" id="responsive-news">
+<head  prefix="og: http://ogp.me/ns#">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Citada como exemplo por Bolsonaro, estratégia da Suécia contra coronavírus não serve para o Brasil, diz responsável por plano - BBC News Brasil</title>
+    <meta name="description" content="Em entrevista à BBC News Brasil, epidemiologista-chefe do país, Anders Tegnell, diz que plano tem de levar em conta circunstâncias locais; Suécia foi apontada por Bolsonaro como modelo a ser seguido, por não impor isolamento duro e manter boa parte do comércio aberta.">
+    <link rel="preload" as="style" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/compact.css" media="(max-width: 599px)">
+    <link rel="preload" as="style" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/tablet.css" media="(min-width: 600px) and (max-width: 1007px)">
+    <link rel="preload" as="style" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/wide.css" media="(min-width: 1008px)">
+
+            <script> window.orb_fig_blocking = true; </script>
+    
+            <link rel="preload" as="script" href="//fig.bbc.co.uk/frameworks/fig/2/fig.js?callback=orb.orb_fig">
+    
+    <link href="//static.bbci.co.uk" rel="preconnect" crossorigin>
+    <link href="//static.bbc.co.uk" rel="preconnect" crossorigin>
+    <link href="//nav.files.bbci.co.uk" rel="preconnect" crossorigin>
+    <link href="//ichef.bbci.co.uk" rel="preconnect" crossorigin>
+
+    <link rel="dns-prefetch" href="//ssl.bbc.co.uk/">
+    <link rel="dns-prefetch" href="//sa.bbc.co.uk/">
+    <link rel="dns-prefetch" href="//ichef.bbci.co.uk/">
+
+    <link rel="dns-prefetch" href="//static.bbci.co.uk">
+    <link rel="dns-prefetch" href="//static.bbc.co.uk">
+    <link rel="dns-prefetch" href="//nav.files.bbci.co.uk">
+
+    <link rel="dns-prefetch" href="//edigitalsurvey.com">
+
+    <meta name="x-country" content="br">
+    <meta name="x-audience" content="International">
+    <meta name="CPS_AUDIENCE" content="International">
+    <meta name="CPS_CHANGEQUEUEID" content="157943240">
+    <link rel="canonical" href="https://www.bbc.com/portuguese/internacional-52806218">
+    <link rel="amphtml" href="https://www.bbc.com/portuguese/amp/internacional-52806218">
+
+                <meta property="og:title" content="Citada como exemplo por Bolsonaro, estratégia da Suécia contra coronavírus não serve para o Brasil, diz responsável por plano" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="Em entrevista à BBC News Brasil, epidemiologista-chefe do país, Anders Tegnell, diz que plano tem de levar em conta circunstâncias locais; Suécia foi apontada por Bolsonaro como modelo a ser seguido, por não impor isolamento duro e manter boa parte do comércio aberta." />
+    <meta property="og:site_name" content="BBC News Brasil" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="article:author" content="https://www.facebook.com/bbcnews" />
+    <meta property="article:section" content="Internacional" />
+    <meta property="og:url" content="https://www.bbc.com/portuguese/internacional-52806218" />
+    <meta property="og:image" content="https://ichef.bbci.co.uk/news/1024/branded_portuguese/76A3/production/_112517303_gettyimages-1212242970.jpg" />
+    <meta property="og:image:alt" content="BBC News Brasil. Bandeira da Suécia e coronavírus" />
+    <meta property="fb:pages" content="285361880228,192168680794107,9432520138,347501767628,264572343581678,303522857815,166580710064489,592266607456680,260669183761,160817274042538,236659822607,237647452933504,10150118096995434,113097918700687,143048895744759,81395234664,207150596007088,167959249906191,64040652712,190992343324,103678496456574,367167334474,160894643929209,186742265162,1526071940947174,230299653821,124158667615790,126548377386804,298318986864908,1068750829805728,228458913833525,163571453661989,660673490805047,948946275170651" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@bbcbrasil">
+    <meta name="twitter:title" content="Citada como exemplo por Bolsonaro, estratégia da Suécia contra coronavírus não serve para o Brasil, diz responsável por plano">
+    <meta name="twitter:description" content="Em entrevista à BBC News Brasil, epidemiologista-chefe do país, Anders Tegnell, diz que plano tem de levar em conta circunstâncias locais; Suécia foi apontada por Bolsonaro como modelo a ser seguido, por não impor isolamento duro e manter boa parte do comércio aberta.">
+    <meta name="twitter:creator" content="@bbcbrasil">
+    <meta name="twitter:image:src" content="https://ichef.bbci.co.uk/news/1024/branded_portuguese/76A3/production/_112517303_gettyimages-1212242970.jpg">
+    <meta name="twitter:image:alt" content="Bandeira da Suécia e coronavírus" />
+    <meta name="twitter:domain" content="www.bbc.com">
+
+    <script type="application/ld+json">
+    {"@context":"http:\/\/schema.org","@type":"ReportageNewsArticle","url":"https:\/\/www.bbc.com\/portuguese\/internacional-52806218","publisher":{"@type":"NewsMediaOrganization","name":"BBC News Brasil","publishingPrinciples":"http:\/\/www.bbc.co.uk\/news\/help-41670342","logo":{"@type":"ImageObject","url":"https:\/\/news.files.bbci.co.uk\/ws\/img\/logos\/og\/brasil.png"}},"datePublished":"2020-05-27T06:12:05-03:00","dateModified":"2020-05-27T06:12:05-03:00","headline":"Citada como exemplo por Bolsonaro, estrat\u00e9gia da Su\u00e9cia contra coronav\u00edrus n\u00e3o serve para o Brasil, diz respons\u00e1vel por plano","image":{"@type":"ImageObject","width":720,"height":405,"url":"https:\/\/ichef.bbci.co.uk\/news\/720\/cpsprodpb\/76A3\/production\/_112517303_gettyimages-1212242970.jpg"},"thumbnailUrl":"https:\/\/ichef.bbci.co.uk\/news\/208\/cpsprodpb\/76A3\/production\/_112517303_gettyimages-1212242970.jpg","author":{"@type":"Person","name":"Claudia Wallin"},"mainEntityOfPage":"https:\/\/www.bbc.com\/portuguese\/internacional-52806218"}
+    </script>
+
+
+                        
+    <meta name="apple-mobile-web-app-title" content="BBC News">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57"    href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72"    href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114"  href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144"  href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://static.bbc.co.uk/news/1.315.03594/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="https://static.bbc.co.uk/news/1.315.03594/web-app-launch-icon.png">
+
+<meta name="application-name" content="BBC News">
+<meta name="msapplication-TileImage" content="BBC News">
+<meta name="msapplication-TileColor" content="#bb1919">
+<meta name="mobile-web-app-capable" content="yes">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="robots" content="NOODP,NOYDIR" />
+        <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <script>
+        (function() {
+            if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var msViewportStyle = document.createElement("style");
+                msViewportStyle.appendChild(
+                    document.createTextNode("@-ms-viewport{width:auto!important}")
+                );
+                document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+            }
+        })();
+    </script>
+    
+    <script>window.fig = window.fig || {}; window.fig.async = true;</script>
+
+    <meta property="fb:app_id" content="1609039196070050" />
+
+    
+<!-- Environment: live -->
+<!-- Orbit: 3.0.0-946.da0a9581 -->
+<!-- Analytics Web Module: 0.0.2-459.c5461d9 -->
+<!-- NavID Web Module: 0.2.0-7.0a947fa -->
+<!-- User Activity Helper Web Module: 1.0.0-65.927eaa9 -->
+<!-- Cookie Banner Web Module: 0.0.2-459.c5461d9 -->
+<!-- Searchbox Web Module: 3.0.0-108.6b2277e -->
+<!-- Promo Web Module: 3.0.0-129.404c192 -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta property="fb:admins" content="100004154058350"><link rel="stylesheet" href="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/css/orb-ltr.min.css"><!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel="stylesheet" href="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/css/orb-ie-ltr.min.css">
+    <![endif]--><script type="text/javascript">/*<![CDATA[*/
+        window.orb = {
+            lang: 'pt-BR',
+            bbcBaseUrl: 'https://www.bbc.co.uk',
+            bbcUrlPrefix: 'https://www.',
+            staticHost: 'https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502',
+            figUrl: 'https://fig.bbc.co.uk/frameworks/fig/2/fig.js',
+            partialCookieOvenUrl: 'https://cookie-oven.api.bbc'
+        };
+
+        document.documentElement.className += (document.documentElement.className? ' ' : '') + 'orb-js';
+        window.orb.worldwideNavlinks = '';
+
+
+     /*]]>*/</script><script>// Promise polyfill from https://github.com/bramstein/promis
+        (function(){'use strict';var f,g=[];function l(a){g.push(a);1==g.length&&f()}function m(){for(;g.length;)g[0](),g.shift()}f=function(){setTimeout(m)};function n(a){this.a=p;this.b=void 0;this.f=[];var b=this;try{a(function(a){q(b,a)},function(a){r(b,a)})}catch(c){r(b,c)}}var p=2;function t(a){return new n(function(b,c){c(a)})}function u(a){return new n(function(b){b(a)})}function q(a,b){if(a.a==p){if(b==a)throw new TypeError;var c=!1;try{var d=b&&b.then;if(null!=b&&"object"==typeof b&&"function"==typeof d){d.call(b,function(b){c||q(a,b);c=!0},function(b){c||r(a,b);c=!0});return}}catch(e){c||r(a,e);return}a.a=0;a.b=b;v(a)}} function r(a,b){if(a.a==p){if(b==a)throw new TypeError;a.a=1;a.b=b;v(a)}}function v(a){l(function(){if(a.a!=p)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0==a.a?"function"==typeof c?e(c.call(void 0,a.b)):e(a.b):1==a.a&&("function"==typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}n.prototype.g=function(a){return this.c(void 0,a)};n.prototype.c=function(a,b){var c=this;return new n(function(d,e){c.f.push([a,b,d,e]);v(c)})}; function w(a){return new n(function(b,c){function d(c){return function(d){h[c]=d;e+=1;e==a.length&&b(h)}}var e=0,h=[];0==a.length&&b(h);for(var k=0;k<a.length;k+=1)u(a[k]).c(d(k),c)})}function x(a){return new n(function(b,c){for(var d=0;d<a.length;d+=1)u(a[d]).c(b,c)})};window.Promise||(window.Promise=n,window.Promise.resolve=u,window.Promise.reject=t,window.Promise.race=x,window.Promise.all=w,window.Promise.prototype.then=n.prototype.c,window.Promise.prototype["catch"]=n.prototype.g);}());
+    
+    
+        // Polyfill Event constructor for IE ref: https://jira.dev.bbc.co.uk/browse/ORBITEN-919
+        // see: https://stackoverflow.com/questions/26596123
+        (function () {
+          if (typeof window.CustomEvent === "function") {
+            return false;
+          }
+          function CustomEvent(event, params) {
+            params = params || { bubbles: false, cancelable: false, detail: undefined };
+            var evt = document.createEvent('CustomEvent');
+            evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+            return evt;
+          }
+          CustomEvent.prototype = window.Event.prototype;
+          window.Event = CustomEvent;
+        })();
+    
+    
+        //Element.prototype.matches polyfill
+        //from https://developer.mozilla.org/en-US/docs/Web/API/Element/matches#Polyfill
+        if (!Element.prototype.matches) {
+          Element.prototype.matches = Element.prototype.msMatchesSelector ||
+                                      Element.prototype.webkitMatchesSelector;
+        }
+        //NodeList.forEach Polyfill
+        //from https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach#Polyfill
+        if (window.NodeList && !NodeList.prototype.forEach) {
+          NodeList.prototype.forEach = Array.prototype.forEach;
+        }
+    
+        // Object.assign polyfill from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign#Polyfill
+        if (typeof Object.assign != 'function') {
+          // Must be writable: true, enumerable: false, configurable: true
+          Object.defineProperty(Object, "assign", {
+            value: function assign(target, varArgs) { // .length of function is 2
+              'use strict';
+              if (target == null) { // TypeError if undefined or null
+                throw new TypeError('Cannot convert undefined or null to object');
+              }
+    
+              var to = Object(target);
+    
+              for (var index = 1; index < arguments.length; index++) {
+                var nextSource = arguments[index];
+    
+                if (nextSource != null) { // Skip over if undefined or null
+                  for (var nextKey in nextSource) {
+                    // Avoid bugs when hasOwnProperty is shadowed
+                    if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+                      to[nextKey] = nextSource[nextKey];
+                    }
+                  }
+                }
+              }
+              return to;
+            },
+            writable: true,
+            configurable: true
+          });
+        }
+    
+        // window.fetch polyfill https://github.com/github/fetch/blob/v0.11.0/fetch.js - chosen for IE9 compatibility
+        if(typeof window.fetch !== 'function') {
+          (function(self){"use strict";if(self.fetch){return}function normalizeName(name){if(typeof name!=="string"){name=String(name)}if(/[^a-z0-9\-#$%&'*+.\^_`|~]/i.test(name)){throw new TypeError("Invalid character in header field name")}return name.toLowerCase()}function normalizeValue(value){if(typeof value!=="string"){value=String(value)}return value}function Headers(headers){this.map={};if(headers instanceof Headers){headers.forEach(function(value,name){this.append(name,value)},this)}else if(headers){Object.getOwnPropertyNames(headers).forEach(function(name){this.append(name,headers[name])},this)}}Headers.prototype.append=function(name,value){name=normalizeName(name);value=normalizeValue(value);var list=this.map[name];if(!list){list=[];this.map[name]=list}list.push(value)};Headers.prototype["delete"]=function(name){delete this.map[normalizeName(name)]};Headers.prototype.get=function(name){var values=this.map[normalizeName(name)];return values?values[0]:null};Headers.prototype.getAll=function(name){return this.map[normalizeName(name)]||[]};Headers.prototype.has=function(name){return this.map.hasOwnProperty(normalizeName(name))};Headers.prototype.set=function(name,value){this.map[normalizeName(name)]=[normalizeValue(value)]};Headers.prototype.forEach=function(callback,thisArg){Object.getOwnPropertyNames(this.map).forEach(function(name){this.map[name].forEach(function(value){callback.call(thisArg,value,name,this)},this)},this)};function consumed(body){if(body.bodyUsed){return Promise.reject(new TypeError("Already read"))}body.bodyUsed=true}function fileReaderReady(reader){return new Promise(function(resolve,reject){reader.onload=function(){resolve(reader.result)};reader.onerror=function(){reject(reader.error)}})}function readBlobAsArrayBuffer(blob){var reader=new FileReader;reader.readAsArrayBuffer(blob);return fileReaderReady(reader)}function readBlobAsText(blob){var reader=new FileReader;reader.readAsText(blob);return fileReaderReady(reader)}var support={blob:"FileReader"in self&&"Blob"in self&&function(){try{new Blob;return true}catch(e){return false}}(),formData:"FormData"in self,arrayBuffer:"ArrayBuffer"in self};function Body(){this.bodyUsed=false;this._initBody=function(body){this._bodyInit=body;if(typeof body==="string"){this._bodyText=body}else if(support.blob&&Blob.prototype.isPrototypeOf(body)){this._bodyBlob=body}else if(support.formData&&FormData.prototype.isPrototypeOf(body)){this._bodyFormData=body}else if(!body){this._bodyText=""}else if(support.arrayBuffer&&ArrayBuffer.prototype.isPrototypeOf(body)){}else{throw new Error("unsupported BodyInit type")}if(!this.headers.get("content-type")){if(typeof body==="string"){this.headers.set("content-type","text/plain;charset=UTF-8")}else if(this._bodyBlob&&this._bodyBlob.type){this.headers.set("content-type",this._bodyBlob.type)}}};if(support.blob){this.blob=function(){var rejected=consumed(this);if(rejected){return rejected}if(this._bodyBlob){return Promise.resolve(this._bodyBlob)}else if(this._bodyFormData){throw new Error("could not read FormData body as blob")}else{return Promise.resolve(new Blob([this._bodyText]))}};this.arrayBuffer=function(){return this.blob().then(readBlobAsArrayBuffer)};this.text=function(){var rejected=consumed(this);if(rejected){return rejected}if(this._bodyBlob){return readBlobAsText(this._bodyBlob)}else if(this._bodyFormData){throw new Error("could not read FormData body as text")}else{return Promise.resolve(this._bodyText)}}}else{this.text=function(){var rejected=consumed(this);return rejected?rejected:Promise.resolve(this._bodyText)}}if(support.formData){this.formData=function(){return this.text().then(decode)}}this.json=function(){return this.text().then(JSON.parse)};return this}var methods=["DELETE","GET","HEAD","OPTIONS","POST","PUT"];function normalizeMethod(method){var upcased=method.toUpperCase();return methods.indexOf(upcased)>-1?upcased:method}function Request(input,options){options=options||{};var body=options.body;if(Request.prototype.isPrototypeOf(input)){if(input.bodyUsed){throw new TypeError("Already read")}this.url=input.url;this.credentials=input.credentials;if(!options.headers){this.headers=new Headers(input.headers)}this.method=input.method;this.mode=input.mode;if(!body){body=input._bodyInit;input.bodyUsed=true}}else{this.url=input}this.credentials=options.credentials||this.credentials||"omit";if(options.headers||!this.headers){this.headers=new Headers(options.headers)}this.method=normalizeMethod(options.method||this.method||"GET");this.mode=options.mode||this.mode||null;this.referrer=null;if((this.method==="GET"||this.method==="HEAD")&&body){throw new TypeError("Body not allowed for GET or HEAD requests")}this._initBody(body)}Request.prototype.clone=function(){return new Request(this)};function decode(body){var form=new FormData;body.trim().split("&").forEach(function(bytes){if(bytes){var split=bytes.split("=");var name=split.shift().replace(/\+/g," ");var value=split.join("=").replace(/\+/g," ");form.append(decodeURIComponent(name),decodeURIComponent(value))}});return form}function headers(xhr){var head=new Headers;var pairs=xhr.getAllResponseHeaders().trim().split("\n");pairs.forEach(function(header){var split=header.trim().split(":");var key=split.shift().trim();var value=split.join(":").trim();head.append(key,value)});return head}Body.call(Request.prototype);function Response(bodyInit,options){if(!options){options={}}this.type="default";this.status=options.status;this.ok=this.status>=200&&this.status<300;this.statusText=options.statusText;this.headers=options.headers instanceof Headers?options.headers:new Headers(options.headers);this.url=options.url||"";this._initBody(bodyInit)}Body.call(Response.prototype);Response.prototype.clone=function(){return new Response(this._bodyInit,{status:this.status,statusText:this.statusText,headers:new Headers(this.headers),url:this.url})};Response.error=function(){var response=new Response(null,{status:0,statusText:""});response.type="error";return response};var redirectStatuses=[301,302,303,307,308];Response.redirect=function(url,status){if(redirectStatuses.indexOf(status)===-1){throw new RangeError("Invalid status code")}return new Response(null,{status:status,headers:{location:url}})};self.Headers=Headers;self.Request=Request;self.Response=Response;self.fetch=function(input,init){return new Promise(function(resolve,reject){var request;if(Request.prototype.isPrototypeOf(input)&&!init){request=input}else{request=new Request(input,init)}var xhr=new XMLHttpRequest;function responseURL(){if("responseURL"in xhr){return xhr.responseURL}if(/^X-Request-URL:/m.test(xhr.getAllResponseHeaders())){return xhr.getResponseHeader("X-Request-URL")}return}xhr.onload=function(){var status=xhr.status===1223?204:xhr.status;if(status<100||status>599){reject(new TypeError("Network request failed"));return}var options={status:status,statusText:xhr.statusText,headers:headers(xhr),url:responseURL()};var body="response"in xhr?xhr.response:xhr.responseText;resolve(new Response(body,options))};xhr.onerror=function(){reject(new TypeError("Network request failed"))};xhr.open(request.method,request.url,true);if(request.credentials==="include"){xhr.withCredentials=true}if("responseType"in xhr&&support.blob){xhr.responseType="blob"}request.headers.forEach(function(value,name){xhr.setRequestHeader(name,value)});xhr.send(typeof request._bodyInit==="undefined"?null:request._bodyInit)})};self.fetch.polyfill=true})(typeof self!=="undefined"?self:this);
+        }
+    
+        if (typeof window.CustomEvent !== 'function') {
+    
+          function CustomEvent(event, params) {
+            params = params || { bubbles: false, cancelable: false, detail: null };
+            var evt = document.createEvent('CustomEvent');
+            evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+            return evt;
+          }
+    
+          CustomEvent.prototype = window.Event.prototype;
+    
+          window.CustomEvent = CustomEvent;
+    
+        }
+    
+        (function() {
+    
+            var language = 'en';
+                language = 'pt-BR';
+    
+            var modal = false;
+    
+    
+            var istatsLabels = {name: 'portuguese.world.story.52806218.page' || undefined};
+            istatsLabels['pal_route'] = 'asset';
+            istatsLabels['language'] = 'pt-BR';
+            istatsLabels['pal_webapp'] = 'tabloid';
+            istatsLabels['prod_name'] = 'portuguese';
+            istatsLabels['app_name'] = 'portuguese';
+            istatsLabels['cps_asset_id'] = '52806218';
+            istatsLabels['page_type'] = 'Story';
+            istatsLabels['section'] = '';
+            istatsLabels['first_pub'] = '2020-05-26T12%3A52%3A14-03%3A00';
+            istatsLabels['last_editorial_update'] = '2020-05-27T06%3A12%3A05-03%3A00';
+            istatsLabels['curie'] = '7cd135b1-d758-e34c-b72f-b90915d3fc39';
+            istatsLabels['title'] = 'Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano';
+            istatsLabels['has_video'] = '';
+            istatsLabels['topic_names'] = 'Brazil%21Sweden%21Coronavirus+pandemic%21Health%21World+Health+Organization+%28WHO%29%21Jair+Bolsonaro';
+            istatsLabels['topic_ids'] = '15f1bcf6-b6ab-48e8-b708-efed41e43d31%214fdf72b9-e477-43e5-80cf-b2ea49baa0bc%215fe79b8d-56e5-4aff-8b05-21f9ad731912%21c4794229-7f87-43ce-ac0a-6cfcd6d3cef2%21e7f068e4-c41a-448c-9efc-769ef0ee1803%21f21d4493-e3bd-47df-b23c-1d57f0e3e818';
+            istatsLabels['for_nation'] = 'br';
+            istatsLabels['app_version'] = '1.315.0';
+            istatsLabels['app_type'] = 'responsive';
+            istatsLabels['bbc_site'] = 'news-ws-portuguese';
+    
+            function getMetaValue(propertyName) {
+              var metaTag = document.querySelector(
+                "meta[property='" + propertyName + "'], " +
+                "meta[name='" + propertyName + "']");
+              if (metaTag) {
+                return metaTag.getAttribute("content");
+              } else {
+                throw new Error('No meta tag called: ' + propertyName)
+              }
+            }
+    
+            function generateCountername() {
+                if (window.location.protocol === 'file:') {
+                  return 'local.file';
+                }
+    
+                var pathName = window.location.pathname
+                    .replace(/\/$/, "")
+                    .replace(/^\//, "")
+                    .replace(/\//g, '.');
+                return pathName + '.page';
+            }
+    
+            var additionalPageProperties = {};
+                additionalPageProperties['content_language'] = 'pt-BR';
+                additionalPageProperties['custom_var_1'] = '2020-05-27T09:03:16+00:00';
+                additionalPageProperties['custom_var_2'] = '2020-05-27T09:12:05+00:00';
+                additionalPageProperties['custom_var_6'] = 'WS - Inspire me~WS - Educate me~WS - Give me perspective~WS - Keep me on trend';
+                additionalPageProperties['custom_var_7'] = 'Feature';
+                additionalPageProperties['app_name'] = 'news-portuguese';
+    
+            var page = {
+                name: 'portuguese.world.story.52806218.page' || istatsLabels.name || generateCountername(),
+                destination: 'WS_NEWS_LANGUAGES' || null,
+                producer: 'BRASIL' || null,
+                section: 'world' || null,
+                site: '' || istatsLabels.bbc_site || istatsLabels.app_name || istatsLabels.prod_name || null,
+                contentId: 'urn:bbc:cps:7cd135b1-d758-e34c-b72f-b90915d3fc39' || null,
+                contentType: 'article' || null,
+                edition: '' || null,
+                additionalProperties: additionalPageProperties
+            };
+    
+            function updatePageData(newData) {
+                page = Object.assign(page, newData);
+            }
+    
+            document.addEventListener('bbc-page-reset', function(event) {
+                if (event.detail && event.detail.page) {
+                    updatePageData(event.detail.page);
+                }
+                document.dispatchEvent(new Event('bbc-page-updated'));
+            });
+    
+            window.bbcpage = {
+                loadModule: function(deps) {
+                    return new Promise(function (resolve, reject) {
+                        window.require(deps, function () {
+                            resolve.apply(this, arguments);
+                        },
+                        function (error) {
+                            reject(error);
+                        });
+                    })
+                },
+                loadCSS: function (url, timeout) {
+                    return window.bbcpage.loadModule(['orb/lib/_$'])
+                        .then(function($) {
+                            return new Promise(function(resolve, reject) {
+                                var stylesheet = loadCSS(url);
+                                $.onloadCSS(stylesheet, function() {
+                                    resolve();
+                                });
+                                if (timeout) {
+                                    setTimeout(function () { reject(); }, timeout);
+                                }
+                            });
+                    });
+                },
+                isModal: function () {
+                    return modal;
+                },
+                getLanguage: function () {
+                    return new Promise(function(resolve, reject) {
+                        resolve(language);
+                    });
+                },
+                trackRegion: function (region, labels) {
+                    return window.bbcpage.loadModule(['istats-1'])
+                        .then(function(istats) {
+    
+                            var trackLabels = {
+                                region: region
+                            };
+    
+                            for (var label in labels) {
+                                trackLabels[label] = labels[label];
+                            }
+    
+                            var linkType = labels.linkType || 'internal';
+    
+                            istats.track(linkType, trackLabels);
+                        });
+                },
+                getName: function() {
+                    return Promise.resolve(page.name);
+                },
+                getDestination: function() {
+                    return Promise.resolve(page.destination);
+                },
+                getProducer: function() {
+                    return Promise.resolve(page.producer);
+                },
+                getSite: function() {
+                    return Promise.resolve(page.site);
+                },
+                getSection: function() {
+                    return Promise.resolve(page.section);
+                },
+                getContentType: function() {
+                    return Promise.resolve(page.contentType);
+                },
+                getContentId: function() {
+                    return Promise.resolve(page.contentId);
+                },
+                getEdition: function() {
+                  return new Promise(function (resolve, reject) {
+                    if (page.edition) {
+                      resolve(page.edition);
+                      return;
+                    }
+                    try {
+                      resolve(getMetaValue('x-audience').toLowerCase());
+                    } catch (err){
+                      // This property is related to Chartbeat; see http://support.chartbeat.com/docs/
+                      if (window._sf_async_config) {
+                        resolve(window._sf_async_config.region || null);
+                      }
+                    }
+                    resolve(null);
+                  });
+                },
+                getReferrer: function() {
+                  return Promise.resolve(window.orb && window.orb.referrer !== null && window.orb.referrer !== undefined ? window.orb.referrer : document.referrer);
+                },
+                getAdditionalProperties: function() {
+                  return Promise.resolve(page.additionalProperties);
+                }
+            };
+    
+            var USERINFO_PREFIX = "www." || "www.";
+    
+            function initUserCache(orbitUser) {
+              var availableAttr = [
+                'X-Country',
+                'X-Ip_is_advertise_combined',
+                'X-Ip_is_uk_combined'
+              ];
+              var userCache = availableAttr.reduce(function(user, curr, i) {
+                if (!orbitUser[curr]) {
+                  return user;
+                }
+                var res = Object.assign({}, user);
+                res[curr] = orbitUser[curr];
+                return res;
+              }, {});
+              if (Object.keys(userCache).length !== availableAttr.length) {
+                userCache._partial = true;
+              }
+              return userCache;
+            }
+    
+            var user = initUserCache({
+            });
+    
+            function checkStatus(response) {
+              if (response.status >= 200 && response.status < 300) {
+                return response;
+              } else {
+                var error = new Error(response.statusText);
+                error.response = response;
+                throw error;
+              }
+            }
+    
+            function parseJSON(response) {
+              return response.json();
+            }
+    
+            var supportsCors = function() {
+              return typeof XMLHttpRequest !== 'undefined' &&
+                'withCredentials' in new XMLHttpRequest();
+            };
+    
+            var getUserInfoFallback = function() {
+              return window.bbcpage.loadModule(['orb/fig'])
+                .then(function(orbFig) {
+                  return new Promise(function(resolve, reject) {
+                    orbFig.load(function(fig) {
+                      var getCountryFallback = function() {
+                        if (fig.geo.isUK()) {
+                          return 'GB';
+                        } else if (fig.geo.isEU()) {
+                          return 'EU';
+                        }
+                      };
+                      resolve({
+                        'X-Country': user.country || getCountryFallback(),
+                        'X-Ip_is_uk_combined': fig().uk ? 'yes' : 'no',
+                        'X-Ip_is_advertise_combined': fig().ad ? 'yes' : 'no'
+                      });
+                    }, function () {
+                      reject('Error determining country. Timeout?');
+                    });
+                  });
+                });
+            };
+    
+            var _userInfoRequest;
+            var getUserInfo = function() {
+    
+              var host = window.location.host.toString().match(/bbc\.com$/) ? 'bbc.com' : 'bbc.co.uk';
+              var userInfoUrl = "https://" + USERINFO_PREFIX + host + '/userinfo';
+    
+              if (!user._partial) {
+                return Promise.resolve(user);
+              }
+    
+              if (!_userInfoRequest) {
+                if (typeof window.fetch === 'undefined' || !supportsCors()) {
+                  _userInfoRequest = getUserInfoFallback();
+                } else {
+                  _userInfoRequest = window.fetch(userInfoUrl, { credentials: 'same-origin' })
+                    .then(checkStatus)
+                    .then(parseJSON)
+                    .then(function(userInfo) {
+                      user = userInfo;
+                      return user;
+                    });
+                }
+              }
+    
+              return _userInfoRequest;
+            };
+    
+            var USER_PROFILE_URL = "https://www.bbc.co.uk/userprofile";;
+            var _helloRequest;
+            var getSegmentations = function() {
+    
+              if (user.ageBand) {
+                return Promise.resolve(user);
+              }
+    
+              if (!_helloRequest) {
+                if (typeof window.fetch === 'undefined' || !supportsCors()) {
+                  return Promise.resolve(user);
+                } else {
+    
+                  _helloRequest = window.bbcpage.loadModule(['idcta-v2/idcta-1']).then(function(idcta) {
+                    return idcta.initiateTokenRefresh().then(function() {
+                      return window.fetch(USER_PROFILE_URL, { credentials: 'include' })
+                        .then(checkStatus)
+                        .then(parseJSON)
+                        .then(function(profileInfo) {
+                          Object.assign(user, profileInfo);
+                          return user;
+                        });
+                      });
+                  });
+    
+                }
+              }
+    
+              return _helloRequest;
+            };
+    
+            window.bbcuser = {
+                getHashedId: function() {
+                    return window.bbcpage.loadModule(['idcta-v2/idcta-1'])
+                        .then(function(idcta) {
+                            return idcta.getCookieInstance().getHidFromCookie();
+                    });
+                },
+    
+                getAgeBand: function() {
+                    if (user['X-Age-Band']) {
+                        return Promise.resolve(user['X-Age-Band']);
+                    }
+    
+                    return bbcuser.isSignedIn().then(function(isSignedIn) {
+                        if (isSignedIn) {
+                            return window.bbcpage.loadModule(['idcta-v2/idcta-1'])
+                                .then(function(idcta) {
+                                    user['X-Age-Band'] = idcta.getUserDetailsFromCookie().ab;
+                                    if (user['X-Age-Band'] === 'u13') {
+                                        user['X-Age-Band'] = '0-12';
+                                        return user['X-Age-Band'];
+                                    } else if (user['X-Age-Band'] === 'u16') {
+                                        user['X-Age-Band'] = '13-15';
+                                        return user['X-Age-Band'];
+                                    } else if (user['X-Age-Band'] === 'u18') {
+                                        user['X-Age-Band'] = '16-17';
+                                        return user['X-Age-Band'];
+                                    } else {
+                                        user['X-Age-Band'] = undefined;
+                                        return getSegmentations().then(function(userInfo) {
+                                            user['X-Age-Band'] = userInfo['X-Age-Band'];
+                                            return user['X-Age-Band'] || undefined;
+                                        }).catch(function(error) {
+                                            return user['X-Age-Band'] || undefined;
+                                        });
+                                    }
+                                });
+    
+                        } else {
+                            return undefined;
+                        }
+                    });
+                },
+    
+                getCountry: function() {
+                    if (user['X-Country']) {
+                        return Promise.resolve(user['X-Country']);
+                    }
+                    return getUserInfo().then(function(userInfo) {
+                        return userInfo['X-Country'] || 'GB';
+                    });
+                },
+    
+                isUKCombined: function() {
+                    return getUserInfo().then(function(userInfo) {
+                        if (!userInfo['X-Ip_is_uk_combined']) {
+                            throw new Error('missing isUKCombined from userinfo response');
+                        }
+                        return userInfo['X-Ip_is_uk_combined'].toLowerCase() === 'yes';
+                    })
+                },
+    
+                canSeeAdverts: function() {
+                    return getUserInfo().then(function(userInfo) {
+                        if (!userInfo['X-Ip_is_advertise_combined']) {
+                            throw new Error('missing canSeeAdverts from userinfo response');
+                        }
+                        return userInfo['X-Ip_is_advertise_combined'].toLowerCase() === "yes";
+                    });
+                },
+    
+                isSignedIn: function() {
+                    return window.bbcpage.loadModule(['idcta-v2/idcta-1'])
+                        .then(function(idcta) {
+                            return (idcta && idcta.getCookieInstance().hasCookie());
+                        });
+                },
+                allowsPerformanceCookies: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('performance');
+                            });
+                },
+                allowsFunctionalCookies: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('personalisation');
+                            });
+                },
+                getCookieValue: function(cookieName) {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return bbccookies.get(cookieName);
+                            });
+                },
+                resetCookiesPreferences: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                bbccookies.setDefaultCookiesSingleDomain();
+                            });
+                },
+                hasCookiesEnabled: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return !!bbccookies.cookiesEnabled();
+                            });
+                },
+                hasSeenCookieBanner: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function (bbccookies) {
+                                return !!bbccookies.isCookiePolicySet();
+                            });
+                },
+                logEvent: function (verb, noun, extraLabels) {
+                    return window.bbcuser.hasCookiesEnabled()
+                        .then(function(allowsCookies) {
+                            if (allowsCookies) {
+                                return window.bbcpage.loadModule(['istats-1'])
+                                    .then(function(istats) {
+                                        istats.log(verb, noun, extraLabels);
+                                    });
+                            } else {
+                                throw new Error('User cannot be tracked due to cookies preferences.');
+                            }
+                        });
+                },
+            };
+    
+        }());</script><script src="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/js/require.min.js"></script>   <script src="https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-459.c5461d9/cookie-banner/cookie-library.min.js"></script><script type="text/javascript">if (window.define !==  undefined) {
+        define('orb/cookies', function() {
+          return window.bbccookies;
+        });
+      }</script>   <script src="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/js/api.min.js"></script><script type="text/javascript">window.bbcFlagpoles_istats="ON",require.config({paths:{"istats-1":"https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-459.c5461d9/istats/istats-1"}}),require(["istats-1","orb/cookies"],function(t,a){if(a.isAllowed("s1")){var e=(o=document.location.href.match(/^(?:https|http):\/\/\w*\.(?:(int|test|stage|live|)\.)?bbc\.(?:co\.uk|com)/))?void 0===o[1]||""===o[1]||"live"===o[1]?"//sa.bbc.co.uk/bbc/bbc/s":"//sa.bbc.co.uk/bbc/"+o[1]+"/s":"//sa.bbc.co.uk/bbc/test/s";t.addCollector({name:"default",url:e,separator:"&"});var s="portuguese.world.story.52806218.page";t.setCountername(s),window.istats_countername&&t.setCountername(window.istats_countername),t.addLabels("ml_name=webmodule&ml_version=0.0.2-459.c5461d9&blq_e=orbit&blq_r=orbit&blq_s=orbit&blq_v=worldservice&language=pt-BR&pal_route=asset&language=pt-BR&pal_webapp=tabloid&prod_name=portuguese&app_name=portuguese&cps_asset_id=52806218&page_type=Story&section=&first_pub=2020-05-26T12%3A52%3A14-03%3A00&last_editorial_update=2020-05-27T06%3A12%3A05-03%3A00&curie=7cd135b1-d758-e34c-b72f-b90915d3fc39&title=Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano&has_video=&topic_names=Brazil%21Sweden%21Coronavirus+pandemic%21Health%21World+Health+Organization+%28WHO%29%21Jair+Bolsonaro&topic_ids=15f1bcf6-b6ab-48e8-b708-efed41e43d31%214fdf72b9-e477-43e5-80cf-b2ea49baa0bc%215fe79b8d-56e5-4aff-8b05-21f9ad731912%21c4794229-7f87-43ce-ac0a-6cfcd6d3cef2%21e7f068e4-c41a-448c-9efc-769ef0ee1803%21f21d4493-e3bd-47df-b23c-1d57f0e3e818&for_nation=br&app_version=1.315.0&app_type=responsive&bbc_site=news-ws-portuguese")}var o});</script><script type="text/javascript">(function() {
+    if (!window.require) {
+        throw new Error('idcta: could not find require module');
+    }
+    if (typeof(map) == 'undefined') {
+        var map = {};
+    }
+    if (!!document.createElementNS && !!document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect) {
+        document.documentElement.className += ' id-svg';
+    }
+    var ptrt = new RegExp("[\\?&]ptrt=([^&]*)").exec(document.location.href);
+    var ENDPOINT_URL = 'https://idcta.api.bbc.co.uk';
+    var ENDPOINT_CONFIG = ('/idcta/config?callback=&ptrt=' + encodeURIComponent((ptrt ? ptrt[1] : document.location.href))).replace(/\&amp;/g, '&');
+    var ENDPOINT_TRANSLATIONS = '/idcta/translations?callback=';
+
+    function hasPromise() {
+        var P = window.Promise;
+        var promiseToString = null;
+        if (P) {
+            try {
+                promiseToString = Object.prototype.toString.call(P.resolve());
+            } catch (e) {
+                /*silently ignored*/ }
+        }
+        return (promiseToString === '[object Promise]' && !P.cast);
+    }
+    if (hasPromise()) {
+        define('idcta/es6-promise', function() {
+            return window.Promise;
+        });
+        define('idcta-v2/es6-promise', function() {
+            return window.Promise;
+        });
+    }
+    map['idcta-v2'] = 'https://static.files.bbci.co.uk/account/id-cta/1.42.0/modules/idcta-v2';
+    map['idcta-v2/config'] = ENDPOINT_URL + ENDPOINT_CONFIG;
+    map['idcta-v2/translations'] = ENDPOINT_URL + ENDPOINT_TRANSLATIONS;
+    map['idcta'] = 'https://static.files.bbci.co.uk/account/id-cta/1.8.2/modules/idcta';
+    map['idcta-v2/idcta-1'] = 'https://static.files.bbci.co.uk/account/id-cta/1.42.0/modules/idcta-v2/dist/idcta-1.min';
+    map['idcta-v2/experiment-snippet'] = 'https://cdn.optimizely.com/public/4621041136/s/idcta_live';
+    const idctaShim = {
+        deps: ['idcta-v2/idcta-1'],
+    };
+    require({
+        shim: {
+            'idcta-v2/statusbar': idctaShim,
+            'idcta-v2/id-config': idctaShim
+        },
+        map: {
+            '*': {
+                'idcta/idcta-1': 'idcta-v2/idcta-1',
+                'idcta': 'idcta-v2',
+            }
+        },
+        paths: map
+    });
+    window.idctaBaseUrl = ENDPOINT_URL;
+    define('idcta/config', ['idcta-v2/config'], function(data) {
+        return data;
+    });
+    define('idcta/translations', ['idcta-v2/translations'], function(data) {
+        return data;
+    });
+})();
+
+
+(function() {
+
+    function decodeToJsonObject(encodedString) {
+        try {
+            var decoded = window.atob(encodedString);
+            var lastBracket = decoded.lastIndexOf('}');
+            var cleanCookie = decoded.substring(0, lastBracket + 1);
+            return JSON.parse(cleanCookie);
+        } catch (error) {
+            return null;
+        }
+    }
+
+    function getCookie(cname, decode) {
+        try {
+            var cookiePattern = new RegExp(cname + '=([^\\s;]*)');
+            var cookieMatch = document.cookie.match(cookiePattern);
+            if (!cookieMatch) {
+                return null;
+            }
+            if (decode !== true) {
+                return cookieMatch[1];
+            }
+            var decodedString = decodeURIComponent(cookieMatch[1]);
+            return decodeToJsonObject(decodedString);
+        } catch (err) {
+            console.log(err);
+        }
+    };
+
+    define('idcta-v2/idcta-1', function() {
+        return {
+            getCookieInstance: function() {
+                return {
+                    getHidFromCookie: function() {
+                        return getCookie('ckns_sylphid');
+                    },
+                    hasCookie: function() {
+                        var cookiePattern = new RegExp('ckns_sylphid=([\\w]+)');
+                        var cookieMatch = document.cookie.match(cookiePattern);
+                        return !!cookieMatch;
+                    }
+                }
+            }
+        };
+    });
+
+})();</script>  <!-- BBCDOTCOM head --><script type="text/javascript">/*<![CDATA[*/ var _sf_startpt = (new Date()).getTime(); /*]]>*/</script><style type="text/css">.bbccom_display_none{display:none;}</style><script type="text/javascript">/*<![CDATA[*/ var bbcdotcomConfig, googletag = googletag || {}; googletag.cmd = googletag.cmd || [], bbcdotcomScripts = [], tp = window.tp || []; var bbcdotcom = false; (function(){ if(typeof require !== 'undefined') { require({ paths:{ "bbcdotcom":"https://static.bbc.co.uk/bbcdotcom/4.4.0/script" } }); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ var bbcdotcom = { adverts: { keyValues: { set: function() {} } }, advert: { write: function () {}, show: function () {}, isActive: function () { return false; }, layout: function() { return { reset: function() {} } } }, config: { init: function() {}, isActive: function() {}, setSections: function() {}, isAdsEnabled: function() {}, setAdsEnabled: function() {}, isAnalyticsEnabled: function() {}, setAnalyticsEnabled: function() {}, setAssetPrefix: function() {}, setFlagpoles: function() {}, setVersion: function () {}, setJsPrefix: function() {}, setSwfPrefix: function() {}, setCssPrefix: function() {}, setConfig: function() {}, getAssetPrefix: function() {}, getJsPrefix: function () {}, getSwfPrefix: function () {}, getCssPrefix: function () {}, isOptimizelyEnabled: function() {}, isThirdPartyDisabled: function() {}, isThirdPartyDisabledEU: function() {}, setEU: function() {} }, survey: { init: function(){ return false; } }, data: {}, init: function() {}, objects: function(str) { return false; }, locale: { set: function() {}, get: function() {} }, setAdKeyValue: function() {}, utils: { addEvent: function() {}, addHtmlTagClass: function() {}, log: function () {} }, addLoadEvent: function() {} }; /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (typeof orb !== 'undefined' && typeof orb.fig === 'function') { if (orb.fig('ad') && orb.fig('uk') == 0) { bbcdotcom.data = { ads: (orb.fig('ad') ? 1 : 0), stats: (orb.fig('uk') == 0 ? 1 : 0), statsProvider: orb.fig('ap') }; } } else { document.write('<script type="text/javascript" src="https://www.bbc.com/wwscripts/data">\x3C/script>'); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (typeof orb === 'undefined' || typeof orb.fig !== 'function') { bbcdotcom.data = { ads: bbcdotcom.data.a, stats: bbcdotcom.data.b, statsProvider: bbcdotcom.data.c }; } if (bbcdotcom.data.ads == 1) { document.write('<script type="text/javascript" src="https://www.bbc.com/wwscripts/flag">\x3C/script>'); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (window.bbcdotcom && (typeof bbcdotcom.flag == 'undefined' || (typeof bbcdotcom.data.ads !== 'undefined' && bbcdotcom.flag.a != 1))) { bbcdotcom.data.ads = 0; } if (/[?|&]ads/.test(window.location.href) || /(^|; )ads=on; /.test(document.cookie) || /; ads=on(; |$)/.test(document.cookie)) { bbcdotcom.data.ads = 1; bbcdotcom.data.stats = 1; } if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcom.assetPrefix = "https://static.bbc.co.uk/bbcdotcom/4.4.0/"; if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug=') !== -1) { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/4.4.0/script/dist/bbcdotcom.dev.js">\x3C/script>'); } else { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/4.4.0/script/dist/bbcdotcom.js">\x3C/script>'); } } })(); /*]]>*/</script><script type="text/javascript">if (window.bbcdotcom && bbcdotcom.data.stats == 1) { document.write('<link rel="dns-prefetch" href="//secure-us.imrworldwide.com/">'); document.write('<link rel="dns-prefetch" href="//me-cdn.effectivemeasure.net/">'); document.write('<link rel="dns-prefetch" href="//ssc.api.bbc.com/">'); } if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<link rel="dns-prefetch" href="//www.googletagservices.com/">'); document.write('<link rel="dns-prefetch" href="//bbc.gscontxt.net/">'); document.write('<link rel="dns-prefetch" href="//tags.crwdcntrl.net/">'); document.write('<link rel="dns-prefetch" href="//ad.crwdcntrl.net/">'); }</script><script type="text/javascript">if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<meta name="google-site-verification" content="auTeTTwSt_KBY_4iDoR00Lwb7-qzx1IgzJy6ztaWgEI" />'); }</script><script type="text/javascript">/*<![CDATA[*/ (function(){ var GDPR_COUNTRIES = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'IS', 'LI', 'NO', 'CH']; if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcomConfig = {"adFormat":"standard","adKeyword":"","adMode":"smart","adsEnabled":true,"appAnalyticsSections":"","asyncEnabled":true,"disableInitialLoad":false,"advertInfoPageUrl":"https:\/\/www.bbc.com\/privacy\/cookies\/international\/","advertisementText":"Advertisement","analyticsEnabled":true,"thirdPartyDisabled":false,"sherlockEnabled":false,"permutiveEnabled":false,"appName":"","assetPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/4.4.0\/","customAdParams":[],"customStatsParams":[],"headline":"","id":"","inAssociationWithText":"in association with","keywords":"","language":"","orbTransitional":false,"optimizelyEnabled":true,"palEnv":"live","productName":"","sections":[],"comScoreEnabled":true,"comscoreSite":"bbc","comscoreID":"19293874","comscorePageName":"","slots":"","sponsoredByText":"is sponsored by","adsByGoogleText":"Ads by Google","summary":"","type":"","features":{"testfeature":{"name":"testfeature","envs":["sandbox","int","test"],"on":true,"options":{},"override":null},"lxadverts":{"name":"lxadverts","envs":[],"on":true,"options":{},"override":null}},"staticBase":"\/bbcdotcom","staticHost":"https:\/\/static.bbc.co.uk","staticVersion":"4.4.0","staticPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/4.4.0","dataHttp":"tps.bbc.com","dataHttps":"www.bbc.com","flagHttp":"www.bbc.co.uk","flagHttps":"www.bbc.co.uk","analyticsHttp":"sa.bbc.com","analyticsHttps":"ssa.bbc.com"}; bbcdotcom.config.init(bbcdotcomConfig, bbcdotcom.data, window.location, window.document); bbcdotcom.config.setFlagpoles(bbcdotcom.flag || {}); bbcdotcom.config.setAssetPrefix("https://static.bbc.co.uk/bbcdotcom/4.4.0/"); bbcdotcom.config.setVersion("4.4.0"); if (window.bbcuser && window.bbcuser.getCountry && typeof(window.bbcuser.getCountry) === 'function') { window.bbcuser.getCountry().then(function(countryCode) { var isEU = countryCode ? GDPR_COUNTRIES.indexOf(countryCode.toUpperCase()) !== -1 : false; bbcdotcom.config.setEU(isEU); }); } else if (window.orb && window.orb.fig && typeof(window.orb.fig) === 'function') { bbcdotcom.config.setEU(window.orb.fig('eu')); } document.write('<!--[if IE 7]><script type="text/javascript">bbcdotcom.config.setIE7(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 8]><script type="text/javascript">bbcdotcom.config.setIE8(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 9]><script type="text/javascript">bbcdotcom.config.setIE9(true);\x3C/script><![endif]-->'); if (/[?|&]ex-dp/.test(window.location.href) || document.cookie.indexOf('ex-dp=') !== -1) { bbcdotcom.utils.addHtmlTagClass('bbcdotcom-ex-dp'); } } })(); /*]]>*/</script><script type="text/javascript">var initOptimizely = (function(isEnabled){ if(!isEnabled) return; var logger = window.bbcdotcom.Logger('bbcdotcom:head:optimizely'); /* Allow Optimizely in these paths */ var allowPaths = ['/', '/wwhp']; /* Only run on optimizely on homepage */ if (bbcdotcom.utils && allowPaths.indexOf(window.location.pathname) !== -1){ /* set correct OptimizelyURL for prod or sandbox */ var optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_sandbox.js"; if(window.location.hostname === 'www.bbc.com') { optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_prod.js"; } /* Set cookie to 1 year */ window['optimizely'] = window['optimizely'] || []; window['optimizely'].push({ "type": "cookieExpiration", "cookieExpirationDays": 365 }); document.write('<script type="text/javascript" src="'+optimizelyURL+'">\x3C/script>'); } })( bbcdotcom.config.isOptimizelyEnabled() );</script><script type="text/javascript">/*<![CDATA[*/ if ( window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.ads && bbcdotcom.data.ads == 1 && bbcdotcom.config && bbcdotcom.config.isGrapeshotEnabled && bbcdotcom.config.isGrapeshotEnabled() && bbcdotcom.config.isWorldService && !bbcdotcom.config.isWorldService() ) { var gs_channels="DEFAULT"; (function () { var gsurl = window.location.href.split("?")[0]; bbcdotcomScripts.push({src:'https://bbc.gscontxt.net/?url='+encodeURIComponent(gsurl)}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config && bbcdotcom.config.isLotameActive && bbcdotcom.config.isLotameActive()&& bbcdotcom.config.isLotameEnabled && bbcdotcom.config.isLotameEnabled()){ (function () { var clientId, lotameUrl, lotameAudienceUrl; clientId = (bbcdotcom.config.isWorldService && bbcdotcom.config.isWorldService()) ? '10826' : '10816'; lotameUrl = 'https://tags.crwdcntrl.net/c/'+clientId+'/cc.js?ns='+clientId; lotameAudienceUrl = 'https://ad.crwdcntrl.net/5/c=10815/pe=y/var=ccauds'; bbcdotcomScripts.push({src:lotameUrl,id:"LOTCC"+clientId}); bbcdotcomScripts.push({src:lotameAudienceUrl}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config && bbcdotcom.config.isPermutiveEnabled && bbcdotcom.config.isPermutiveEnabled() && bbcdotcom.config.isWorldService && !bbcdotcom.config.isWorldService()){ (function () { !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"e488cdb0-e7cb-4d91-9648-60d437d8e491","1bb84885-9325-4fef-adda-a208032b2715",{"consentRequired":true}); bbcdotcomScripts.push({src:'https://cdn.permutive.com/e488cdb0-e7cb-4d91-9648-60d437d8e491-web.js'}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ /** * ASYNC waits to make any gpt requests until the bottom of the page */ if ( window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.ads && bbcdotcom.data.ads == 1 && bbcdotcom.config && bbcdotcom.config.isAsync && bbcdotcom.config.isAsync() && bbcdotcom.config.isAdsEnabled && bbcdotcom.config.isAdsEnabled() ) { (function () { bbcdotcomScripts.push({src:'https://securepubads.g.doubleclick.net/tag/js/gpt.js'}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ /* Load Lotame, Grapeshot and GPT without blocking rendering but executing in order */ if ( window.bbcdotcom && bbcdotcom.config && bbcdotcomScripts.length > 0 ) { (function () { bbcdotcom.checkThirdPartyFirst(function(){ if (!bbcdotcom.config.isThirdPartyDisabledEU()){ bbcdotcomScripts.forEach(function(item) { var script = document.createElement('script'); script.async = false; if(item.id) script.id = item.id; script.src = item.src; document.head.appendChild(script); }); } }); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.head = true; }()); /*]]>*/</script><script type="text/javascript">// Globally available search context
+  window.SEARCHBOX={"variant":"worldservice","locale":"pt-BR","feature":"akamai-idcta","navSearchboxStaticPrefix":"https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/","searchboxAppStaticPrefix":"https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/drawer","searchFormHtml":"<div tabindex=\"-1\" data-reactroot=\"\"><div><section class=\"se-searchbox-panel\"><div class=\"se-g-wrap\"><div class=\"se-g-layout\"><div class=\"se-g-layout__item se-searchbox-title\" aria-hidden=\"true\">search</div><div class=\"se-g-layout__item se-searchbox\"><form accept-charset=\"utf-8\" id=\"searchboxDrawerForm\" method=\"get\" action=\"https://search.bbc.co.uk/search\"><label class=\"se-searchbox__input\" for=\"se-searchbox-input-field\"><span class=\"se-sr-only\">Search Term</span><input type=\"text\" name=\"q\" value=\"\" id=\"se-searchbox-input-field\" class=\"se-searchbox__input__field\" maxLength=\"512\" autoComplete=\"off\" autoCorrect=\"off\" autoCapitalize=\"off\" spellcheck=\"false\" tabindex=\"0\"/></label><input type=\"hidden\" name=\"scope\" value=\"\"/><button type=\"submit\" class=\"se-searchbox__submit\" tabindex=\"0\" data-bbc-container=\"se-searchbox-panel\" data-bbc-title=\"search-icon\" data-bbc-metadata=\"{&quot;PAR&quot;:&quot;form::1&quot;,&quot;CHD&quot;:&quot;button::1&quot;}\">Search</button><button type=\"button\" class=\"se-searchbox__clear se-searchbox__clear--visible\" tabindex=\"0\" data-bbc-container=\"se-searchbox-panel\" data-bbc-title=\"clear-icon\" data-bbc-metadata=\"{&quot;PAR&quot;:&quot;form::1&quot;,&quot;CHD&quot;:&quot;button::2&quot;}\" data-bbc-personalisation=\"{&quot;QRY&quot;:&quot;&quot;}\">Close</button></form></div></div></div></section><div aria-live=\"polite\" aria-atomic=\"true\" class=\"se-suggestions-container\"><section class=\"se-g-wrap\"></section></div></div></div>","searchScopePlaceholder":"<input type=\"hidden\" name=\"scope\" id=\"orb-search-scope\" value=\"portuguese\">","searchScopeParam":"?scope=portuguese","searchScopeTemplate":"portuguese","searchPlaceholderWrapperStart":"","searchPlaceholderWrapperEnd":""};
+  window.SEARCHBOX.suppress = false;
+  window.SEARCHBOX.searchScope = SEARCHBOX.searchScopeTemplate.split('-')[0];</script><link rel="stylesheet" href="https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/css/main.css"><!--[if IE 8]>
+  <script type="text/javascript" src="https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/script/html5shiv.min.js"></script>
+  <script type="text/javascript">window['searchboxIEVersion'] = 8;</script>
+  <link rel="stylesheet" href="https://nav.files.bbci.co.uk/searchbox/e954e72bfc5790a6682e4a3808090650/css/ie8.css">
+<![endif]--><!--[if IE 9]>
+  <script type="text/javascript">window['searchboxIEVersion'] = 9;</script>
+<![endif]--> <script type="text/javascript">"use strict";!function(){window.__reverbStaticLocation="https://mybbc-analytics.files.bbci.co.uk/reverb-client-js/",window.__smarttagVersion="5.18.2",window.__reverb={},window.__reverb.__reverbLoadedPromise=new Promise(function(e,n){window.__reverb.__resolveReverbLoaded=e,window.__reverb.__rejectReverbLoaded=n}),window.__reverb.__reverbTimeout=setTimeout(function(){window.__reverb.__rejectReverbLoaded()},5e3);var n=function(r,d){window.__reverb.__reverbLoadedPromise.then(function(e){if(r&&r.detail){var n=r.detail.label,t=r.detail.type,i=r.detail.elem,o=r.detail.originalEvent;r.detail.isClick&&(d=r.detail.isClick),e.userActionEvent(t,n,r.detail,i,o,d)}},function(){console.log("Reverb failed to load. Event not sent")})};document.addEventListener("bbc-user-event",function(e){n(e,!1)}),document.addEventListener("bbc-user-click",function(e){n(e,!0)}),document.addEventListener("bbc-page-updated",function(){window.__reverb.__reverbLoadedPromise.then(function(e){e.initialise().then(function(){return e.viewEvent()})},function(){console.log("Reverb failed to load. Event not sent")})})}();</script><script type="text/javascript" src="https://mybbc-analytics.files.bbci.co.uk/reverb-client-js/reverb-1.4.0.js" async=""></script><script type="text/javascript">window.__detectview={clickManagementEnabled:false};</script>
+        <link type="text/css" rel="stylesheet" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/core.css">
+    <!--[if lt IE 9]>
+        <link type="text/css" rel="stylesheet" href="https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese/old-ie.css">
+        <script src="https://static.bbc.co.uk/news/1.315.03594/js/vendor/html5shiv/html5shiv.js"></script>
+    <![endif]-->
+ <script id="news-loader"> if (document.getElementById("responsive-news")) { window.bbcNewsResponsive = true; } var isIE = (function() { var undef, v = 3, div = document.createElement('div'), all = div.getElementsByTagName('i'); while ( div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->', all[0] ); return v > 4 ? v : undef; }()); var modernDevice = 'querySelector' in document && 'localStorage' in window && 'addEventListener' in window, forceCore = document.cookie.indexOf('ckps_force_core') !== -1; window.cutsTheMustard = modernDevice && !forceCore; if (window.cutsTheMustard) { document.documentElement.className += ' ctm'; var insertPoint = document.getElementById('news-loader'), config = {"asset":{"asset_id":"52806218","asset_locator":"urn:bbc:cps:asset:52806218","asset_uri":"\/portuguese\/internacional-52806218","original_asset_uri":null,"first_created":{"date":"2020-05-26 12:52:14","timezone_type":3,"timezone":"America\/Sao_Paulo"},"first_published":{"date":"2020-05-27 06:03:16","timezone_type":3,"timezone":"America\/Sao_Paulo"},"last_updated":{"date":"2020-05-27 06:12:05","timezone_type":3,"timezone":"America\/Sao_Paulo"},"options":{"allowDateStamp":true,"allowPrintingSharingLinks":true,"allowHeadline":true,"allowRightHandSide":true,"allowRelatedStoriesBox":true,"includeComments":false,"isIgorSeoTagsEnabled":false,"isKeyContent":false,"isBreakingNews":false,"hasNewsTracker":false,"isFactCheck":false,"allowAdvertising":true,"hasContentWarning":false,"suitableForSyndication":true},"section":{"name":"Internacional","id":"102471","urlIdentifier":"\/portuguese\/internacional"},"language":"pt-BR","edition":"International","audience":null,"iStats_counter_name":"portuguese.world.story.52806218.page","type":"STY","curie":"asset:7cd135b1-d758-e34c-b72f-b90915d3fc39","length":27631,"byline":{"name":"Claudia Wallin","persons":{"0":{"name":"Claudia Wallin","function":"De Estocolmo para BBC Brasil","originCode":"MCS"}},"title":"De Estocolmo para BBC News Brasil"},"headline":"Citada como exemplo por Bolsonaro, estrat\u00e9gia da Su\u00e9cia contra coronav\u00edrus n\u00e3o serve para o Brasil, diz respons\u00e1vel por plano","mediaType":null,"topicTags":"Brazil!Sweden!Coronavirus pandemic!Health!World Health Organization (WHO)!Jair Bolsonaro"},"smpBrand":null,"staticHost":"https:\/\/static.bbc.co.uk","environment":"live","locatorVersion":"dev","pathPrefix":"\/portuguese","staticPrefix":"https:\/\/static.bbc.co.uk\/news\/1.315.03594","jsPath":"https:\/\/static.bbc.co.uk\/news\/1.315.03594\/js","cssPath":"https:\/\/static.bbc.co.uk\/news\/1.315.03594\/stylesheets\/services\/portuguese","cssPostfix":"","dynamic":null,"features":{"localnews":true,"video":true,"liveeventcomponent":true,"mediaassetpage":true,"gallery":true,"sportstories":true,"radiopromo":true,"fromothernewssites":true,"locallive":true,"weather":true},"features2":{"adexpert":true,"adverts":true,"adverts_async":true,"amp_link":true,"archive_fallback":true,"ati_analytics":true,"audio":true,"breaking_news":true,"chartbeat":true,"comments":true,"comments_enhanced":true,"comscore_analytics":true,"config_based_layout":true,"contact_form":true,"dns_prefetch_static_assets":true,"dynatrace_beacon":true,"embedephant-social-embeds":true,"enable_audio_on_stories":true,"extracted_share_tools":true,"features_and_analysis":true,"follow_us":true,"gazzetta_onward_journeys":true,"https_redirect":true,"igor_device_redirect":false,"interactive-social-embeds":true,"ldp_indexes":true,"ldp_tag_augmentation":true,"link_href_language":true,"live_v2_stream":true,"media_indexes":true,"media_player":true,"meta_verification":true,"most_popular":true,"most_popular_tabs":true,"nav":true,"olympics_tables":true,"open_graph":true,"or":true,"orbit":true,"optimizely":true,"preconnect_oftused_domains":true,"preload_fig":true,"pulse_survey":true,"recent_assets_indexes":true,"routing":true,"share_tools":true,"social-embeds":true,"story_single_column_layout":true,"story_sticky_player":true,"suppress_lep_timezone":true,"svg_brand":true,"timezone":true,"top_stories_promo":true,"ws_newsletter":true,"wsoj":true},"configuration":{"showtimestamp":"1","showweather":"","showsport":"1","showolympics":"1","showfeaturemain":"1","candyplatform":"EnhancedMobile","showwatchlisten":"","showspecialreports":"1","videotopiccandyid":"topicos\/video","showvideofeedsections":"","showstorytopstories":"","showstoryfeaturesandanalysis":"1","showstorymostpopular":"","showgallery":"1","cms":"topcat"},"pollingHost":"https:\/\/polling.bbc.co.uk","service":"portuguese","locale":"pt","locatorHost":null,"locatorFlagPole":true,"local":{"allowLocationLookup":true},"isWorldService":true,"isChannelPage":false,"languageVariant":"","commentsHost":"https:\/\/www.bbc.co.uk","search":null,"comscoreAnalytics":{"virtual_site":"news-ws-portuguese"}}; config.configuration['get'] = function (key) { return this[key.toLowerCase()]; };  var bootstrapUI=function(){var e=function(){if(navigator.userAgent.match(/(Android (2.0|2.1))|(Nokia)|(OSRE\/)|(Opera (Mini|Mobi))|(w(eb)?OSBrowser)|(UCWEB)|(Windows Phone)|(XBLWP)|(ZuneWP)/))return!1;if(navigator.userAgent.match(/MSIE 10.0/))return!0;var e,t=document,n=t.head||t.getElementsByTagName("head")[0],r=t.createElement("style"),s=t.implementation||{hasFeature:function(){return!1}};r.type="text/css",n.insertBefore(r,n.firstChild),e=r.sheet||r.styleSheet;var i=s.hasFeature("CSS2","")?function(t){if(!e||!t)return!1;var n=!1;try{e.insertRule(t,0),n=!/unknown/i.test(e.cssRules[0].cssText),e.deleteRule(e.cssRules.length-1)}catch(r){}return n}:function(t){return e&&t?(e.cssText=t,0!==e.cssText.length&&!/unknown/i.test(e.cssText)&&0===e.cssText.replace(/\r+|\n+/g,"").indexOf(t.split(" ")[0])):!1};return i('@font-face{ font-family:"font";src:"font.ttf"; }')}();e&&(document.getElementsByTagName("html")[0].className+=" ff"),function(){var e=document.documentElement.style;("flexBasis"in e||"WebkitFlexBasis"in e||"msFlexBasis"in e)&&(document.documentElement.className+=" flex")}();var t,n,r,s,i,a={},o=function(){var e=document.documentElement.clientWidth,n=window.innerWidth,r=n>1.5*e;t=r?e:n},u=function(e){var t=document.createElement("link");t.setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.setAttribute("href",n+e+r+".css"),t.setAttribute("media",i[e]),s.parentNode.insertBefore(t,s),delete i[e]},c=function(e,n,r){n&&!r&&t>=n&&u(e),r&&!n&&r>=t&&u(e),n&&r&&t>=n&&r>=t&&u(e)},l=function(e){if(a[e])return a[e];var t=e.match(/\(min\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),n=e.match(/\(max\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),r=t&&parseFloat(t[1])||null,s=n&&parseFloat(n[1])||null;return a[e]=[r,s],a[e]},f=function(){var e=0;for(var t in i)e++;return e},m=function(){f()||window.removeEventListener("resize",d,!1);for(var e in i){var t=i[e],n=l(t);c(e,n[0],n[1])}},d=function(){o(),m()},h=function(e,t){i=e,n=t.path+("/"!==t.path.substr(-1)?"/":""),r=t.postfix,s=t.insertBefore,o(),m(),window.addEventListener("resize",d,!1)};return{stylesheetLoaderInit:h}}(); var stylesheets = {"compact":"(max-width: 599px)","tablet":"(min-width: 600px) and (max-width: 1007px)","wide":"(min-width: 1008px)"}; bootstrapUI.stylesheetLoaderInit(stylesheets, { path: 'https://static.bbc.co.uk/news/1.315.03594/stylesheets/services/portuguese', postfix: '', insertBefore: insertPoint }); var loadRequire = function(){ var js_paths = {"jquery-1.9":"vendor\/jquery-1\/jquery","jquery-1":"https:\/\/static.bbc.co.uk\/frameworks\/jquery\/0.4.1\/sharedmodules\/jquery-1.7.2","demi-1":"https:\/\/static.bbc.co.uk\/frameworks\/demi\/0.10.1\/sharedmodules\/demi-1","swfobject-2":"https:\/\/static.bbc.co.uk\/frameworks\/swfobject\/0.1.10\/sharedmodules\/swfobject-2","jquery":"vendor\/jquery-2\/jquery.min","domReady":"vendor\/require\/domReady","translation":"module\/translations\/pt","bump-3":"\/\/emp.bbci.co.uk\/emp\/bump-3\/bump-3"};  js_paths.navigation = 'module/nav/navManager';  require.config({ baseUrl: 'https://static.bbc.co.uk/news/1.315.03594/js', map: { 'vendor/locator': { 'module/bootstrap': 'vendor/locator/bootstrap', 'locator/stats': 'vendor/locator/stats', 'locator/locatorView': 'vendor/locator/locatorView' } }, paths: js_paths, waitSeconds: 30 }); define('config', function () { return config; });  require(['module/wsojCookie'], function (wsojCookie) { wsojCookie.setSeenBefore(); });              require(["compiled\/all"], function() {
+      require(['domReady'], function (domReady) { domReady(function () { require(["module\/dotcom\/handlerAdapter","module\/stats\/statsSubscriberAdapter","module\/alternativeJsStrategy\/controller","module\/iconLoaderAdapter","module\/polyfill\/location.origin","module\/navigation\/handlerAdaptor","module\/noTouchDetectionForCss","module\/components\/wsoj","module\/components\/optimizelyAdapter","module\/components\/stickyPlayer\/mainAdapter","module\/components\/responsiveImage","module\/components\/timestampAdaptor","module\/components\/twiteAdapter","module\/tableScrollAdapter","module\/userScrollAdapter","module\/components\/mediaPlayer\/mainAdapter","module\/components\/socialEmbedAdapter","module\/comscoreAdapter"], function() {  require(["module\/strategiserAdaptor"]);  }); }); });              });
+     };  loadRequire();  } else { var l = document.createElement('link'); l.href = 'https://static.bbc.co.uk/news/1.315.03594/icons/generated/icons.fallback.css'; l.rel = 'stylesheet'; document.getElementsByTagName('head')[0].appendChild(l); } </script>  <script type="text/javascript"> /*<![CDATA[*/ bbcdotcom.init({adsToDisplay:['leaderboard', 'sponsor_section', 'mpu', 'infeed_news_story', 'outbrain_ar_5', 'outbrain_ar_7', 'outbrain_ar_8', 'outbrain_ar_9', 'native', 'mpu_bottom', 'adsense', 'inread'], asyncEnabled:true }); /*]]>*/ </script>      <noscript><link href="https://static.bbc.co.uk/news/1.315.03594/icons/generated/icons.fallback.css" rel="stylesheet"></noscript>
+
+                
+    
+    
+
+                                                                                            <meta name="wsoj-config" data-wsoj-config="{&quot;caminoHost&quot;:&quot;https:\/\/camino-broker-cdn.api.bbci.co.uk&quot;,&quot;translations&quot;:{&quot;skipLinkLabel&quot;:null,&quot;skipLinkText&quot;:null,&quot;skipLinkFooter&quot;:null,&quot;recsTitle&quot;:&quot;Talvez tamb\u00e9m te interesse&quot;},&quot;insertPosition&quot;:5,&quot;variations&quot;:[&quot;original&quot;,&quot;variation-1&quot;,&quot;variation-2&quot;,&quot;variation-3&quot;,&quot;variation-4&quot;,&quot;variation-5&quot;,&quot;variation-6&quot;,&quot;variation-7&quot;,&quot;variation-8&quot;,&quot;variation-9&quot;,&quot;variation-10&quot;,&quot;control&quot;,&quot;grey-thumbnails&quot;,&quot;grey-thumbnails-large&quot;,&quot;card-links&quot;,&quot;card-thumbnails&quot;,&quot;card-thumbnails-large&quot;],&quot;flagpoles&quot;:{&quot;wsoj&quot;:true,&quot;wsoj_service&quot;:true,&quot;mvt&quot;:true}}" />
+                                                                                            <meta name="optimizely-config" data-optimizely-config="{&quot;optimizelyHost&quot;:&quot;https:\/\/cdn.optimizely.com\/public\/4621041136\/s\/news_prod.js&quot;,&quot;isTestContext&quot;:false,&quot;flagpoles&quot;:{&quot;mvt&quot;:true}}" />                                                                    
+    </head>
+<!--[if IE]><body id="asset-type-sty" class="ie device--feature"><![endif]-->
+<!--[if !IE]>--><body id="asset-type-sty" class="device--feature"><!--<![endif]-->
+    <div class="direction" >
+
+    
+    <noscript><p style="position: absolute; top: -999em"><img src="https://a1.api.bbc.co.uk/hit.xiti?&col=1&from=p&ptag=js&s=598253&p=world::portuguese.world.story.52806218.page&x1=[urn:bbc:cps:7cd135b1-d758-e34c-b72f-b90915d3fc39]&x2=[responsive]&x3=[bbc_website]&x4=[en]&x7=[article]&x8=[reverb-1.4.0-nojs]&x11=[WS_NEWS_LANGUAGES]&x12=[BRASIL]" height="1" width="1" alt=""></p></noscript>  <!-- BBCDOTCOM bodyFirst --><div id="bbccom_interstitial_ad" class="bbccom_display_none"></div><div id="bbccom_interstitial" class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isAdsEnabled()) { googletag.cmd.push(function() { googletag.display('bbccom_interstitial'); }); } }()); /*]]>*/</script></div><div id="bbccom_wallpaper_ad" class="bbccom_display_none"></div><div id="bbccom_wallpaper" class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ (function() { var wallpaper; if (window.bbcdotcom && bbcdotcom.config.isAdsEnabled()) { if (bbcdotcom.config.isAsync()) { googletag.cmd.push(function() { googletag.display('bbccom_wallpaper'); }); } else if (typeof googletag !== "undefined" && typeof googletag.display === "function") { googletag.display("wallpaper"); } wallpaper = bbcdotcom.adverts.adRegister.getAd('wallpaper'); } }()); /*]]>*/</script></div><script type="text/javascript">/*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isAdsEnabled()) { document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isAnalyticsEnabled()) { document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } }()); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.bodyFirst = true; }()); /*]]>*/</script> <div id="cookiePrompt"></div>  <!--[if (gt IE 8) | (IEMobile)]><!--><header id="orb-banner" role="banner" aria-label="BBC"><!--<![endif]--><!--[if (lt IE 9) & (!IEMobile)]>
+            <![if (IE 8)]>
+                <header id="orb-banner" role="banner" class="orb-old-ie orb-ie8" aria-label="BBC">
+            <![endif]>
+
+            <![if (IE 7)]>
+                <header id="orb-banner" role="banner" class="orb-old-ie orb-ie7" aria-label="BBC">
+            <![endif]>
+
+            <![if (IE 6)]>
+                <header id="orb-banner" role="banner" class="orb-old-ie orb-ie6" aria-label="BBC">
+            <![endif]>
+        <![endif]--><div id="orb-header" class="orb-nav-pri orb-nav-pri-white orb-nav-empty" data-max-d="0" data-max-w="0" dir="ltr"><div class="orb-nav-pri-container b-r b-g-p"><div class="orb-nav-section orb-nav-blocks"><a href="https://www.bbc.co.uk">Homepage</a></div><section><div class="orb-skip-links"><h2>Accessibility links</h2><ul><li><a href="#page">Ir para o conteúdo</a></li><li><a id="orb-accessibility-help" href="https://www.bbc.co.uk/accessibility/">Accessibility Help</a></li></ul></div></section><nav role="navigation" aria-label="BBC" class="orb-nav"><div class="orb-nav-section orb-nav-links orb-nav-focus" id="orb-nav-links"><ul><li class="orb-nav-news"><a href="https://www.bbc.com/news">News</a></li><li class="orb-nav-sport"><a href="https://www.bbc.com/sport">Sport</a></li><li class="orb-nav-weather"><a href="https://www.bbc.com/weather">Weather</a></li><li class="orb-nav-radio"><a href="https://www.bbc.co.uk/worldserviceradio">Radio</a></li><li class="orb-nav-arts"><a href="https://www.bbc.co.uk/arts">Arts</a></li><li id="orb-nav-more" style="width: 88px" aria-controls="orb-panel-more"><a href="#orb-footer" data-alt="Mais" class="istats-notrack">Menu<span class="orb-icon orb-icon-arrow"></span></a></li></ul></div></nav><div class="orb-nav-section orb-nav-search"><a class="orb-search__button" href="https://search.bbc.co.uk/search?scope&#x3D;portuguese" title="Busca na BBC">Busca</a><form class="b-f" id="orb-search-form" role="search" method="get" action="https://search.bbc.co.uk/search" accept-charset="utf-8"><div><input type="hidden" name="scope" id="orb-search-scope" value="portuguese"><label for="orb-search-q">Busca na BBC</label><input id="orb-search-q" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" name="q" placeholder="Busca"><button id="orb-search-button" class="orb-search__button">Busca na BBC</button><input type="hidden" name="suggid" id="orb-search-suggid"></div></form></div></div><div id="orb-panels" class="orb-ws-panels"></div></div></header>  <!-- Styling hook for shared modules only -->
+<div id="orb-modules">
+    
+    <div id="site-container">
+
+                <div class="site-brand site-brand--height" role="banner" aria-label="BBC News Brasil">
+            <div class="site-brand-inner site-brand-inner--height">
+                <div class="navigation navigation--primary">
+                    <a href="/portuguese" id="brand">
+            <svg class="brand__svg" width="192" height="30" focusable="false" aria-hidden="true">
+            <image xlink:href="https://static.bbc.co.uk/news/1.315.03594/img/brand/generated/portuguese-light.svg" src="https://static.bbc.co.uk/news/1.315.03594/img/brand/generated/portuguese-light.png" width="100%" height="100%"/>
+        </svg>
+        <span class="off-screen">News Brasil</span>
+        </a>                    <h2 class="navigation__heading off-screen">BBC News Brasil Navegação</h2>
+                    <div class="nav-buttons">
+                                                <a href="#core-navigation" class="navigation__section navigation__section--core" data-event="header">
+                            <div class="navigation__section--icon">
+                                <span class="off-screen">Seções</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                        
+
+<div class="navigation navigation--wide">
+    <ul class="navigation-wide-list" role="navigation" aria-label="BBC News Brasil" data-panel-id="js-navigation-panel-primary">
+                    <li>
+                <a href="/portuguese" class="navigation-wide-list__link">
+                    <span>Notícias</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/brasil" class="navigation-wide-list__link">
+                    <span>Brasil</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/internacional" class="navigation-wide-list__link">
+                    <span>Internacional</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/topics/ca170ae3-99c1-48db-9b67-2866f85e7342" class="navigation-wide-list__link">
+                    <span>Economia</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/topics/c4794229-7f87-43ce-ac0a-6cfcd6d3cef2" class="navigation-wide-list__link">
+                    <span>Saúde</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/topics/0f469e6a-d4a6-46f2-b727-2bd039cb6b53" class="navigation-wide-list__link">
+                    <span>Ciência</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/topics/31684f19-84d6-41f6-b033-7ae08098572a" class="navigation-wide-list__link">
+                    <span>Tecnologia</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/aprenda_ingles" class="navigation-wide-list__link">
+                    <span>Aprenda Inglês</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/salasocial" class="navigation-wide-list__link">
+                    <span>#SalaSocial</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/portuguese/media/video" class="navigation-wide-list__link navigation-wide-list__link--last">
+                    <span>Vídeos</span>
+                </a>
+                            </li>
+            </ul>
+</div>
+
+                    </div>
+            
+    
+<div id="bbccom_leaderboard_1_2_3_4" class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('leaderboard', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+
+    
+                        <div class="container-width-only">
+                                    
+<div id="bbccom_sponsor_section_1_2_3_4" class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('sponsor_section', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+            </div>
+            
+         <div id="page" class="configurable story " data-story-id="internacional-52806218">      <div role="main"> <div class="container-width-only">    
+<div id="bbccom_sponsor_section_1_2_3_4" class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('sponsor_section', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+   </div>      <div class="container">       <div class="container--primary-and-secondary-columns column-clearfix">                         <div class="column--primary">
+                                                                            
+<script type="text/html" id="orb-pulse-tmpl"><![CDATA[
+    <section>
+        <div id="pulse-container" class="pulse-banner orb-banner-wrapper">
+            <div class="orb-banner b-g-p b-r b-f">
+                <div class="orb-banner-inner">
+                    <h2 class="orb-banner-title">Fale-nos sobre você</h2>
+                    <div class="orb-banner-content">
+                        <p>Estamos sempre buscando melhorar o nosso site, e sua opinião é importante.</p>
+                        <p class="pulse-question">Você tem alguns minutos para nos dizer o que acha deste site?</p>
+                    </div>
+                    <ul class="orb-banner-options">
+                        <li><a href="{{pulseaccepthref}}" id="pulse-accept">Sim</a></li>
+                        <li><button type="button" id="pulse-reject">Não</button></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+]]></script>
+
+<script>
+require(['module/pulseSurvey'], function(pulse) {
+    pulse.init('portuguese', {"override":false,"probability":50});
+});
+</script>
+                                                                                            
+<div class="story-body">
+    <h1 class="story-body__h1">Citada como exemplo por Bolsonaro, estratégia da Suécia contra coronavírus não serve para o Brasil, diz responsável por plano</h1>
+
+        <div class="byline">
+        <span class="byline__name">Claudia Wallin</span>
+        <span class="byline__title">De Estocolmo para BBC News Brasil</span>
+    </div>
+
+        <div class="with-extracted-share-icons">
+        <div class="story-body__mini-info-list-and-share">
+            <div class="story-body__mini-info-list-and-share-row">
+                <div class="mini-info-list-wrap">
+                                            <ul class="mini-info-list">
+    <li class="mini-info-list__item"><div class="date date--v2" data-seconds="1590570725" data-datetime="27 maio 2020">27 maio 2020</div></li>
+</ul>
+                                    </div>
+                                    <div class="share-tools--no-event-tag">
+                        
+
+    <div id="comp-pattern-library" class="distinct-component-group container-twite">
+        
+            <ul class="sharetools">
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--facebook twite__channel-click-extracted--facebook twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--facebook"onclick="window.open('http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=555,height=615').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--facebook" data-platform="facebook">
+                    <svg class="extracted-svg ex-facebook" viewBox="-17 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.73,17 L5.73,9.246 L8.333,9.246 L8.723,6.223 L5.73,6.223 L5.73,4.294 C5.73,3.419 5.973,2.823 7.228,2.823 L8.828,2.822 L8.828,0.119 C8.551,0.082 7.601,0 6.496,0 C4.189,0 2.609,1.408 2.609,3.995 L2.609,6.223 L0,6.223 L0,9.246 L2.609,9.246 L2.609,17 L5.73,17 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Facebook</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--messengerdesktop twite__channel-click-extracted--messengerdesktop twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--messengerdesktop"onclick="window.open('http://www.facebook.com/dialog/send?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=645,height=580').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--messengerdesktop" data-platform="messengerdesktop">
+                    <svg class="extracted-svg ex-messengerdesktop" viewBox="-14 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M9.84804801,11.1721834 L7.54389655,8.77893955 L3.1059828,11.2323207 L7.97153994,6.06941781 L10.2756914,8.46377529 L14.7136051,6.00928046 L9.84804801,11.1721834 Z M8.90923715,0 C3.98911093,0 0,3.73074306 0,8.33125039 C0,10.9494525 1.29183939,13.2847862 3.3097816,14.8116068 L3.3097816,18 L6.35117243,16.3139269 C7.16079936,16.5399988 8.02054074,16.6625008 8.90923715,16.6625008 C13.830477,16.6625008 17.8184743,12.9328714 17.8184743,8.33125039 C17.8184743,3.73074306 13.830477,0 8.90923715,0 L8.90923715,0 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Messenger</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--twitter twite__channel-click-extracted--twitter twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--twitter"onclick="window.open('https://twitter.com/intent/tweet?text=BBC%20News%20Brasil%20-%20Citada%20como%20exemplo%20por%20Bolsonaro%2C%20estrat%C3%A9gia%20da%20Su%C3%A9cia%20contra%20coronav%C3%ADrus%20n%C3%A3o%20serve%20para%20o%20Brasil%2C%20diz%20respons%C3%A1vel%20por%20plano&amp;url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=250').opener = null" href='#' class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+Brasil+-+Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano&amp;amp;url= data-target-url=https://www.bbc.com/portuguese/internacional-52806218 tabindex="-1">
+                    <span class="extracted__icon extracted__icon--twitter" data-platform="twitter">
+                    <svg class="extracted-svg ex-twitter" viewBox="-13 -15 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.80573373,15 C12.7721527,15 16.581877,9.22887915 16.581877,4.22385671 C16.581877,4.06002242 16.581877,3.89618812 16.5714931,3.73466135 C17.3122088,3.19816171 17.9525471,2.53359441 18.4602026,1.77326482 C17.7690988,2.08016568 17.0364595,2.28092039 16.28536,2.36976011 C17.0756874,1.89671742 17.6675677,1.15138674 17.9502395,0.274527115 C17.2072164,0.715264453 16.3938137,1.02678037 15.5457981,1.19407596 C14.1105174,-0.331198284 11.7118448,-0.405039095 10.1865706,1.0290879 C9.20241101,1.95440555 8.78590269,3.33315194 9.09049603,4.64844138 C6.04571636,4.4961447 3.20861397,3.05740266 1.28529161,0.691035437 C0.280364327,2.42167943 0.793788713,4.63574999 2.45751448,5.74682343 C1.85525036,5.72951699 1.26567764,5.56683646 0.738408105,5.27262698 L0.738408105,5.32108501 C0.739561868,7.12441605 2.00985456,8.67622684 3.77741896,9.03389326 C3.2201516,9.18618993 2.63519393,9.20811142 2.06754269,9.09850397 C2.56366064,10.6410847 3.98509624,11.6979313 5.60613279,11.7290828 C4.26430681,12.7824682 2.60750362,13.3547344 0.902242404,13.3535807 C0.601110348,13.3524269 0.299978293,13.3339667 7.10542736e-15,13.2982001 C1.73295152,14.4104273 3.74742113,15 5.80573373,14.9965387"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Twitter</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--email twite__channel-click-extracted--email twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--email"href='mailto:?subject=Compartilhado%20pela%20BBC%20Brasil&amp;body=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--email" data-platform="email">
+                    <svg class="extracted-svg ex-email" viewBox="-7 1 27 9" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M11,4.9V9H2V2.1l4.6,5L13.1,0H0.2H0v11h13V2.8L11,4.9z M10.2,2L6.7,5.8L3.2,2H10.2z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Email</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--facebook twite__channel-click-extracted--facebook twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--facebook"onclick="window.open('http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=555,height=615').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--facebook" data-platform="facebook">
+                    <svg class="extracted-svg ex-facebook" viewBox="-17 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.73,17 L5.73,9.246 L8.333,9.246 L8.723,6.223 L5.73,6.223 L5.73,4.294 C5.73,3.419 5.973,2.823 7.228,2.823 L8.828,2.822 L8.828,0.119 C8.551,0.082 7.601,0 6.496,0 C4.189,0 2.609,1.408 2.609,3.995 L2.609,6.223 L0,6.223 L0,9.246 L2.609,9.246 L2.609,17 L5.73,17 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Facebook</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--whatsapp twite__channel-click-extracted--whatsapp twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--whatsapp"onclick="window.open('whatsapp://send?text=BBC%20News%20Brasil%20%7C%20Citada%20como%20exemplo%20por%20Bolsonaro%2C%20estrat%C3%A9gia%20da%20Su%C3%A9cia%20contra%20coronav%C3%ADrus%20n%C3%A3o%20serve%20para%20o%20Brasil%2C%20diz%20respons%C3%A1vel%20por%20plano%20-%20https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3Focid%3Dwsportuguese.chat-apps.in-app-msg.whatsapp.trial.link1_.auin', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=600,height=600').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--whatsapp" data-platform="whatsapp">
+                    <svg class="extracted-svg ex-whatsapp" viewBox="-11 -11 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M0.6 19.4L1.9 14.7C1 13.3 0.6 11.7 0.6 10 0.6 4.8 4.8 0.5 10 0.5 15.2 0.5 19.4 4.8 19.4 10 19.4 15.2 15.2 19.4 10 19.4 8.4 19.4 6.8 19 5.4 18.2L0.6 19.4ZM5.6 16.5L5.9 16.7C7.2 17.4 8.6 17.8 10 17.8 14.3 17.8 17.8 14.3 17.8 10 17.8 5.7 14.3 2.1 10 2.1 5.7 2.1 2.2 5.7 2.2 10 2.2 11.5 2.6 12.9 3.4 14.2L3.6 14.5 2.8 17.2 5.6 16.5Z M7.4 5.6L6.7 5.5C6.6 5.5 6.4 5.6 6.2 5.7 5.9 6 5.5 6.5 5.3 7.1 5.1 8.1 5.4 9.3 6.3 10.5 7.2 11.6 8.8 13.5 11.6 14.4 12.6 14.6 13.3 14.4 13.8 14.1 14.3 13.8 14.6 13.3 14.7 12.8L14.8 12.4C14.8 12.2 14.8 12.1 14.6 12L12.6 11.1C12.4 11 12.3 11 12.2 11.2L11.4 12.2C11.3 12.3 11.2 12.3 11.1 12.3 10.5 12.1 8.7 11.3 7.7 9.3 7.6 9.3 7.6 9.2 7.7 9.1L8.5 8.2C8.5 8.1 8.6 8 8.5 7.9L7.6 5.8C7.6 5.7 7.5 5.6 7.4 5.6Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com WhatsApp</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--messengermobile twite__channel-click-extracted--messengermobile twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--messengermobile"href='fb-messenger://share?app_id=58567469885&amp;redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FCMP%3Dshare_btn_me' target=_blank rel=noopener tabindex="-1">
+                    <span class="extracted__icon extracted__icon--messengermobile" data-platform="messengermobile">
+                    <svg class="extracted-svg ex-messengermobile" viewBox="-14 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M9.84804801,11.1721834 L7.54389655,8.77893955 L3.1059828,11.2323207 L7.97153994,6.06941781 L10.2756914,8.46377529 L14.7136051,6.00928046 L9.84804801,11.1721834 Z M8.90923715,0 C3.98911093,0 0,3.73074306 0,8.33125039 C0,10.9494525 1.29183939,13.2847862 3.3097816,14.8116068 L3.3097816,18 L6.35117243,16.3139269 C7.16079936,16.5399988 8.02054074,16.6625008 8.90923715,16.6625008 C13.830477,16.6625008 17.8184743,12.9328714 17.8184743,8.33125039 C17.8184743,3.73074306 13.830477,0 8.90923715,0 L8.90923715,0 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Messenger</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--twitter twite__channel-click-extracted--twitter twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--twitter"onclick="window.open('https://twitter.com/intent/tweet?text=BBC%20News%20Brasil%20-%20Citada%20como%20exemplo%20por%20Bolsonaro%2C%20estrat%C3%A9gia%20da%20Su%C3%A9cia%20contra%20coronav%C3%ADrus%20n%C3%A3o%20serve%20para%20o%20Brasil%2C%20diz%20respons%C3%A1vel%20por%20plano&amp;url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=250').opener = null" href='#' class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+Brasil+-+Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano&amp;amp;url= data-target-url=https://www.bbc.com/portuguese/internacional-52806218 tabindex="-1">
+                    <span class="extracted__icon extracted__icon--twitter" data-platform="twitter">
+                    <svg class="extracted-svg ex-twitter" viewBox="-13 -15 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.80573373,15 C12.7721527,15 16.581877,9.22887915 16.581877,4.22385671 C16.581877,4.06002242 16.581877,3.89618812 16.5714931,3.73466135 C17.3122088,3.19816171 17.9525471,2.53359441 18.4602026,1.77326482 C17.7690988,2.08016568 17.0364595,2.28092039 16.28536,2.36976011 C17.0756874,1.89671742 17.6675677,1.15138674 17.9502395,0.274527115 C17.2072164,0.715264453 16.3938137,1.02678037 15.5457981,1.19407596 C14.1105174,-0.331198284 11.7118448,-0.405039095 10.1865706,1.0290879 C9.20241101,1.95440555 8.78590269,3.33315194 9.09049603,4.64844138 C6.04571636,4.4961447 3.20861397,3.05740266 1.28529161,0.691035437 C0.280364327,2.42167943 0.793788713,4.63574999 2.45751448,5.74682343 C1.85525036,5.72951699 1.26567764,5.56683646 0.738408105,5.27262698 L0.738408105,5.32108501 C0.739561868,7.12441605 2.00985456,8.67622684 3.77741896,9.03389326 C3.2201516,9.18618993 2.63519393,9.20811142 2.06754269,9.09850397 C2.56366064,10.6410847 3.98509624,11.6979313 5.60613279,11.7290828 C4.26430681,12.7824682 2.60750362,13.3547344 0.902242404,13.3535807 C0.601110348,13.3524269 0.299978293,13.3339667 7.10542736e-15,13.2982001 C1.73295152,14.4104273 3.74742113,15 5.80573373,14.9965387"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Compartilhe este post com Twitter</span>
+            </a>
+        </li>
+    <li class="twite twite__list-elements">
+        <a href="#share-tools" class="twite__share-button" aria-label="Open share panel" data-origin="page" aria-expanded="false" aria-haspopup="true">
+            <svg class="twite__share-icon" width="17px" aria-hidden="true" focusable="false" viewBox="0 0 29.266 32"><path d="M5.473 22.153c1.586 0 3.01-.684 4.012-1.762l9 4.845c-.102.412-.16.85-.16 1.297 0 3.02 2.452 5.468 5.472 5.468 3.017 0 5.47-2.446 5.47-5.468 0-3.023-2.453-5.47-5.47-5.47-1.587 0-3.02.68-4.015 1.757l-9.457-5.175-.074-2.792 9.74-5.456c.99.953 2.327 1.543 3.807 1.543 3.017 0 5.47-2.45 5.47-5.474 0-3.022-2.453-5.467-5.47-5.467-3.02 0-5.473 2.444-5.473 5.466 0 .554.08 1.09.243 1.597L9.27 12.75c-.988-.95-2.326-1.537-3.797-1.537C2.447 11.213 0 13.657 0 16.68c0 3.03 2.447 5.473 5.473 5.473"/></svg><span class="twite__share-text">Compartilhar</span>
+        </a>
+        <div class="twite__panel arrow-top" data-share-uri="">
+            <p class="twite__title" aria-hidden="true">Compartilhe este post com</p>
+            <span class="off-screen">Estes são links externos e abrirão numa nova janela</span>
+            <ul class="twite__channels">
+                    <li class="twite__channel twite__channel--email twite__channel-click--email">
+                        <a class="twite__channel-link"href='mailto:?subject=Compartilhado%20pela%20BBC%20Brasil&amp;body=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218' >
+                            <span class="twite__icon twite__icon--email" data-platform="email"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Email</p>
+                            <span class="off-screen">Compartilhe este post com Email</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--facebook twite__channel-click--facebook">
+                        <a class="twite__channel-link"onclick="window.open('http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=555,height=615').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--facebook" data-platform="facebook"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Facebook</p>
+                            <span class="off-screen">Compartilhe este post com Facebook</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--messengerdesktop twite__channel-click--messengerdesktop">
+                        <a class="twite__channel-link"onclick="window.open('http://www.facebook.com/dialog/send?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=645,height=580').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--messengerdesktop" data-platform="messengerdesktop"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Messenger</p>
+                            <span class="off-screen">Compartilhe este post com Messenger</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--messengermobile twite__channel-click--messengermobile">
+                        <a class="twite__channel-link"href='fb-messenger://share?app_id=58567469885&amp;redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218&amp;link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FCMP%3Dshare_btn_me' target=_blank rel=noopener>
+                            <span class="twite__icon twite__icon--messengermobile" data-platform="messengermobile"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Messenger</p>
+                            <span class="off-screen">Compartilhe este post com Messenger</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--twitter twite__channel-click--twitter">
+                        <a class="twite__channel-link"onclick="window.open('https://twitter.com/intent/tweet?text=BBC%20News%20Brasil%20-%20Citada%20como%20exemplo%20por%20Bolsonaro%2C%20estrat%C3%A9gia%20da%20Su%C3%A9cia%20contra%20coronav%C3%ADrus%20n%C3%A3o%20serve%20para%20o%20Brasil%2C%20diz%20respons%C3%A1vel%20por%20plano&amp;url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=250').opener = null" href='#' class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+Brasil+-+Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano&amp;amp;url= data-target-url=https://www.bbc.com/portuguese/internacional-52806218>
+                            <span class="twite__icon twite__icon--twitter" data-platform="twitter"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Twitter</p>
+                            <span class="off-screen">Compartilhe este post com Twitter</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--whatsapp twite__channel-click--whatsapp">
+                        <a class="twite__channel-link"onclick="window.open('whatsapp://send?text=BBC%20News%20Brasil%20%7C%20Citada%20como%20exemplo%20por%20Bolsonaro%2C%20estrat%C3%A9gia%20da%20Su%C3%A9cia%20contra%20coronav%C3%ADrus%20n%C3%A3o%20serve%20para%20o%20Brasil%2C%20diz%20respons%C3%A1vel%20por%20plano%20-%20https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3Focid%3Dwsportuguese.chat-apps.in-app-msg.whatsapp.trial.link1_.auin', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=600,height=600').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--whatsapp" data-platform="whatsapp"></span>
+                            <p class="twite__channel-text" aria-hidden="true">WhatsApp</p>
+                            <span class="off-screen">Compartilhe este post com WhatsApp</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--linkedin twite__channel-click--linkedin">
+                        <a class="twite__channel-link"onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218&amp;title=Citada%20como%20exemplo%20por%20Bolsonaro%2C%20estrat%C3%A9gia%20da%20Su%C3%A9cia%20contra%20coronav%C3%ADrus%20n%C3%A3o%20serve%20para%20o%20Brasil%2C%20diz%20respons%C3%A1vel%20por%20plano&amp;summary=Em%20entrevista%20%C3%A0%20BBC%20News%20Brasil%2C%20epidemiologista-chefe%20do%20pa%C3%ADs%2C%20Anders%20Tegnell%2C%20diz%20que%20plano%20tem%20de%20levar%20em%20conta%20circunst%C3%A2ncias%20locais%3B%20Su%C3%A9cia%20foi%20apontada%20por%20Bolsonaro%20como%20modelo%20a%20ser%20seguido%2C%20por%20n%C3%A3o%20impor%20isolamento%20duro%20e%20manter%20boa%20parte%20do%20com%C3%A9rcio%20aberta.&amp;source=BBC', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=500').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--linkedin" data-platform="linkedin"></span>
+                            <p class="twite__channel-text" aria-hidden="true">LinkedIn</p>
+                            <span class="off-screen">Compartilhe este post com LinkedIn</span>
+                        </a>
+                    </li>
+            </ul>
+            <p class="twite__copy-text">Copiar este link</p>
+            <div class="twite__copy-input">
+                <a class="twite__share-link" href="https://www.bbc.com/portuguese/internacional-52806218" tabindex="-1" contenteditable="true">https://www.bbc.com/portuguese/internacional-52806218</a>
+            </div>
+            <a class="twite__read-more" href="/portuguese/institutional/2013/08/000000_about_share_this">Sobre compartilhar</a>
+            <p class="twite__new-window" aria-hidden="true">Estes são links externos e abrirão numa nova janela</p>
+            <button class="twite__close-button">
+                <span class="off-screen">Fechar painel de compartilhamento</span>
+                <div class="twite__close-button-graphic" aria-hidden="true"></div>
+            </button>
+        </div>
+    </li>
+</ul>
+
+        
+    </div>
+
+                    </div>
+                            </div>
+                    </div>
+    </div>
+
+    <div class="story-body__inner" property="articleBody">
+                                                                                                    <figure class="media-landscape has-caption full-width lead">
+            <span class="image-and-copyright-container">
+                
+                <img class="js-image-replace" alt="Bandeira da Suécia e coronavírus" src="https://ichef.bbci.co.uk/news/320/cpsprodpb/76A3/production/_112517303_gettyimages-1212242970.jpg" width="976" height="549">
+                
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Getty Images</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Suécia foi citada recentemente pelo presidente Jair Bolsonaro como modelo a ser seguido no combate à covid-19
+                </span>
+            </figcaption>
+            
+        </figure><p class="story-body__introduction">Face pública da controversa estratégia local de combate à pandemia do novo coronavírus, o epidemiologista-chefe da Suécia, Anders Tegnell, diz que não adotaria a mesma abordagem no Brasil caso estivesse no comando da gestão da crise no país sul-americano.</p><div id="bbccom_mpu_3" class="bbccom_slot mpu-ad" aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [3]);
+                }
+            })();
+            /**/
+        </script>
+    </div>
+</div><p>"Não. É preciso sempre adotar uma estratégia que leve em consideração as circunstâncias locais, como, por exemplo, em termos de população e de saúde pública", afirma Tegnell em entrevista exclusiva à BBC News Brasil na sede da Agência Nacional de Saúde Pública da Suécia (Folkhälsomyndigheten).</p><p>A Suécia foi citada recentemente pelo presidente Jair Bolsonaro como modelo a ser seguido, por não impor isolamento duro contra o novo coronavírus e manter aberta boa parte do comércio.</p><div id="bbccom_mpu_1_2" class="bbccom_slot mpu-ad" aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2]);
+                }
+            })();
+            /**/
+        </script>
+    </div>
+</div><p>"Vamos falar da Suécia? Pronto! A Suécia não fechou!", disse Bolsonaro há duas semanas.</p><p>Aos 64 anos e sem perder a serenidade, mesmo diante dos questionamentos diários e das críticas, Tegnell mantém a convicção de que sua estratégia tem sido a melhor resposta para lidar com a crise na Suécia. Mas alerta que é perigoso assumir que ela poderia ser replicada em outros países — inclusive no Brasil.</p><p>"Acredito que é sempre perigoso adotar a estratégia de qualquer outro país e implementá-la no seu, sem refletir sobre como ela funcionaria em seu território. É preciso ter cuidado ao adotar modelos de outros países sem levar em consideração a sua situação local específica, inclusive em termos históricos", acrescenta Tegnell.</p><p>Caso contrário, diz ele, representaria um risco.</p><p>"Da mesma maneira, seria muito arriscado adotar estratégias de outros países aqui na Suécia", ressalva o epidemiologista. </p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Pessoas em um café em Estocolmo" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/149D0/production/_111923448_stock.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Getty Images</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Maioria dos suecos está fazendo distanciamento social voluntário, mas clima ensolarado trouxe pessoas de volta às ruas
+                </span>
+            </figcaption>
+            
+        </figure><h2 class="story-body__crosshead">Brasil x Suécia</h2><p>São vários os contrastes entre Brasil e Suécia. O país escandinavo tem uma população de apenas 10,2 milhões de habitantes. Só o Estado de São Paulo tem 45 milhões de habitantes. Um dos principais fatores de risco para a disseminação do vírus é a densidade populacional — que na Suécia, ao contrário de várias regiões do Brasil, é extremamente baixa. </p><p>Outro diferencial é a dinâmica da demografia brasileira, marcada por uma grande coabitação entre gerações, com crianças, pais e idosos dividindo o mesmo espaço (no Brasil, apenas 14,6% da população vive sozinha). Já a Suécia tem o maior número de lares habitados por uma só pessoa em toda a Europa (56%).</p><p>A própria experiência da capital sueca, Estocolmo, o epicentro da pandemia no país, demonstra que fatores como maior densidade populacional e coabitação entre gerações são elementos de perigo na atual crise, aponta Tegnell.</p><p>"Na Suécia, podemos constatar que Estocolmo, onde a densidade populacional é mais alta, tem sido muito mais afetada pela pandemia em comparação com outras regiões do país em que a densidade populacional é mais baixa", diz. </p><p>"Também podemos ver que nas áreas onde temos muitos grupos de diferentes gerações convivendo no mesmo espaço, o número de casos é maior", acrescenta Tegnell. </p><p>Na capital sueca, um dos grupos mais atingidos é a comunidade de imigrantes da Somália.</p><p>Além disso, a saúde do sueco é melhor do que a do brasileiro. A parcela da população com diabetes (6,9%) e obesidade (13%) é inferior à do Brasil (8,9% e 19,8%, respectivamente). Diabetes e obesidade elevam o risco de pacientes com covid-19 desenvolver sintomas mais graves da doença.</p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Dr Anders Tegnell" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/29C9/production/_112479601_epid.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">EPA</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Segundo Anders Tegnell, estratégia deve levar em consideração circunstâncias locais
+                </span>
+            </figcaption>
+            
+        </figure><h2 class="story-body__crosshead">Sem cloroquina</h2><p>O uso da cloroquina e seu derivado, hidroxicloroquina — incluídos recentemente pelo Ministério da Saúde brasileiro no protocolo de tratamento de pacientes de covid-19— foi banido na Suécia já em abril, quando especialistas suecos alertaram para o risco de arritmias e morte associado ao uso do remédio.</p><p>"Não há evidências sobre os benefícios do medicamento", ressalta Tegnell. </p><p>Nesta semana, a Suécia ultrapassou a barreira de 4 mil mortos por covid-19 — e a taxa de mortalidade sueca é exponencialmente mais alta em relação aos vizinhos nórdicos que implementaram o <i>lockdown</i> (confinamento total), embora menor que a de outros países que também adotaram formas mais estritas de isolamento.  </p><p>A Suécia também não está "bem com a sua economia", como chegou a afirmar o presidente Bolsonaro.</p><p>Questionado sobre as previsões do próprio Banco Central sueco de que o desempenho da economia sueca não apresenta projeções melhores em relação a países que confinaram sua população, Tegnell nega que sua estratégia prioriza a economia em detrimento da saúde da população. E acrescenta que não há, por ora, nenhum plano para mudar a atual estratégia de combate à covid-19.</p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Crianças brincam em Estocolmo" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/139A4/production/_111929208_kids.jpg" data-width="976" data-height="549"></div>
+                
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Escolas da Suécia permaneceram abertas enquanto os países vizinhos a fecham por semanas
+                </span>
+            </figcaption>
+            
+        </figure><h2 class="story-body__crosshead">Estratégia X Mortes</h2><p>A dissonante estratégia sueca de combate ao covid-19 tem sido tentar reduzir a disseminação do vírus através de uma abordagem mais flexível e sustentável, que possa ser mantida a longo prazo — ao contrário de medidas mais rígidas, como o <i>lockdown</i>. O objetivo é manter a taxa de transmissão do vírus o mais baixa possível, a fim de não sobrecarregar o sistema de saúde e evitar um colapso do sistema, e ao mesmo tempo manter um certo grau de funcionamento da sociedade.</p><p>O colapso que muitos temiam não se produziu até agora. No entanto, o preço vem sendo pago em mortes, em especial entre os idosos acima de 70 anos — que representam 90% do total de óbitos. </p><p>De acordo com as estatísticas oficiais de terça-feira (26), a Suécia contabiliza 34.440 casos confirmados do novo coronavírus, e 4.125 mortes — um aumento de 96 óbitos nas últimas 24 horas. Um total de 343 pessoas está internado em unidades de terapia intensiva.</p><p>A Suécia está ainda entre os países com as mais elevadas taxas de mortalidade per capita do mundo. O levantamento mais recente da universidade americana Johns Hopkins aponta que a Suécia ocupa o sexto lugar no ranking mundial, com uma taxa de mortalidade de 39.57 por 100 mil habitantes — quase quatro vezes superior à registrada pelo Brasil (11.21 por 100 mil habitantes).</p><p>Em sua defesa, o principal arquiteto da estratégia sueca indica que a taxa de mortalidade acumulada da Suécia é inferior à de alguns países que implementaram o <i>lockdown</i>, como Bélgica, Espanha, Grã-Bretanha, Itália e França. Ele acrescenta que a curva de contágio e mortes na Suécia tem apresentado um leve declínio nas últimas semanas, e defende a estimativa de que cerca de 20% da população de Estocolmo já desenvolveu anticorpos contra a doença. </p><h2 class="story-body__crosshead">Responsabilidade individual</h2><p>Um dos critérios centrais para a escolha da estratégia sueca diante da pandemia do covid-19 foi traçar um plano capaz de ser levado adiante por muitos meses, já que será preciso conviver com o vírus por muito tempo. Os demais países nórdicos tomaram um rumo oposto — a Dinamarca, por exemplo, implementou o <i>lockdown</i> antes mesmo de registrar a primeira morte. </p><p>Já a estratégia sueca é baseada na responsabilidade individual. A chave para isso é a combinação de alto nível de confiança nas autoridades e obediência às regras. </p><p>"Há uma série de aspectos positivos em relação a um isolamento mais suave. Um deles é que é mais fácil fazer com que as pessoas sigam as recomendações de forma voluntária, do que forçá-las a fazer alguma coisa", diz Tegnell. </p><p>"Por outro lado, para implementar uma estratégia como essa é preciso que haja um grande nível de confiança entre as agências públicas, o governo e a população. Diria que este nível de confiança é um pré-requisito para que se possa adotar uma estratégia mais suave. Se você tentar fazer isso em um país onde não existe este elemento de confiança, poderá ter muitos problemas", acrescenta ele, ao falar sobre se a estratégia sueca poderia ser um exemplo para países como o Brasil.</p><p>Outra diferença é que, na Suécia, todas as agências públicas trabalham, por lei, sem ingerência política — o governo define diretrizes e orçamentos, mas todas as decisões tomadas são essencialmente técnicas. Tegnell e sua equipe estão, portanto, no comando central e diário da crise, em contraste com países em que líderes políticos palpitam sobre a melhor resposta à pandemia. </p><p>Tegnell faz questão ainda de destacar que a abordagem sueca não é uma estratégia de imunidade de grupo (também conhecida como imunidade de rebanho, que é quando a imunização de boa parte da população ajuda a conter a disseminação e, assim, a proteger a outra parte) — embora isso possa ser um resultado das medidas tomadas.</p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Casal de idosos em Estocolmo" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/4062/production/_111928461_elderly.jpg" data-width="976" data-height="549"></div>
+                
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Houve um debate considerável sobre o tamanho da epidemia em Estocolmo
+                </span>
+            </figcaption>
+            
+        </figure><h2 class="story-body__crosshead">'Imunidade existe'</h2><p>Questionado sobre a falta de evidências de que um paciente recuperado de covid-19 desenvolve imunidade, Tegnell avalia que o lento declínio dos casos observado nas últimas semanas em Estocolmo seria resultado disso. </p><p>"Vemos claramente um declínio da curva, e não mudamos nenhuma medida da nossa estratégia nas últimas semanas. Ou seja, a estratégia permaneceu a mesma, e os números caíram. Portanto, a única explicação para esse lento declínio é que parte da população atingiu a imunidade", diz. </p><p>Tegnell destaca ainda que entre os vizinhos nórdicos, que adotaram o <i>lockdown</i>, a estimativa é de que apenas um ou dois por cento da população esteja imune, e que, nesse sentido, a Suécia estaria aparentemente em uma posição mais favorável. </p><p>"A questão da imunidade é complexa, porque normalmente mede-se o nível de imunidade através do número de anticorpos produzidos, e há indícios de que esse número é baixo no caso da covid-19. Portanto, ainda não se sabe qual será a resposta imune a esse novo vírus. Por outro lado, nossos biólogos e pesquisadores na Suécia estão bastante seguros de que essa imunidade existe", assinala.</p><p>Ele ressalta que, em todos os casos de pacientes contaminados na Suécia, não há nenhum que tenha apresentado a doença duas vezes. </p><p>"Temos um rígido e eficiente sistema de controle aqui, e, portanto, não há hipótese de que tal fato poderia nos passar desapercebido. Também não há registro oficial em nenhum outro país de qualquer caso comprovado de uma pessoa que tenha voltado a contrair o vírus. Houve apenas rumores nesse sentido, que em seguida foram descartados", acrescenta Tegnell.  </p><p>Mas um estudo divulgado na semana passada, a partir de dados relativos a abril, concluiu que apenas 7,3% da população de Estocolmo havia desenvolvido anticorpos contra o novo coronavírus — um índice significativamente mais baixo do que o cálculo anterior das autoridades de saúde, de 25%.</p><p>Tegnell admite que uma taxa de imunidade um pouco melhor do que a indicada pelos números de abril era esperada, mas diz que os resultados estão alinhados com os métodos de cálculo que estimam que cerca de um terço da população de Estocolmo já teria adquirido imunidade ao vírus em algum grau. Para ele, a pesquisa de anticorpos relativa ao mês passado é parte de um quebra-cabeça maior.</p><p>"Em linhas gerais, o quebra-cabeça mostra que os prognósticos que fizemos estão bastante corretos. Talvez estejamos a um nível de imunidade um pouco abaixo do que previmos, mas não muito mais baixo. Nossa avaliação é que temos agora uma taxa de imunidade de cerca de 20% em Estocolmo", afirma. </p><p>Segundo Tegnell, é preciso considerar o lapso existente entre o momento em que uma pessoa é infectada e aquele em que ela começa a produzir anticorpos.</p><p>"É preciso lembrar que a medição se dá durante diferentes fases dessa linha do tempo, e que o estudo mediu dados referentes às três semanas anteriores ao atual momento", pondera ele.</p><p>Mas nem todos concordam com os prognósticos de Tegnell. Na visão de Gunilla Karlsson Hedestam, professora de Imunologia do Instituto Karolinska, da Suécia, os resultados da pesquisa de anticorpos realizada em abril indicam que as previsões anteriores podem ter sido otimistas demais. Ela cita uma investigação conduzida pela Universidade Karolinska, que mostrou que 10% dos profissionais de saúde desenvolveram anticorpos.</p><p>"Acredito que a taxa relativa a Estocolmo esteja mais ou menos nessa faixa, entre sete e 10%", avaliou a especialista em declarações à agência sueca TT, para acrescentar que novos estudos serão necessários a fim de fortalecer as estatísticas. </p><p>Na opinião do brasileiro Antonio Ponce de Leon, professor titular do Departamento de Epidemiologia da Universidade do Estado do Rio de Janeiro e pesquisador visitante regular do Instituto Karolinska da Suécia, é válida a estimativa de Tegnell com relação à taxa de imunidade em Estocolmo.</p><p>"Se no início de abril a estimativa de população imune foi de 7,3%, é possível que em meados de maio esta estimativa tenha triplicado ou até quadruplicado, dado que a circulação de pessoas nas ruas de Estocolmo, e na Suécia em geral, não foi proibida como ocorreu em outros países. A forma mais eficaz para estimar este valor é por meio da realização de inquéritos sorológicos representativos da população. Porém, os exames devem possuir sensibilidade e especificidade altas, de forma que poucos falsos negativos e falsos positivos ocorram, além do número de exames ter que ser suficientemente grande para resultar em estimativas precisas", diz Ponce de Leon.</p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Bandeira sueca pintada no asfalto" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/112E3/production/_112517307_gettyimages-1177226129.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Getty Images</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Maior falha da estratégia sueca até agora, conforme reconhecem as próprias autoridades de saúde, foi evitar o trágico número de mortes nos asilos de idosos
+                </span>
+            </figcaption>
+            
+        </figure><p>Tegnell ressalva, contudo, que é um mito a ideia de que a imunidade de grupo pode fazer o novo coronvírus desaparecer. Segundo ele, será necessário combiná-la com uma vacina contra a doença.</p><p>"Não há razão alguma para acreditar que podemos atingir um nível de imunidade que possa interromper a disseminação. O que a imunidade pode fazer é ajudar a manter a taxa de transmissão do vírus baixa, de forma a manter a capacidade de funcionamento do sistema de saúde a um nível satisfatório e para que possamos eventualmente relaxar determinadas restrições. Mas para tentar paralisar a contaminação, será preciso combinar a imunidade com uma vacina efetiva contra o covid-19", observa.</p><p>A Organização Mundial de Saúde também já advertiu contra a imunidade de grupo, diante de diversos estudos globais que detectaram taxas de anticorpos na população na faixa de apenas 1% a 10%. Para que se possa alcançar a imunidade de grupo, cientistas avaliam que entre 60% e 80% de uma população deve estar imune à doença.</p><h2 class="story-body__crosshead">Crise nos asilos</h2><p>A maior falha da estratégia sueca até agora, conforme reconhecem as próprias autoridades de saúde, foi evitar o trágico número de mortes nos asilos de idosos — que corresponde a quase 50% do número total de mortos.</p><p>"O alto número de mortes me preocupa, e tem sido uma experiência terrível para nós. A principal causa disso está no elevado número de vítimas em asilos de idosos. Cerca de 70 mil pessoas vivem nesses asilos, a maioria delas muito idosas e frágeis, e infelizmente tivemos um alto índice de contaminação nas casas de repouso", diz Tegnell.  </p><p>Pelas investigações conduzidas até agora, uma das razões se deve ao fato de que muitas casas de repouso operam com trabalhadores temporários, que trabalham por hora e que em muitos casos têm capacitação insuficiente. Vários asilos passaram também a ser operados pela iniciativa privada, e há críticas de que muitos funcionários foram empregados no setor sem treinamento apropriado.</p><p>O fato é que as deficiências no setor não são exatamente uma novidade — mas a crise em curso nos asilos tem obrigado as autoridades a alçar a questão da melhoria do atendimento a idosos para o topo da escala de prioridades.     </p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Máscara, injeção, luva e bandeira da Suécia" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/C4C3/production/_112517305_gettyimages-1209277549.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Getty Images</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Segundo Tegnell, há muito poucas evidências científicas de que crianças menores sejam vetores de transmissão do novo coronavírus para adultos
+                </span>
+            </figcaption>
+            
+        </figure><p>A fim de combater as deficiências, o governo sueco anunciou há poucos dias um pacote de 2,2 bilhões de coroas suecas (R$ 1,25 bilhão) para permitir o treinamento e capacitação de profissionais que trabalham com idosos. Cuidadores passarão a ter, por exemplo, a oportunidade de fazer cursos de enfermagem e, ao mesmo tempo, continuar a receber seus salários.  </p><p>"O alto número de mortes nos asilos teve um forte impacto na nossa compreensão sobre a forma como funcionam os asilos, e sobre como precisamos apoiar o setor a fim de limitar e evitar o contágio nesses locais. Este é um setor que deve ser fortalecido, o que não significa que nossa estratégia como um todo deva ser alterada", disse Tegnell durante sessão de avaliação da crise.</p><p>Há também sérias denúncias de que idosos não têm recebido tratamento médico adequado nos asilos, onde não há acesso a tratamento com oxigênio. Segundo algumas dessas denúncias, pacientes mais idosos infectados com o Sars-CoV-2, vírus causador da covid-19, estariam recebendo apenas morfina diante de sintomas mais graves. </p><p>As consultas médicas têm sido feitas em grande parte através de contato telefônico entre os médicos e os profissionais que trabalham nos asilos, o que estaria resultando em falhas no tratamento e consequentemente em mortes. </p><p>Diante das denúncias, as autoridades divulgaram esta semana diretrizes mais rígidas sobre o direito dos idosos a atendimento médico adequado, e lamentaram o que classificaram como casos isolados de mau funcionamento do sistema.</p><p>Casos relatados pela imprensa sueca chamaram a atenção de lideranças políticas, que prometem levar a questão a debate no Parlamento sueco esta semana.  </p><h2 class="story-body__crosshead">Crianças menores não seriam vetores?</h2><p>Manter as creches e escolas fundamentais abertas foi uma decisão estratégica, de modo a permitir que pais pudessem trabalhar no sistema de saúde e em outros serviços essenciais.</p><p>E, segundo Tegnell, há muito poucas evidências científicas de que crianças menores sejam vetores de transmissão do novo coronavírus para adultos. </p><p>"Durante os últimos três meses em que creches e escolas de ensino fundamental têm permanecido abertas na Suécia, não detectamos sinais de que essa hipótese tenha se comprovado. A Islândia também tem uma experiência semelhante."</p><p>"O que observamos na Suécia foi a transmissão entre professores, que foram trabalhar com sintomas e infectaram outros professores. A preocupação de que as escolas podem ser focos de transmissão advém do fato de que as crianças menores são de fato vetores de transmissão de gripe. Mas a gripe é um outro tipo de doença. Em relação à covid-19, ainda não há evidências", disse Tegnell recentemente durante webnário com correspondentes estrangeiros.</p><p>Já a decisão de fechar as instituições secundárias de ensino e universidades, segundo ele, foi tomada com o objetivo de evitar uma maior disseminação geográfica do vírus — uma vez que muitos estudantes precisam percorrer grandes distâncias de casa para a faculdade, ou mesmo para as escolas. Além disso, o fato de que escolas e universidades já operavam com tecnologias que permitem o ensino à distância levou ao raciocínio de que a qualidade de ensino não seria especialmente afetada.  </p><aside class="quote"><div class="quote-inner">
+<span class="icon-quote"></span><blockquote class="quote">"Quase todas as decisões que vêm sendo tomadas no mundo não têm base científica, porque ainda não há muitos estudos sobre o novo coronavírus. Portanto, não há até o momento evidências cientificamente embasadas de que adotar lockdowns, fechar fronteiras e paralisar escolas fará uma grande diferença a longo prazo<footer>Anders Tegnell</footer>
+</blockquote>
+</div></aside><p>"Quase todas as decisões que vêm sendo tomadas no mundo não têm base científica, porque ainda não há muitos estudos sobre o novo coronavírus. Portanto, não há até o momento evidências cientificamente embasadas de que adotar <i>lockdowns</i>, fechar fronteiras e paralisar escolas fará uma grande diferença a longo prazo", acrescentou Tegnell. </p><h2 class="story-body__crosshead">Sem Máscaras </h2><p>Outra peculiaridade sueca na pandemia de covid-19 é que praticamente ninguém usa máscara nas ruas — até porque seu uso não é especialmente recomendado pelas autoridades de saúde. Por duas razões, diz Tegnell.</p><p>"Em primeiro lugar, os sinais da eficácia do uso da máscara não são particularmente fortes. Todos com quem tenho conversado a respeito fazem alusão a um pequeno estudo feito em Hong Kong, com outros tipos de vírus. Mas não se sabe ao certo qual é o grau de eficácia."</p><p>"Em segundo lugar, minha principal preocupação é de que o uso da máscara pode dar uma falsa sensação de segurança, e fazer com que as pessoas se descuidem de medidas fundamentais como manter o distanciamento social. Além disso, as pessoas acabam levando mais as mãos à boca, a fim de ajeitar a máscara no rosto", argumenta o epidemiologista.  </p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Estocolmo, na Suécia" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/16103/production/_112517309_gettyimages-642182274.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Getty Images</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Capital da Suécia, Estocolmo é epicentro da pandemia no país
+                </span>
+            </figcaption>
+            
+        </figure><p>A recomendação das autoridades de saúde suecas é: pratique o distanciamento social, não saia de casa se apresentar qualquer sintoma, e trabalhe de casa se possível. Ao mesmo tempo, o governo sueco advertiu desde o início da crise que medidas mais drásticas poderiam ser tomadas, e também se preparou para o pior cenário, por exemplo, triplicando a capacidade hospitalar. </p><p>Os hospitais operam atualmente com entre 11% e 67% dos leitos desocupados, dependendo da região.</p><p>Mas ainda resta saber se a estratégia menos draconiana adotada pela Suécia vai se mostrar correta em algum grau, a longo prazo. A Suécia ainda enfrenta um perigo real, e o sistema de saúde opera sob pressão. No total, mais de 44 mil cirurgias já foram canceladas no país por conta da pandemia.</p><p>E quando os termômetros começarem a registrar temperaturas mais altas — maio tem sido um mês mais frio do que o habitual —, poderá ser um considerável desafio, para uma população prestes a emergir de mais um longo e gelado inverno, manter as regras de distanciamento social.</p><h2 class="story-body__crosshead">Culto a Tegnell</h2><p>Apesar de não estar imune a críticas, Tegnell conta com o apoio maciço da população sueca. Pesquisa do instituto Ipsos divulgada no último dia 2 pelo jornal Dagens Nyheter aponta que 69% dos suecos apoiam a estratégia do epidemiologista. O tradicionalmente alto nível de confiança da população nas autoridades também se reflete na aprovação ao governo durante a pandemia, que de acordo com estatísticas do instituto Novus registrou índice de 63% no final de abril.  </p><p>E mais: entre os apoiadores mais ferrenhos, iniciou-se no país um verdadeiro culto a Tegnell. Já se vendem camisetas, bolsas, canecas e até roupas de bebê com a imagem do epidemiologista, que ganhou contornos de ícone. </p><p>Apesar disso, não há dúvida de que a tradicional cultura sueca de consenso foi rompida por setores da academia desde os primeiros momentos da pandemia, com diversos cientistas se posicionando em aberto confronto às teorias mais flexíveis de Tegnell e exigindo a adoção do mais traumático remédio do <i>lockdown</i>. Um deles chegou a afirmar que o epidemiologista "joga roleta russa" com a população sueca. </p><p>Nas redes sociais, o ambiente também permanece bastante polarizado. </p><p>Os mais críticos fazem questão de apontar que Tegnell já errou antes em seus prognósticos: no início de março, a avaliação dele era de que a epidemia do coronavírus ficaria restrita à China. O próprio Tegnell admitiu a falha na previsão.</p><h2 class="story-body__crosshead">Economia abalada</h2><p>A economia sueca também está sendo fortemente afetada pela crise do novo coronavírus. A previsão da União Europeia é de que o PIB sueco deve cair 6,1% este ano, em linha com as perdas de países como o Finlândia (6,3%), Dinamarca (5,9%) e Alemanha (6,5%) — embora melhor em comparação com os índices da Grã-Bretanha (8,3%), Itália (9,5%), Espanha (9,4%) e França (8,25), que, assim como os demais, implementaram o <i>lockdown</i>. </p><p>Mas o prognóstico do Banco Central sueco é mais sombrio, e aponta pra uma contração no PIB, entre 7% e 10%. Na União Europeia como um todo, as projeções indicam uma queda média do PIB de 7,4%.  </p><p>A prefeita de Estocolmo, Anna König Jerlmyr, anunciou este mês que a capital está em recessão, e a previsão é de que o índice de desemprego deve chegar a 13,5% no próximo ano. Na Suécia como um todo, o desemprego subiu de 7,2% em março para 8,2% em abril, e a previsão é de que deve chegar a 10% até o fim do ano. </p><p>Diferentemente do Brasil, a Suécia é uma economia aberta — a soma das exportações e importações respondem por 89% do PIB. Ou seja, a Suécia é extremamente dependente do comércio com outros países, e nenhum país vai estar imune à crise provocada pela pandemia da covid-19. </p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Estocolmo, na Suécia" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/925F/production/_112517473_gettyimages-491683869.jpg" data-width="976" data-height="549"></div>
+                
+                
+                 <span class="off-screen">Direito de imagem</span>
+                 <span class="story-image-copyright">Getty Images</span>
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Número de mortos na Suécia é significativamente maior do que nos vizinhos nórdicos
+                </span>
+            </figcaption>
+            
+        </figure><p>A fim de tentar reduzir os efeitos da crise, o governo sueco disponibilizou até agora um pacote total de 190 bilhões de coroas suecas (cerca de R$ 105 bilhões) para auxílio a empresas e à manutenção de empregos. Desde a primeira hora da pandemia, o governo anunciou subsídios de até 90% do salário de trabalhadores afastados temporariamente. </p><p>O robusto sistema sueco de proteção social também garante o pagamento de generosos salários-desemprego, além de apoio adicional para os mais vulneráveis, na forma de benefícios como subsídios para pagamento de aluguel de moradia. </p><p>O Banco Central sueco, por sua vez, disponibilizou um total de 500 bilhões de coroas suecas (cerca de R$ 277 bilhões), a fim de fornecer linhas de crédito a empresas nos próximos 24 meses. E os impostos das empresas só vão ser cobrados em 2021.</p><h2 class="story-body__crosshead">'Vida não segue normal', diz premiê</h2><p>O primeiro-ministro sueco, Stefan Löfven, repetiu mais uma vez que é equivocada a impressão de que a resposta da Suécia à pandemia do covid-19 tem sido excessivamente liberal.  </p><p>"A vida não segue de forma normal na Suécia", destacou ele em entrevista a correspondentes estrangeiros. </p><p>Escolas secundárias, universidades, museus e centros esportivos permanecem fechados. Visitas a asilos de idosos e reuniões de mais de 50 pessoas também continuam proibidas. Bares e restaurantes estão abertos, embora com regras de distanciamento e movimento reduzido. Cinco restaurantes que desrespeitaram as regras foram fechados pelas autoridades. </p><p>Grande parte das pessoas passou a trabalhar remotamente, seguindo as recomendações do governo. O movimento nas ruas e nos transportes públicos de Estocolmo caiu visivelmente, apesar de lojas e outros estabelecimentos comerciais continuarem abertos. </p><p>O governo também estabeleceu limites para deslocamentos entre as regiões do país, e prolongou em um mês (de 15 de junho para 15 de julho) a recomendação para que os suecos não viajem ao exterior.</p><p>Mas para alguns países, turistas da Suécia — que tem atraído a atenção mundial por sua estratégia divergente — já são <i>persona non grata</i>: Chipre e os vizinhos Finlândia, Dinamarca e Noruega, que começam a abrir o turismo para algumas nacionalidades, excluíram os suecos da lista até o momento.  </p><figure class="media-landscape has-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Bandeira da Suécia" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/45EB/production/_112299871_sweden-916799_1280.jpg" data-width="976" data-height="549"></div>
+                
+                
+            </span>
+            
+            <figcaption class="media-caption">
+                <span class="off-screen">Image caption</span>
+                <span class="media-caption__text">
+                    Suécia foi elogiada por Jair Bolsonaro, mas estratégia não é consenso entre especialistas e poderia representar riscos se replicada para realidade brasileira
+                </span>
+            </figcaption>
+            
+        </figure><h2 class="story-body__crosshead">Vizinhos nórdicos</h2><p>O número de mortes na Suécia é significativamente mais alto do que nos demais países nórdicos, que adotaram o <i>lockdown</i>. O levantamento da universidade Johns Hopkins, conforme observa o professor Antonio Ponce de Leon, mostra que a taxa de mortalidade per capita na Suécia (39.57 por cem mil habitantes) é quase nove vezes maior do que a da Noruega (4.42 por cem mil), mais de sete vezes maior do que na Finlândia (5.58 por cem mil), mais de quatro vezes maior do que na Dinamarca (9.71 por cem mil), e quase quatorze vezes superior à da Islândia (2.83 por cem mil), que registrou, até agora, dez mortes.</p><p>Na semana passada, o principal noticiário da TV sueca apresentou o dado alarmante de que a Suécia registrou o maior número de mortes em um mês dos últimos quase 30 anos — foram 10.458 mortos em abril, que até agora foi o ponto mais alto da crise. Por outro lado, a notícia chegou em meio aos sinais de uma ligeira queda nas taxas de morte e contágio nas últimas semanas.</p><p>Também não se sabe ainda o que acontecerá quando os vizinhos nórdicos e os demais países saírem do confinamento total — o que já está acontecendo, gradualmente. Tegnell e outros especialistas suecos dizem que é cedo demais pra comparar o número de mortes, e que isso só vai poder ser feito daqui a pelo menos um ano. E, na avaliação desses especialistas, a longo prazo, o número de mortes nos vizinhos nórdicos pode ser, eventualmente, semelhante ao da Suécia.</p><p>Segundo essa teoria, ao contrário dos vizinhos, a Suécia deve enfrentar o impacto do surto mais cedo e ao longo de um período mais curto, com a maioria das mortes ocorrendo dentro de semanas, e não de meses. A se confirmar a expectativa de que a Suécia venha a atingir a imunidade mais rapidamente, a tese é de que o país teria menos surtos novos do vírus — fala-se em uma segunda onda já no próximo outono europeu — em relação aos vizinhos nórdicos.</p><p>Mas, como diz o próprio Tegnell, ainda é cedo para avaliar qualquer estratégia.</p><figure class="media-landscape no-caption body-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Línea" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/1683C/production/_104602229_line976.jpg" data-width="464" data-height="2"></div>
+                
+                
+            </span>
+            
+        </figure><ul class="story-body__unordered-list"><li class="story-body__list-item">
+<strong>Já assistiu aos nossos novos vídeos no </strong><a href="https://www.youtube.com/channel/UCthbIFAxbXTTQEC7EcQvP1Q" class="story-body__link-external">YouTube</a><strong>? Inscreva-se no nosso canal! </strong>
+</li></ul><div class="social-embed"><div class="social-embed-post social-embed-fallbackyoutube embed-image-wrap" style="max-width: 500px">
+    <a class="embed-original-post-link" href=https://www.youtube.com/watch?v=HPclsNpzwz4>
+      <figure class="media-landscape full-width embed-screenshot-js">
+          <span class="image-and-copyright-container">
+              <div class="js-delayed-image-load" data-alt="YouTube post de BBC News Brasil: Coronavírus  o avanço silencioso da covid-19 em frigoríficos do Brasil" data-src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=HPclsNpzwz4~/portuguese/internacional-52806218" data-width="500" data-height="269"></div>
+              <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+              <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+          </span>
+          
+      </figure>
+      <noscript>
+          <figure class="media-landscape full-width embed-screenshot-nonejs">
+              <span class="image-and-copyright-container">
+                  <img alt="YouTube post de BBC News Brasil: Coronavírus  o avanço silencioso da covid-19 em frigoríficos do Brasil" src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=HPclsNpzwz4~/portuguese/internacional-52806218" width="500" height="269">
+                  <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+                  <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+              </span>
+              
+          </figure>
+      </noscript>
+    </a>
+</div>
+</div><div class="social-embed"><div class="social-embed-post social-embed-fallbackyoutube embed-image-wrap" style="max-width: 500px">
+    <a class="embed-original-post-link" href=https://www.youtube.com/watch?v=fR7i1hBPxAk>
+      <figure class="media-landscape full-width embed-screenshot-js">
+          <span class="image-and-copyright-container">
+              <div class="js-delayed-image-load" data-alt="YouTube post de BBC News Brasil: O que se sabe sobre a misteriosa Área 51 dos Estados Unidos" data-src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=fR7i1hBPxAk~/portuguese/internacional-52806218" data-width="500" data-height="269"></div>
+              <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+              <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+          </span>
+          
+      </figure>
+      <noscript>
+          <figure class="media-landscape full-width embed-screenshot-nonejs">
+              <span class="image-and-copyright-container">
+                  <img alt="YouTube post de BBC News Brasil: O que se sabe sobre a misteriosa Área 51 dos Estados Unidos" src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=fR7i1hBPxAk~/portuguese/internacional-52806218" width="500" height="269">
+                  <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+                  <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+              </span>
+              
+          </figure>
+      </noscript>
+    </a>
+</div>
+</div><div class="social-embed"><div class="social-embed-post social-embed-fallbackyoutube embed-image-wrap" style="max-width: 500px">
+    <a class="embed-original-post-link" href=https://www.youtube.com/watch?v=rfACwYPzdaU>
+      <figure class="media-landscape full-width embed-screenshot-js">
+          <span class="image-and-copyright-container">
+              <div class="js-delayed-image-load" data-alt="YouTube post de BBC News Brasil: Coronavírus  o que é o número de reprodução e porque é essencial para o fim da quarentena" data-src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=rfACwYPzdaU~/portuguese/internacional-52806218" data-width="500" data-height="269"></div>
+              <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+              <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+          </span>
+          
+      </figure>
+      <noscript>
+          <figure class="media-landscape full-width embed-screenshot-nonejs">
+              <span class="image-and-copyright-container">
+                  <img alt="YouTube post de BBC News Brasil: Coronavírus  o que é o número de reprodução e porque é essencial para o fim da quarentena" src="https://ichef.bbci.co.uk/news/1024/socialembed/https://www.youtube.com/watch?v=rfACwYPzdaU~/portuguese/internacional-52806218" width="500" height="269">
+                  <span class="off-screen">Direitos da imagem BBC News Brasil</span>
+                  <span class="story-image-copyright" aria-hidden="true">BBC News Brasil</span>
+              </span>
+              
+          </figure>
+      </noscript>
+    </a>
+</div>
+</div>
+                                                                                                        </div>
+</div>
+                                                                                            <div class="tags-container">
+    <h2 class="tags-title story-body__crosshead">Tópicos relacionados</h2>
+        <ul class="tags-list">
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/15f1bcf6-b6ab-48e8-b708-efed41e43d31">Brasil</a>
+            </li>
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/4fdf72b9-e477-43e5-80cf-b2ea49baa0bc">Suécia</a>
+            </li>
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/5fe79b8d-56e5-4aff-8b05-21f9ad731912">Coronavírus</a>
+            </li>
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/c4794229-7f87-43ce-ac0a-6cfcd6d3cef2">Saúde</a>
+            </li>
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/e7f068e4-c41a-448c-9efc-769ef0ee1803">Organização Mundial de Saúde (OMS)</a>
+            </li>
+            <li class="tags-list__tags" data-entityid="topic_link">
+                <a href="/portuguese/topics/f21d4493-e3bd-47df-b23c-1d57f0e3e818">Jair Bolsonaro                               </a>
+            </li>
+        </ul>
+</div>
+
+                                                                                                <div class="share share--lightweight  show ghost-column">
+            <div id="share-tools"></div>
+            <h2 class="share__title share__title--lightweight">
+        Compartilhar        <a href="/portuguese/institutional/2013/08/000000_about_share_this">Sobre compartilhar</a>
+    </h2>
+        <ul class="share__tools share__tools--lightweight">
+                            <li class="share__tool share__tool--email">
+        <a href="mailto:?subject=Compartilhado%20pela%20BBC%20Brasil&body=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218" >
+            <span>Email</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--facebook">
+        <a href="http://www.facebook.com/dialog/feed?app_id=58567469885&redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218&link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FSThisFB&display=popup" >
+            <span>Facebook</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--messengerdesktop">
+        <a href="http://www.facebook.com/dialog/send?app_id=58567469885&redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218&link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FSThisFB&display=popup" >
+            <span>Messenger</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--messengermobile">
+        <a href="fb-messenger://share?app_id=58567469885&redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218&link=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3FCMP%3Dshare_btn_me" target=_blank rel=noopener>
+            <span>Messenger</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--twitter">
+        <a href="https://twitter.com/intent/tweet?text=BBC%20News%20Brasil%20-%20Citada%20como%20exemplo%20por%20Bolsonaro%2C%20estrat%C3%A9gia%20da%20Su%C3%A9cia%20contra%20coronav%C3%ADrus%20n%C3%A3o%20serve%20para%20o%20Brasil%2C%20diz%20respons%C3%A1vel%20por%20plano&url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218" class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+Brasil+-+Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano&amp;url= data-target-url=https://www.bbc.com/portuguese/internacional-52806218>
+            <span>Twitter</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--whatsapp">
+        <a href="whatsapp://send?text=BBC%20News%20Brasil%20%7C%20Citada%20como%20exemplo%20por%20Bolsonaro%2C%20estrat%C3%A9gia%20da%20Su%C3%A9cia%20contra%20coronav%C3%ADrus%20n%C3%A3o%20serve%20para%20o%20Brasil%2C%20diz%20respons%C3%A1vel%20por%20plano%20-%20https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218%3Focid%3Dwsportuguese.chat-apps.in-app-msg.whatsapp.trial.link1_.auin" >
+            <span>WhatsApp</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--linkedin">
+        <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218&title=Citada%20como%20exemplo%20por%20Bolsonaro%2C%20estrat%C3%A9gia%20da%20Su%C3%A9cia%20contra%20coronav%C3%ADrus%20n%C3%A3o%20serve%20para%20o%20Brasil%2C%20diz%20respons%C3%A1vel%20por%20plano&summary=Em%20entrevista%20%C3%A0%20BBC%20News%20Brasil%2C%20epidemiologista-chefe%20do%20pa%C3%ADs%2C%20Anders%20Tegnell%2C%20diz%20que%20plano%20tem%20de%20levar%20em%20conta%20circunst%C3%A2ncias%20locais%3B%20Su%C3%A9cia%20foi%20apontada%20por%20Bolsonaro%20como%20modelo%20a%20ser%20seguido%2C%20por%20n%C3%A3o%20impor%20isolamento%20duro%20e%20manter%20boa%20parte%20do%20com%C3%A9rcio%20aberta.&source=BBC" >
+            <span>LinkedIn</span>
+        </a>
+    </li>
+            </ul>
+</div>
+
+                                                                                                <div class="share__back-to-top ghost-column"">
+	<a href="#orb-banner">
+		<span>Voltar ao topo</span>
+	</a>
+</div>
+                                                                                                <div class="story-more">
+          <div class="group story-alsos more-on-this-story"> <div class="group__header"> <h2 class="group__title">Notícias relacionadas</h2> </div> <div class="group__body"> <ul class="units-list ">    <li class="unit unit--regular" data-entityid="more-on-this-story#1" >  <a href="/portuguese/internacional-52428807" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">     <span class="cta"> Coronavírus: a Suécia acertou ao não adotar uma quarentena? </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1587914888" data-datetime="26 abril 2020">26 abril 2020</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular" data-entityid="more-on-this-story#2" >  <a href="/portuguese/internacional-52092152" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">     <span class="cta"> A 'arriscada' aposta da Suécia de combater o coronavírus protegendo economia e liberdades individuais </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1585572544" data-datetime="30 março 2020">30 março 2020</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular" data-entityid="more-on-this-story#3" >  <a href="/portuguese/geral-52542318" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">        
+    <span class="icon-new icon-new--video-square-red"><span class="off-screen"> Vídeo</span></span>
+    
+    
+   <span class="cta"> Coronavírus: cidade sueca usa cocô de galinha pra conter disseminação da covid-19 </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1588676591" data-datetime="5 maio 2020">5 maio 2020</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular" data-entityid="more-on-this-story#4" >  <a href="/portuguese/internacional-45506847" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">     <span class="cta"> Suécia: País modelo ou nação em processo de falência? </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1537044858" data-datetime="15 setembro 2018">15 setembro 2018</div> </div>  </div> </div> </a>  </li>   </ul> </div> </div>      </div>
+                                                                                            
+                                                                        </div>
+                                     <div class="column--secondary">
+                                                                                    <div id=comp-top-stories-promo
+            class="hidden"
+            data-comp-meta="{&quot;id&quot;:&quot;comp-top-stories-promo&quot;,&quot;type&quot;:&quot;top-stories-promo&quot;,&quot;handler&quot;:&quot;default&quot;,&quot;deviceGroups&quot;:[&quot;group3&quot;,&quot;group4&quot;],&quot;opts&quot;:{&quot;assetId&quot;:&quot;52806218&quot;,&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;device_groups&quot;:[&quot;group3&quot;,&quot;group4&quot;],&quot;dedup_id&quot;:&quot;\/portuguese\/internacional-52806218&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:1,&quot;lastInRegion&quot;:false,&quot;lastOnPage&quot;:false,&quot;column&quot;:&quot;secondary_column&quot;}},&quot;template&quot;:&quot;\/component\/top-stories-promo&quot;}">
+        </div>                                
+<div id="bbccom_mpu_4" class="bbccom_slot mpu-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+                                                                    <div id=comp-features-and-analysis
+            class="hidden"
+            data-comp-meta="{&quot;id&quot;:&quot;comp-features-and-analysis&quot;,&quot;type&quot;:&quot;features-and-analysis&quot;,&quot;handler&quot;:&quot;default&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;assetId&quot;:&quot;52806218&quot;,&quot;asset_id&quot;:&quot;front_page&quot;,&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;show_summary&quot;:false,&quot;dedup_id&quot;:&quot;\/portuguese\/internacional-52806218&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:2,&quot;lastInRegion&quot;:false,&quot;lastOnPage&quot;:false,&quot;column&quot;:&quot;secondary_column&quot;}}}">
+        </div>                                                                                                    <div id=comp-most-popular
+            class="hidden"
+            data-comp-meta="{&quot;id&quot;:&quot;comp-most-popular&quot;,&quot;type&quot;:&quot;most-popular&quot;,&quot;handler&quot;:&quot;mostPopular&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;assetId&quot;:&quot;52806218&quot;,&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:3,&quot;lastInRegion&quot;:true,&quot;lastOnPage&quot;:true,&quot;column&quot;:&quot;secondary_column&quot;}}}">
+        </div>                                
+<div id="bbccom_adsense_1_2_3_4" class="bbccom_slot adsense-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('adsense', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+                                        </div>
+             </div>          </div> </div>      </div> 
+   
+
+<div id="core-navigation" class="navigation--footer">
+    <h2 class="navigation--footer__heading">BBC News Brasil Navegação</h2>
+
+    
+    <nav id="navigation--bottom" class="navigation navigation--bottom " role="navigation" aria-label="BBC News Brasil">
+                    <span class="navigation-core-title">Seções</span>
+                <ul class="navigation--bottom__toplevel">
+                        <li class="">
+                    <a href="/portuguese" class="">
+                        <span>Notícias</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/brasil" class="">
+                        <span>Brasil</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/internacional" class="">
+                        <span>Internacional</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/topics/ca170ae3-99c1-48db-9b67-2866f85e7342" class="">
+                        <span>Economia</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/topics/c4794229-7f87-43ce-ac0a-6cfcd6d3cef2" class="">
+                        <span>Saúde</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/topics/0f469e6a-d4a6-46f2-b727-2bd039cb6b53" class="">
+                        <span>Ciência</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/topics/31684f19-84d6-41f6-b033-7ae08098572a" class="">
+                        <span>Tecnologia</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/aprenda_ingles" class="">
+                        <span>Aprenda Inglês</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/salasocial" class="">
+                        <span>#SalaSocial</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/portuguese/media/video" class="">
+                        <span>Vídeos</span>
+                    </a>
+                                                        </li>
+                    </ul>
+    </nav>
+</div>      </div><!-- closes #site-container --> </div>
+<div id="orb-footer" class="orb-footer" dir="ltr"><aside role="complementary"><div id="orb-aside" class="orb-nav-sec b-r b-g-p"><div class="orb-footer-inner" role="navigation" aria-label="BBC"><h2 class="orb-footer-lead">Navegação na BBC</h2><div class="orb-footer-primary-links"><ul><li class="orb-nav-news"><a href="https://www.bbc.com/news">News</a></li><li class="orb-nav-sport"><a href="https://www.bbc.com/sport">Sport</a></li><li class="orb-nav-weather"><a href="https://www.bbc.com/weather">Weather</a></li><li class="orb-nav-radio"><a href="https://www.bbc.co.uk/worldserviceradio">Radio</a></li><li class="orb-nav-arts"><a href="https://www.bbc.co.uk/arts">Arts</a></li></ul></div></div></div></aside><footer role="contentinfo"><div id="orb-contentinfo" class="orb-nav-sec b-r b-g-p"><script>window.orb.worldwideFooterlinks = '<li class="orb-footer-ads"><a href="https://www.bbc.com/portuguese/institutional/2015/01/000000_advertising_faqs">Anuncie na BBC<'+'/a><'+'/li><li class="orb-footer-adchoices"><a href="https://www.bbc.com/portuguese/institutional/2015/01/000000_advertising_faqs">Opções para propagandas<'+'/a><'+'/li>';</script><div class="orb-footer-inner"> <ul><li class="orb-footer-terms"><a href="https://www.bbc.com/portuguese/institutional-36202448">Termos de uso</a></li><li class="orb-footer-about"><a href="https://www.bbc.com/portuguese/institutional-36202452">Sobre a BBC</a></li><li class="orb-footer-privacy"><a href="https://www.bbc.com/portuguese/institutional-36202454">Privacidade</a></li><li class="orb-footer-cookies"><a href="https://www.bbc.co.uk/privacy/cookies/managing/cookie-settings.html">Cookies</a></li><li class="orb-footer-accessibility"><a href="https://www.bbc.co.uk/accessibility/">Accessibility Help</a></li><li class="orb-footer-parental"><a href="https://www.bbc.co.uk/guidance">Parental Guidance</a></li><li class="orb-footer-contact"><a href="https://www.bbc.com/portuguese/institutional-36202456">Contate a BBC</a></li><li class="orb-footer-newsletter"><a href="https://www.bbc.co.uk/bbcnewsletter">Get Personalised Newsletters</a></li></ul><small><em class="orb-hilight">Copyright &copy; 2020 BBC.</em> A BBC não se responsabiliza pelo conteúdo de outros sites. <span class="orb-footer-links"><a href="https://www.bbc.com/portuguese/institutional-36202448" class="orb-hilight">Leia mais sobre nossa política para links externos.</a></span></small></div></div></div></footer></div><script id="orb-js-script" data-assetpath="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/" src="https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/js/orb.min.js"></script>  <script type="text/javascript">/*<![CDATA[*/
+                require(['orb/nav'], function(nav) {
+                    window.bbcuser.isUKCombined().then(function(isUK) {
+                        if (isUK) {
+                            nav.loadJs('https://nav.files.bbci.co.uk/orbit/db9d3ece642dbb01f23f791064ec1502/js/edr.min.js');
+                        }
+                    });
+                });
+            /*]]>*/</script> <!-- BBCDOTCOM bodyLast --><div class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && window.bbcdotcom.analytics && bbcdotcom.config && !bbcdotcom.config.isSportApp() && !bbcdotcom.config.isReel()) { bbcdotcom.checkThirdPartyFirst(bbcdotcom.analytics.page, bbcdotcom.analytics); } /*]]>*/</script><noscript><img src="//ssc.api.bbc.com/?c1=2&c2=19293874&ns_site=bbc&name=" height="1" width="1" alt=""></noscript><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.checkThirdPartyFirst(bbcdotcom.currencyProviders.write, bbcdotcom.currencyProviders); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.checkThirdPartyFirst(bbcdotcom.currencyProviders.postWrite, bbcdotcom.currencyProviders); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats === 1 && bbcdotcom.utils && window.location.pathname === '/') { var wwhpEdition = bbcdotcom.utils.getMetaPropertyContent('wwhp-edition'); var _sf_async_config={}; /** CONFIGURATION START **/ _sf_async_config.uid = 50924; _sf_async_config.domain = "bbc.co.uk"; _sf_async_config.title = "Homepage"+(wwhpEdition !== '' ? ' - '+wwhpEdition : ''); _sf_async_config.sections = "Homepage"+(wwhpEdition !== '' ? ', Homepage - '+wwhpEdition : ''); _sf_async_config.region = wwhpEdition; _sf_async_config.path = "/"+(wwhpEdition !== '' ? '?'+wwhpEdition : ''); /** CONFIGURATION END **/ (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != "function") ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.bodyLast = true; }()); /*]]>*/</script></div><!-- BBCDOTCOM all code in page --><script type="text/javascript">if (window.SEARCHBOX.suppress === false && window.SEARCHBOX.locale && /^en-?.*?/.test(window.SEARCHBOX.locale)) {
+    require.config({
+      paths: {
+        "search/searchbox": window.SEARCHBOX.searchboxAppStaticPrefix,
+      }
+    });
+
+    if (bbcuser && bbcuser.isUKCombined) {
+        bbcuser.isUKCombined().then(function (isUK) {
+            if (isUK) {
+                require(['search/searchbox/searchboxDrawer'], function (SearchboxDrawer) {
+                  SearchboxDrawer.run(window.SEARCHBOX);
+                });
+            }
+        });
+    }
+
+  }</script>  <script type="text/javascript">window.COOKIES_STATIC_HOST = 'https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-459.c5461d9/cookie-banner/cookie-prompt/';</script><script src="https://nav.files.bbci.co.uk/orbit-webmodules/0.0.2-459.c5461d9/cookie-banner/cookie-banners.bundle.js" async=""></script><script type="text/javascript">require(["istats-1","orb/cookies"],function(o,t){if(t.isAllowed("s1"))try{if(!require.s.contexts._.config.paths.idcta)return void i();require(["idcta/idcta-1"],function(t){t&&"function"==typeof t.getIStatsLabels&&o.addLabels(t.getIStatsLabels()),i()},function(t){throw t})}catch(t){console&&"function"==typeof console.log&&console.log("an exception occurred while adding idcta labels to istats, invoking istats without them",t),i()}function i(){o.invoke()}});</script><script type="text/javascript">"use strict";window.__reverb.__reverbLoadedPromise.then(function(e){return e.initialise().then(function(){return e.viewEvent()})},function(){console.log("Failed to load reverb. No event sent")});</script><script src="https://nav.files.bbci.co.uk//user-activity-helper/1d5fa47d9ba60d5c52b377ec3208b7be/js/detectview.bundle.js" async=""></script> </div><!-- closes .direction -->  <script> window.old_onload = window.onload; window.onload = function() { if(window.old_onload) { window.old_onload(); } window.loaded = true; }; </script> <!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">
+    /** CONFIGURATION START **/
+    var _sf_async_config = {};
+
+    _sf_async_config.uid = "50924";
+    _sf_async_config.domain = "brasil.bbc.co.uk";
+    _sf_async_config.sections = "Portuguese, Portuguese - internacional, Portuguese - STY, Portuguese - internacional - STY, Portuguese - feature-category";
+    <!-- if page is an index, add the edition to the path -->
+    _sf_async_config.path = "bbc.co.uk/portuguese/internacional-52806218";
+    _sf_async_config.useCanonical = true;
+
+        (function() {
+        var cookiePrefix = 'ckns_sylphid';
+        _sf_async_config.idSync = _sf_async_config.idSync || {};
+
+        if (document.cookie.indexOf(cookiePrefix) !== -1) {
+            var cookieSplit = document.cookie.split(';');
+            var cookieLength = cookieSplit.length;
+            while (cookieLength--) {
+                var cookie = cookieSplit[cookieLength].replace(/^\s+|\s+$/g, '');
+                var cookieName = cookie.split('=')[0];
+                if (cookieName.indexOf(cookiePrefix) === 0) {
+                    _sf_async_config.idSync.bbc_hid = cookieSplit[cookieLength].split('=')[1];
+                    break;
+                }
+            }
+        }
+    }());
+
+    /** CONFIGURATION END **/
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement("script");
+            e.setAttribute("language", "javascript");
+            e.setAttribute("type", "text/javascript");
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != "function") ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    }());
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+   <!--Non-JS-->
+<noscript>
+    <img src="https://ssc.api.bbc.com/?c2=19999701&amp;ns_type=view&amp;ns_site=bbc&amp;c1=2&amp;b_vs_un=ws&amp;b_imp_src=ws&amp;b_imp_ver=1.0.0.0&amp;name=portuguese.internacional-52806218&amp;b_vs_ls=portuguese&amp;b_synd_partner=bbc%7Crd%7Cgroup0&amp;b_site_section=102471&amp;b_page_type=STY%7Cna&amp;c8=Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano+-+BBC+News+Brasil&amp;b_app_type=web&amp;b_app_name=news%7Cweb&amp;b_article_title=Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano&amp;b_article_id=52806218&amp;b_article_author=Claudia+Wallin&amp;b_article_date=1590570196&amp;b_article_update=1590570725&amp;b_article_length=27631&amp;b_ad_enabled=1&amp;c7=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218&amp;ns_c=utf-8&amp;bbc_site=news-ws-portuguese&amp;b_code_ver=bbc_nonjs&amp;b_topic_names=Brazil%21Sweden%21Coronavirus+pandemic%21Health%21World+Health+Organization+%28WHO%29%21Jair+Bolsonaro&amp;b_topic_ids=15f1bcf6-b6ab-48e8-b708-efed41e43d31%214fdf72b9-e477-43e5-80cf-b2ea49baa0bc%215fe79b8d-56e5-4aff-8b05-21f9ad731912%21c4794229-7f87-43ce-ac0a-6cfcd6d3cef2%21e7f068e4-c41a-448c-9efc-769ef0ee1803%21f21d4493-e3bd-47df-b23c-1d57f0e3e818&amp;b_breaking_flag=0&amp;b_syndication_flag=1&amp;b_category_id=http%3A%2F%2Fwww.bbc.co.uk%2Fontologies%2Fapplicationlogic-news%2FFeature&amp;b_category_name=Feature&amp;b_campaigns_ids=5a988e2139461b000e9dabf7%215a988e2939461b000e9dabf8%215a988e3739461b000e9dabfa%215a988e3e39461b000e9dabfb&amp;b_campaigns_names=WS+-+Inspire+me%21WS+-+Educate+me%21WS+-+Give+me+perspective%21WS+-+Keep+me+on+trend" alt="" class="comscore-tracking-nonjs" style="display: none;" />
+</noscript>
+
+<!--JS-->
+<script>
+    if (!window.cutsTheMustard) {
+        var url = "https://ssc.api.bbc.com/?c2=19999701&ns_type=view&ns_site=bbc&c1=2&b_vs_un=ws&b_imp_src=ws&b_imp_ver=1.0.0.0&name=portuguese.internacional-52806218&b_vs_ls=portuguese&b_synd_partner=bbc%7Crd%7Cgroup0&b_site_section=102471&b_page_type=STY%7Cna&c8=Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano+-+BBC+News+Brasil&b_app_type=web&b_app_name=news%7Cweb&b_article_title=Citada+como+exemplo+por+Bolsonaro%2C+estrat%C3%A9gia+da+Su%C3%A9cia+contra+coronav%C3%ADrus+n%C3%A3o+serve+para+o+Brasil%2C+diz+respons%C3%A1vel+por+plano&b_article_id=52806218&b_article_author=Claudia+Wallin&b_article_date=1590570196&b_article_update=1590570725&b_article_length=27631&b_ad_enabled=1&c7=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Finternacional-52806218&ns_c=utf-8&bbc_site=news-ws-portuguese&b_code_ver=bbc_nonjs&b_topic_names=Brazil%21Sweden%21Coronavirus+pandemic%21Health%21World+Health+Organization+%28WHO%29%21Jair+Bolsonaro&b_topic_ids=15f1bcf6-b6ab-48e8-b708-efed41e43d31%214fdf72b9-e477-43e5-80cf-b2ea49baa0bc%215fe79b8d-56e5-4aff-8b05-21f9ad731912%21c4794229-7f87-43ce-ac0a-6cfcd6d3cef2%21e7f068e4-c41a-448c-9efc-769ef0ee1803%21f21d4493-e3bd-47df-b23c-1d57f0e3e818&b_breaking_flag=0&b_syndication_flag=1&b_category_id=http%3A%2F%2Fwww.bbc.co.uk%2Fontologies%2Fapplicationlogic-news%2FFeature&b_category_name=Feature&b_campaigns_ids=5a988e2139461b000e9dabf7%215a988e2939461b000e9dabf8%215a988e3739461b000e9dabfa%215a988e3e39461b000e9dabfb&b_campaigns_names=WS+-+Inspire+me%21WS+-+Educate+me%21WS+-+Give+me+perspective%21WS+-+Keep+me+on+trend"
+        img = document.createElement('img');
+        img.src = url.replace("bbc_nonjs", "bbc_nonctm");
+        img.className = 'comscore-tracking-nonjs';
+        img.setAttribute('style', 'display: none;');
+        document.body.appendChild(img);
+    }
+    payload = document.createElement('div');
+    payload.id = "comscore-payload";
+    payload.setAttribute('style', 'display: none;');
+    payload.setAttribute('data-payload', '{"c2":19999701,"ns_type":"view","ns_site":"bbc","c1":"2","b_vs_un":"ws","b_imp_src":"ws","b_imp_ver":"1.0.0.0","name":"portuguese.internacional-52806218","b_vs_ls":"portuguese","b_synd_partner":"bbc|rd|group0","b_site_section":"102471","b_page_type":"STY|na","c8":"Citada como exemplo por Bolsonaro, estrat\u00e9gia da Su\u00e9cia contra coronav\u00edrus n\u00e3o serve para o Brasil, diz respons\u00e1vel por plano - BBC News Brasil","b_app_type":"web","b_app_name":"news|web","b_article_title":"Citada como exemplo por Bolsonaro, estrat\u00e9gia da Su\u00e9cia contra coronav\u00edrus n\u00e3o serve para o Brasil, diz respons\u00e1vel por plano","b_article_id":"52806218","b_article_author":"Claudia Wallin","b_article_date":1590570196,"b_article_update":1590570725,"b_article_length":27631,"b_ad_enabled":true,"c7":"https:\/\/www.bbc.com\/portuguese\/internacional-52806218","ns_c":"utf-8","bbc_site":"news-ws-portuguese","b_code_ver":"bbc_nonjs","b_topic_names":"Brazil!Sweden!Coronavirus pandemic!Health!World Health Organization (WHO)!Jair Bolsonaro","b_topic_ids":"15f1bcf6-b6ab-48e8-b708-efed41e43d31!4fdf72b9-e477-43e5-80cf-b2ea49baa0bc!5fe79b8d-56e5-4aff-8b05-21f9ad731912!c4794229-7f87-43ce-ac0a-6cfcd6d3cef2!e7f068e4-c41a-448c-9efc-769ef0ee1803!f21d4493-e3bd-47df-b23c-1d57f0e3e818","b_breaking_flag":0,"b_syndication_flag":1,"b_category_id":"http:\/\/www.bbc.co.uk\/ontologies\/applicationlogic-news\/Feature","b_category_name":"Feature","b_campaigns_ids":"5a988e2139461b000e9dabf7!5a988e2939461b000e9dabf8!5a988e3739461b000e9dabfa!5a988e3e39461b000e9dabfb","b_campaigns_names":"WS - Inspire me!WS - Educate me!WS - Give me perspective!WS - Keep me on trend"}');
+    document.body.appendChild(payload);
+</script>
+   </body> </html> 
+
+
+
+
+
+
+
+
+
+
+

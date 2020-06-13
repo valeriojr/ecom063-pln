@@ -1,0 +1,1402 @@
+[
+  {
+    "filename": "url0.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53020785"
+  },
+  {
+    "filename": "url1.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53027318"
+  },
+  {
+    "filename": "url2.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-51713943"
+  },
+  {
+    "filename": "url3.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-53008262"
+  },
+  {
+    "filename": "url4.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-53008266"
+  },
+  {
+    "filename": "url5.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-53002475"
+  },
+  {
+    "filename": "url6.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53000671"
+  },
+  {
+    "filename": "url7.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53002123"
+  },
+  {
+    "filename": "url8.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52988154"
+  },
+  {
+    "filename": "url9.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52856552"
+  },
+  {
+    "filename": "url10.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52983258"
+  },
+  {
+    "filename": "url11.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52986252"
+  },
+  {
+    "filename": "url12.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52915459"
+  },
+  {
+    "filename": "url13.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52974181"
+  },
+  {
+    "filename": "url14.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52967280"
+  },
+  {
+    "filename": "url15.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52975877"
+  },
+  {
+    "filename": "url16.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52955588"
+  },
+  {
+    "filename": "url17.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52944624"
+  },
+  {
+    "filename": "url18.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52914434"
+  },
+  {
+    "filename": "url19.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52943574"
+  },
+  {
+    "filename": "url20.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52951764"
+  },
+  {
+    "filename": "url21.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52948408"
+  },
+  {
+    "filename": "url22.txt",
+    "url": "https://www.bbc.co.uk/portuguese/52951772"
+  },
+  {
+    "filename": "url23.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52944237"
+  },
+  {
+    "filename": "url24.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52909844"
+  },
+  {
+    "filename": "url25.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52930843"
+  },
+  {
+    "filename": "url26.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52921925"
+  },
+  {
+    "filename": "url27.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52891451"
+  },
+  {
+    "filename": "url28.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52885403"
+  },
+  {
+    "filename": "url29.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52915237"
+  },
+  {
+    "filename": "url30.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52897056"
+  },
+  {
+    "filename": "url31.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52889944"
+  },
+  {
+    "filename": "url32.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52930383"
+  },
+  {
+    "filename": "url33.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52885733"
+  },
+  {
+    "filename": "url34.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52922122"
+  },
+  {
+    "filename": "url35.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52912901"
+  },
+  {
+    "filename": "url36.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-51718755"
+  },
+  {
+    "filename": "url37.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52879618"
+  },
+  {
+    "filename": "url38.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52917611"
+  },
+  {
+    "filename": "url39.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52852529"
+  },
+  {
+    "filename": "url40.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52855085"
+  },
+  {
+    "filename": "url41.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52827846"
+  },
+  {
+    "filename": "url42.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52874542"
+  },
+  {
+    "filename": "url43.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52830618"
+  },
+  {
+    "filename": "url44.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52802104"
+  },
+  {
+    "filename": "url45.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52802249"
+  },
+  {
+    "filename": "url46.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52857110"
+  },
+  {
+    "filename": "url47.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52815216"
+  },
+  {
+    "filename": "url48.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52827786"
+  },
+  {
+    "filename": "url49.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53031777"
+  },
+  {
+    "filename": "url50.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52806075"
+  },
+  {
+    "filename": "url51.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52943797"
+  },
+  {
+    "filename": "url52.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52804775"
+  },
+  {
+    "filename": "url53.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52844584"
+  },
+  {
+    "filename": "url54.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52804783"
+  },
+  {
+    "filename": "url55.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52786927"
+  },
+  {
+    "filename": "url56.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52847575"
+  },
+  {
+    "filename": "url57.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52828789"
+  },
+  {
+    "filename": "url58.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52748221"
+  },
+  {
+    "filename": "url59.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52764375"
+  },
+  {
+    "filename": "url60.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52803096"
+  },
+  {
+    "filename": "url61.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52768908"
+  },
+  {
+    "filename": "url62.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52809097"
+  },
+  {
+    "filename": "url63.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52732620"
+  },
+  {
+    "filename": "url64.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52818887"
+  },
+  {
+    "filename": "url65.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52777810"
+  },
+  {
+    "filename": "url66.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-53006103"
+  },
+  {
+    "filename": "url67.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-53036253"
+  },
+  {
+    "filename": "url68.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52795842"
+  },
+  {
+    "filename": "url69.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52761359"
+  },
+  {
+    "filename": "url70.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-53021892"
+  },
+  {
+    "filename": "url71.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52806209"
+  },
+  {
+    "filename": "url72.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52793709"
+  },
+  {
+    "filename": "url73.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52802100"
+  },
+  {
+    "filename": "url74.txt",
+    "url": "https://www.bbc.co.uk/portuguese/aprenda-ingles-53006721"
+  },
+  {
+    "filename": "url75.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52815246"
+  },
+  {
+    "filename": "url76.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52796852"
+  },
+  {
+    "filename": "url77.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52806218"
+  },
+  {
+    "filename": "url78.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52769176"
+  },
+  {
+    "filename": "url79.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52779245"
+  },
+  {
+    "filename": "url80.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52782897"
+  },
+  {
+    "filename": "url81.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52685743"
+  },
+  {
+    "filename": "url82.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53030520"
+  },
+  {
+    "filename": "url83.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52732621"
+  },
+  {
+    "filename": "url84.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52763118"
+  },
+  {
+    "filename": "url85.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52748193"
+  },
+  {
+    "filename": "url86.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52748042"
+  },
+  {
+    "filename": "url87.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52741665"
+  },
+  {
+    "filename": "url88.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52671200"
+  },
+  {
+    "filename": "url89.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52769728"
+  },
+  {
+    "filename": "url90.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52748200"
+  },
+  {
+    "filename": "url91.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52710374"
+  },
+  {
+    "filename": "url92.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52721417"
+  },
+  {
+    "filename": "url93.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52686122"
+  },
+  {
+    "filename": "url94.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-53017274"
+  },
+  {
+    "filename": "url95.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52627581"
+  },
+  {
+    "filename": "url96.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52988173"
+  },
+  {
+    "filename": "url97.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52675419"
+  },
+  {
+    "filename": "url98.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52722190"
+  },
+  {
+    "filename": "url99.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52704871"
+  },
+  {
+    "filename": "url100.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52685597"
+  },
+  {
+    "filename": "url101.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52721504"
+  },
+  {
+    "filename": "url102.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52742802"
+  },
+  {
+    "filename": "url103.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52731878"
+  },
+  {
+    "filename": "url104.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52694589"
+  },
+  {
+    "filename": "url105.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52664009"
+  },
+  {
+    "filename": "url106.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52716817"
+  },
+  {
+    "filename": "url107.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52652207"
+  },
+  {
+    "filename": "url108.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52643096"
+  },
+  {
+    "filename": "url109.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52646514"
+  },
+  {
+    "filename": "url110.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52686096"
+  },
+  {
+    "filename": "url111.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52679036"
+  },
+  {
+    "filename": "url112.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52758035"
+  },
+  {
+    "filename": "url113.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52672009"
+  },
+  {
+    "filename": "url114.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52662428"
+  },
+  {
+    "filename": "url115.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52641957"
+  },
+  {
+    "filename": "url116.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52585173"
+  },
+  {
+    "filename": "url117.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52595760"
+  },
+  {
+    "filename": "url118.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52998256"
+  },
+  {
+    "filename": "url119.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52988646"
+  },
+  {
+    "filename": "url120.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52642383"
+  },
+  {
+    "filename": "url121.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52641907"
+  },
+  {
+    "filename": "url122.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52637256"
+  },
+  {
+    "filename": "url123.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52670929"
+  },
+  {
+    "filename": "url124.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52643520"
+  },
+  {
+    "filename": "url125.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52467167"
+  },
+  {
+    "filename": "url126.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52706385"
+  },
+  {
+    "filename": "url127.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52626740"
+  },
+  {
+    "filename": "url128.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52660860"
+  },
+  {
+    "filename": "url129.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52565176"
+  },
+  {
+    "filename": "url130.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52585040"
+  },
+  {
+    "filename": "url131.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52568676"
+  },
+  {
+    "filename": "url132.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52595224"
+  },
+  {
+    "filename": "url133.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52671627"
+  },
+  {
+    "filename": "url134.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52584143"
+  },
+  {
+    "filename": "url135.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52662430"
+  },
+  {
+    "filename": "url136.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52557491"
+  },
+  {
+    "filename": "url137.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53030511"
+  },
+  {
+    "filename": "url138.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52497230"
+  },
+  {
+    "filename": "url139.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52584548"
+  },
+  {
+    "filename": "url140.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52528284"
+  },
+  {
+    "filename": "url141.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52657148"
+  },
+  {
+    "filename": "url142.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52425735"
+  },
+  {
+    "filename": "url143.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52585120"
+  },
+  {
+    "filename": "url144.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52984385"
+  },
+  {
+    "filename": "url145.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52478020"
+  },
+  {
+    "filename": "url146.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52274059"
+  },
+  {
+    "filename": "url147.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52564246"
+  },
+  {
+    "filename": "url148.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52563907"
+  },
+  {
+    "filename": "url149.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52553543"
+  },
+  {
+    "filename": "url150.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52391136"
+  },
+  {
+    "filename": "url151.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52481232"
+  },
+  {
+    "filename": "url152.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52410557"
+  },
+  {
+    "filename": "url153.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52670843"
+  },
+  {
+    "filename": "url154.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52551974"
+  },
+  {
+    "filename": "url155.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52655692"
+  },
+  {
+    "filename": "url156.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52545378"
+  },
+  {
+    "filename": "url157.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52967730"
+  },
+  {
+    "filename": "url158.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52542318"
+  },
+  {
+    "filename": "url159.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52617965"
+  },
+  {
+    "filename": "url160.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52449861"
+  },
+  {
+    "filename": "url161.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52610097"
+  },
+  {
+    "filename": "url162.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52593837"
+  },
+  {
+    "filename": "url163.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52584428"
+  },
+  {
+    "filename": "url164.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52596190"
+  },
+  {
+    "filename": "url165.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52506262"
+  },
+  {
+    "filename": "url166.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52976774"
+  },
+  {
+    "filename": "url167.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52650569"
+  },
+  {
+    "filename": "url168.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52428807"
+  },
+  {
+    "filename": "url169.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52481306"
+  },
+  {
+    "filename": "url170.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52468217"
+  },
+  {
+    "filename": "url171.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52502096"
+  },
+  {
+    "filename": "url172.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52445638"
+  },
+  {
+    "filename": "url173.txt",
+    "url": "https://www.bbc.co.uk/portuguese/vert-cul-52332892"
+  },
+  {
+    "filename": "url174.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52464892"
+  },
+  {
+    "filename": "url175.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52450307"
+  },
+  {
+    "filename": "url176.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52450516"
+  },
+  {
+    "filename": "url177.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52554336"
+  },
+  {
+    "filename": "url178.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52372237"
+  },
+  {
+    "filename": "url179.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52565196"
+  },
+  {
+    "filename": "url180.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52313890"
+  },
+  {
+    "filename": "url181.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52553731"
+  },
+  {
+    "filename": "url182.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52449791"
+  },
+  {
+    "filename": "url183.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52472202"
+  },
+  {
+    "filename": "url184.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52480775"
+  },
+  {
+    "filename": "url185.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52492181"
+  },
+  {
+    "filename": "url186.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52389645"
+  },
+  {
+    "filename": "url187.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52426184"
+  },
+  {
+    "filename": "url188.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52469624"
+  },
+  {
+    "filename": "url189.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53017656"
+  },
+  {
+    "filename": "url190.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52583719"
+  },
+  {
+    "filename": "url191.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52478246"
+  },
+  {
+    "filename": "url192.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52445365"
+  },
+  {
+    "filename": "url193.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52450312"
+  },
+  {
+    "filename": "url194.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52528282"
+  },
+  {
+    "filename": "url195.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52915490"
+  },
+  {
+    "filename": "url196.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52973839"
+  },
+  {
+    "filename": "url197.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52507575"
+  },
+  {
+    "filename": "url198.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52481818"
+  },
+  {
+    "filename": "url199.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52478247"
+  },
+  {
+    "filename": "url200.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52525236"
+  },
+  {
+    "filename": "url201.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52627294"
+  },
+  {
+    "filename": "url202.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52450618"
+  },
+  {
+    "filename": "url203.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52319520"
+  },
+  {
+    "filename": "url204.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52465275"
+  },
+  {
+    "filename": "url205.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52506223"
+  },
+  {
+    "filename": "url206.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52444332"
+  },
+  {
+    "filename": "url207.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52274791"
+  },
+  {
+    "filename": "url208.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52380209"
+  },
+  {
+    "filename": "url209.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52528275"
+  },
+  {
+    "filename": "url210.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52503323"
+  },
+  {
+    "filename": "url211.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52338443"
+  },
+  {
+    "filename": "url212.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52496785"
+  },
+  {
+    "filename": "url213.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52334034"
+  },
+  {
+    "filename": "url214.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52567527"
+  },
+  {
+    "filename": "url215.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52496343"
+  },
+  {
+    "filename": "url216.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52376240"
+  },
+  {
+    "filename": "url217.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52395178"
+  },
+  {
+    "filename": "url218.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53002585"
+  },
+  {
+    "filename": "url219.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52509734"
+  },
+  {
+    "filename": "url220.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52208724"
+  },
+  {
+    "filename": "url221.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52383811"
+  },
+  {
+    "filename": "url222.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52365489"
+  },
+  {
+    "filename": "url223.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52413570"
+  },
+  {
+    "filename": "url224.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52449017"
+  },
+  {
+    "filename": "url225.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52449013"
+  },
+  {
+    "filename": "url226.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52409204"
+  },
+  {
+    "filename": "url227.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52322550"
+  },
+  {
+    "filename": "url228.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52510799"
+  },
+  {
+    "filename": "url229.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52247892"
+  },
+  {
+    "filename": "url230.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52974325"
+  },
+  {
+    "filename": "url231.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-51483271"
+  },
+  {
+    "filename": "url232.txt",
+    "url": "https://www.bbc.co.uk/portuguese/curiosidades-52442513"
+  },
+  {
+    "filename": "url233.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52390830"
+  },
+  {
+    "filename": "url234.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52485030"
+  },
+  {
+    "filename": "url235.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52466020"
+  },
+  {
+    "filename": "url236.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52248493"
+  },
+  {
+    "filename": "url237.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52497090"
+  },
+  {
+    "filename": "url238.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52454928"
+  },
+  {
+    "filename": "url239.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52333702"
+  },
+  {
+    "filename": "url240.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-53016626"
+  },
+  {
+    "filename": "url241.txt",
+    "url": "https://www.bbc.co.uk/portuguese/vert-fut-52240004"
+  },
+  {
+    "filename": "url242.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52345980"
+  },
+  {
+    "filename": "url243.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52406404"
+  },
+  {
+    "filename": "url244.txt",
+    "url": "https://www.bbc.co.uk/portuguese/salasocial-52442522"
+  },
+  {
+    "filename": "url245.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52376867"
+  },
+  {
+    "filename": "url246.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52271066"
+  },
+  {
+    "filename": "url247.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52366530"
+  },
+  {
+    "filename": "url248.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52496815"
+  },
+  {
+    "filename": "url249.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52398538"
+  },
+  {
+    "filename": "url250.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52361730"
+  },
+  {
+    "filename": "url251.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52210183"
+  },
+  {
+    "filename": "url252.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52375292"
+  },
+  {
+    "filename": "url253.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52238950"
+  },
+  {
+    "filename": "url254.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52375221"
+  },
+  {
+    "filename": "url255.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52357879"
+  },
+  {
+    "filename": "url256.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52383150"
+  },
+  {
+    "filename": "url257.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52363004"
+  },
+  {
+    "filename": "url258.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52264307"
+  },
+  {
+    "filename": "url259.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52462544"
+  },
+  {
+    "filename": "url260.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52365486"
+  },
+  {
+    "filename": "url261.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52378936"
+  },
+  {
+    "filename": "url262.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52308685"
+  },
+  {
+    "filename": "url263.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52342040"
+  },
+  {
+    "filename": "url264.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52342172"
+  },
+  {
+    "filename": "url265.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52329579"
+  },
+  {
+    "filename": "url266.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52267566"
+  },
+  {
+    "filename": "url267.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52212898"
+  },
+  {
+    "filename": "url268.txt",
+    "url": "https://www.bbc.co.uk/portuguese/vert-cap-52235527"
+  },
+  {
+    "filename": "url269.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52129338"
+  },
+  {
+    "filename": "url270.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52128998"
+  },
+  {
+    "filename": "url271.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52202055"
+  },
+  {
+    "filename": "url272.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52295764"
+  },
+  {
+    "filename": "url273.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52317267"
+  },
+  {
+    "filename": "url274.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52276340"
+  },
+  {
+    "filename": "url275.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52236455"
+  },
+  {
+    "filename": "url276.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52380207"
+  },
+  {
+    "filename": "url277.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52450510"
+  },
+  {
+    "filename": "url278.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52308504"
+  },
+  {
+    "filename": "url279.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52292935"
+  },
+  {
+    "filename": "url280.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52275321"
+  },
+  {
+    "filename": "url281.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52277776"
+  },
+  {
+    "filename": "url282.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52178060"
+  },
+  {
+    "filename": "url283.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52304229"
+  },
+  {
+    "filename": "url284.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52332235"
+  },
+  {
+    "filename": "url285.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52913942"
+  },
+  {
+    "filename": "url286.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52287407"
+  },
+  {
+    "filename": "url287.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52333178"
+  },
+  {
+    "filename": "url288.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52209630"
+  },
+  {
+    "filename": "url289.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52050342"
+  },
+  {
+    "filename": "url290.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52372233"
+  },
+  {
+    "filename": "url291.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52299974"
+  },
+  {
+    "filename": "url292.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52304842"
+  },
+  {
+    "filename": "url293.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52210067"
+  },
+  {
+    "filename": "url294.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52087136"
+  },
+  {
+    "filename": "url295.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52239099"
+  },
+  {
+    "filename": "url296.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52239168"
+  },
+  {
+    "filename": "url297.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52035464"
+  },
+  {
+    "filename": "url298.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52283969"
+  },
+  {
+    "filename": "url299.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52235230"
+  },
+  {
+    "filename": "url300.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52192732"
+  },
+  {
+    "filename": "url301.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52154128"
+  },
+  {
+    "filename": "url302.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52170288"
+  },
+  {
+    "filename": "url303.txt",
+    "url": "https://www.bbc.co.uk/portuguese/vert-cap-52146691"
+  },
+  {
+    "filename": "url304.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52333180"
+  },
+  {
+    "filename": "url305.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52217285"
+  },
+  {
+    "filename": "url306.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52270073"
+  },
+  {
+    "filename": "url307.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52333174"
+  },
+  {
+    "filename": "url308.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52316437"
+  },
+  {
+    "filename": "url309.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52176461"
+  },
+  {
+    "filename": "url310.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52143119"
+  },
+  {
+    "filename": "url311.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52333349"
+  },
+  {
+    "filename": "url312.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52201993"
+  },
+  {
+    "filename": "url313.txt",
+    "url": "https://www.bbc.co.uk/portuguese/vert-fut-52239918"
+  },
+  {
+    "filename": "url314.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52333357"
+  },
+  {
+    "filename": "url315.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52100133"
+  },
+  {
+    "filename": "url316.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52030530"
+  },
+  {
+    "filename": "url317.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52226832"
+  },
+  {
+    "filename": "url318.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52192736"
+  },
+  {
+    "filename": "url319.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52276029"
+  },
+  {
+    "filename": "url320.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52304249"
+  },
+  {
+    "filename": "url321.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52303032"
+  },
+  {
+    "filename": "url322.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-51842518"
+  },
+  {
+    "filename": "url323.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52224123"
+  },
+  {
+    "filename": "url324.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52212033"
+  },
+  {
+    "filename": "url325.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52141910"
+  },
+  {
+    "filename": "url326.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52130932"
+  },
+  {
+    "filename": "url327.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52262728"
+  },
+  {
+    "filename": "url328.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52152324"
+  },
+  {
+    "filename": "url329.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52391413"
+  },
+  {
+    "filename": "url330.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52193957"
+  },
+  {
+    "filename": "url331.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52038851"
+  },
+  {
+    "filename": "url332.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52302892"
+  },
+  {
+    "filename": "url333.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52185577"
+  },
+  {
+    "filename": "url334.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52224252"
+  },
+  {
+    "filename": "url335.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52250452"
+  },
+  {
+    "filename": "url336.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52988819"
+  },
+  {
+    "filename": "url337.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52238530"
+  },
+  {
+    "filename": "url338.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52021589"
+  },
+  {
+    "filename": "url339.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52262749"
+  },
+  {
+    "filename": "url340.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52135052"
+  },
+  {
+    "filename": "url341.txt",
+    "url": "https://www.bbc.co.uk/portuguese/brasil-52301406"
+  },
+  {
+    "filename": "url342.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52100140"
+  },
+  {
+    "filename": "url343.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52136748"
+  },
+  {
+    "filename": "url344.txt",
+    "url": "https://www.bbc.co.uk/portuguese/salasocial-52011302"
+  },
+  {
+    "filename": "url345.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52089806"
+  },
+  {
+    "filename": "url346.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52090542"
+  },
+  {
+    "filename": "url347.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52194322"
+  },
+  {
+    "filename": "url348.txt",
+    "url": "https://www.bbc.co.uk/portuguese/geral-52114980"
+  },
+  {
+    "filename": "url349.txt",
+    "url": "https://www.bbc.co.uk/portuguese/internacional-52232601"
+  }
+]
